@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trắc Nghiệm Lịch Sử - JSON Version</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <!-- Màn hình chọn bộ câu hỏi -->
+        <div id="selection-screen" class="screen active">
+            <div class="header">
+                <h1>🎯 Trắc Nghiệm Lịch Sử</h1>
+                <p>Kỷ niệm 80 năm Cách mạng Tháng 8 thành công và Quốc khánh 2/9</p>
+                <p><strong>Phiên bản JSON - Dữ liệu động</strong></p>
+            </div>
+            
+            <div class="selection-content">
+                <h2>Chọn bộ câu hỏi:</h2>
+                <div class="question-sets">
+                    <div class="question-set">
+                        <input type="checkbox" id="part1" value="part1">
+                        <label for="part1">
+                            <div class="set-info">
+                                <h3>📚 Phần 1: Cách mạng Tháng 8 và Quốc khánh 2/9</h3>
+                                <p>Đang tải dữ liệu...</p>
+                            </div>
+                        </label>
+                    </div>
+                    
+                    <div class="question-set">
+                        <input type="checkbox" id="part2" value="part2">
+                        <label for="part2">
+                            <div class="set-info">
+                                <h3>👤 Phần 2: Cuộc đời Chủ tịch Hồ Chí Minh</h3>
+                                <p>Đang tải dữ liệu...</p>
+                            </div>
+                        </label>
+                    </div>
+                    
+                    <div class="question-set">
+                        <input type="checkbox" id="part3" value="part3">
+                        <label for="part3">
+                            <div class="set-info">
+                                <h3>🏛️ Phần 3: Thành tựu 80 năm và giai đoạn 1945-1969</h3>
+                                <p>Đang tải dữ liệu...</p>
+                            </div>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="actions">
+                    <button id="select-all" class="btn btn-secondary">Chọn tất cả</button>
+                    <button id="start-quiz" class="btn btn-primary" disabled>Bắt đầu làm bài</button>
+                </div>
+                
+                <div id="loading-status" style="text-align: center; margin-top: 20px; color: #666;">
+                    <p>🔄 Đang tải dữ liệu từ JSON...</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Màn hình làm bài -->
+        <div id="quiz-screen" class="screen">
+            <div class="quiz-header">
+                <div class="progress-info">
+                    <span id="current-question">1</span> / <span id="total-questions">20</span>
+                </div>
+                <div class="timer">
+                    <span id="time-left">20:00</span>
+                </div>
+            </div>
+            
+            <div class="progress-bar">
+                <div id="progress-fill"></div>
+            </div>
+            
+            <div class="question-container">
+                <h2 id="question-text"></h2>
+                <div class="options">
+                    <div class="option" data-option="A">
+                        <span class="option-label">A</span>
+                        <span class="option-text" id="option-a"></span>
+                    </div>
+                    <div class="option" data-option="B">
+                        <span class="option-label">B</span>
+                        <span class="option-text" id="option-b"></span>
+                    </div>
+                    <div class="option" data-option="C">
+                        <span class="option-label">C</span>
+                        <span class="option-text" id="option-c"></span>
+                    </div>
+                    <div class="option" data-option="D">
+                        <span class="option-label">D</span>
+                        <span class="option-text" id="option-d"></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="quiz-actions">
+                <button id="prev-question" class="btn btn-secondary" disabled>← Câu trước</button>
+                <button id="next-question" class="btn btn-primary">Câu tiếp →</button>
+                <button id="submit-quiz" class="btn btn-success" style="display: none;">Nộp bài</button>
+            </div>
+        </div>
+
+        <!-- Màn hình kết quả -->
+        <div id="result-screen" class="screen">
+            <div class="result-header">
+                <h1>🎉 Kết quả bài thi</h1>
+            </div>
+            
+            <div class="result-content">
+                <div class="score-display">
+                    <div class="score-circle">
+                        <span id="score-percentage">0%</span>
+                    </div>
+                    <p>Bạn đã trả lời đúng <span id="correct-answers">0</span>/<span id="total-answered">20</span> câu</p>
+                </div>
+                
+                <div class="result-details">
+                    <h3>Chi tiết bài làm:</h3>
+                    <div id="question-review"></div>
+                </div>
+            </div>
+            
+            <div class="result-actions">
+                <button id="new-quiz" class="btn btn-primary">Làm bài mới</button>
+                <button id="back-to-selection" class="btn btn-secondary">Về trang chủ</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

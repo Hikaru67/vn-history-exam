@@ -1,0 +1,272 @@
+/home/hikaru/.pyenv/shims/python3:3
+[ -n "$PYENV_DEBUG" ] && set -x
+     ^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at wrapSafe (internal/modules/cjs/loader.js:1029:16)
+    at Module._compile (internal/modules/cjs/loader.js:1078:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at /home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+    at next (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/waterfall.js:96:20)
+    at /home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/internal/onlyOnce.js:12:16
+    at WriteStream.<anonymous> (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/lib/Utility.js:186:13)
+/home/hikaru/.pyenv/shims/python3:3
+[ -n "$PYENV_DEBUG" ] && set -x
+     ^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at wrapSafe (internal/modules/cjs/loader.js:1029:16)
+    at Module._compile (internal/modules/cjs/loader.js:1078:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at /home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+    at next (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/waterfall.js:96:20)
+    at /home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/internal/onlyOnce.js:12:16
+    at WriteStream.<anonymous> (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/lib/Utility.js:186:13)
+/home/hikaru/.pyenv/shims/python3:3
+[ -n "$PYENV_DEBUG" ] && set -x
+     ^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at wrapSafe (internal/modules/cjs/loader.js:1029:16)
+    at Module._compile (internal/modules/cjs/loader.js:1078:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at /home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+    at next (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/waterfall.js:96:20)
+    at /home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/internal/onlyOnce.js:12:16
+    at WriteStream.<anonymous> (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/lib/Utility.js:186:13)
+/home/hikaru/.pyenv/shims/python3:3
+[ -n "$PYENV_DEBUG" ] && set -x
+     ^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at wrapSafe (internal/modules/cjs/loader.js:1029:16)
+    at Module._compile (internal/modules/cjs/loader.js:1078:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at /home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+    at next (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/waterfall.js:96:20)
+    at /home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/internal/onlyOnce.js:12:16
+    at WriteStream.<anonymous> (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/lib/Utility.js:186:13)
+/home/hikaru/.pyenv/shims/python3:3
+[ -n "$PYENV_DEBUG" ] && set -x
+     ^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at wrapSafe (internal/modules/cjs/loader.js:1029:16)
+    at Module._compile (internal/modules/cjs/loader.js:1078:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at /home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+    at next (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/waterfall.js:96:20)
+    at /home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/internal/onlyOnce.js:12:16
+    at WriteStream.<anonymous> (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/lib/Utility.js:186:13)
+/home/hikaru/.pyenv/shims/python3:3
+[ -n "$PYENV_DEBUG" ] && set -x
+     ^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at wrapSafe (internal/modules/cjs/loader.js:1029:16)
+    at Module._compile (internal/modules/cjs/loader.js:1078:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at /home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+    at next (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/waterfall.js:96:20)
+    at /home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/internal/onlyOnce.js:12:16
+    at WriteStream.<anonymous> (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/lib/Utility.js:186:13)
+/home/hikaru/.pyenv/shims/python3:3
+[ -n "$PYENV_DEBUG" ] && set -x
+     ^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at wrapSafe (internal/modules/cjs/loader.js:1029:16)
+    at Module._compile (internal/modules/cjs/loader.js:1078:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at /home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+    at next (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/waterfall.js:96:20)
+    at /home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/internal/onlyOnce.js:12:16
+    at WriteStream.<anonymous> (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/lib/Utility.js:186:13)
+/home/hikaru/.pyenv/shims/python3:3
+[ -n "$PYENV_DEBUG" ] && set -x
+     ^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at wrapSafe (internal/modules/cjs/loader.js:1029:16)
+    at Module._compile (internal/modules/cjs/loader.js:1078:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at /home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+    at next (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/waterfall.js:96:20)
+    at /home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/internal/onlyOnce.js:12:16
+    at WriteStream.<anonymous> (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/lib/Utility.js:186:13)
+/home/hikaru/.pyenv/shims/python3:3
+[ -n "$PYENV_DEBUG" ] && set -x
+     ^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at wrapSafe (internal/modules/cjs/loader.js:1029:16)
+    at Module._compile (internal/modules/cjs/loader.js:1078:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at /home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+    at next (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/waterfall.js:96:20)
+    at /home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/internal/onlyOnce.js:12:16
+    at WriteStream.<anonymous> (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/lib/Utility.js:186:13)
+/home/hikaru/.pyenv/shims/python3:3
+[ -n "$PYENV_DEBUG" ] && set -x
+     ^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at wrapSafe (internal/modules/cjs/loader.js:1029:16)
+    at Module._compile (internal/modules/cjs/loader.js:1078:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at /home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+    at next (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/waterfall.js:96:20)
+    at /home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/internal/onlyOnce.js:12:16
+    at WriteStream.<anonymous> (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/lib/Utility.js:186:13)
+/home/hikaru/.pyenv/shims/python3:3
+[ -n "$PYENV_DEBUG" ] && set -x
+     ^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at wrapSafe (internal/modules/cjs/loader.js:1029:16)
+    at Module._compile (internal/modules/cjs/loader.js:1078:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at /home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+    at next (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/waterfall.js:96:20)
+    at /home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/internal/onlyOnce.js:12:16
+    at WriteStream.<anonymous> (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/lib/Utility.js:186:13)
+/home/hikaru/.pyenv/shims/python3:3
+[ -n "$PYENV_DEBUG" ] && set -x
+     ^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at wrapSafe (internal/modules/cjs/loader.js:1029:16)
+    at Module._compile (internal/modules/cjs/loader.js:1078:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at /home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+    at next (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/waterfall.js:96:20)
+    at /home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/internal/onlyOnce.js:12:16
+    at WriteStream.<anonymous> (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/lib/Utility.js:186:13)
+/home/hikaru/.pyenv/shims/python3:3
+[ -n "$PYENV_DEBUG" ] && set -x
+     ^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at wrapSafe (internal/modules/cjs/loader.js:1029:16)
+    at Module._compile (internal/modules/cjs/loader.js:1078:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at /home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+    at next (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/waterfall.js:96:20)
+    at /home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/internal/onlyOnce.js:12:16
+    at WriteStream.<anonymous> (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/lib/Utility.js:186:13)
+/home/hikaru/.pyenv/shims/python3:3
+[ -n "$PYENV_DEBUG" ] && set -x
+     ^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at wrapSafe (internal/modules/cjs/loader.js:1029:16)
+    at Module._compile (internal/modules/cjs/loader.js:1078:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at /home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+    at next (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/waterfall.js:96:20)
+    at /home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/internal/onlyOnce.js:12:16
+    at WriteStream.<anonymous> (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/lib/Utility.js:186:13)
+/home/hikaru/.pyenv/shims/python3:3
+[ -n "$PYENV_DEBUG" ] && set -x
+     ^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at wrapSafe (internal/modules/cjs/loader.js:1029:16)
+    at Module._compile (internal/modules/cjs/loader.js:1078:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at /home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+    at next (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/waterfall.js:96:20)
+    at /home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/internal/onlyOnce.js:12:16
+    at WriteStream.<anonymous> (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/lib/Utility.js:186:13)
+/home/hikaru/.pyenv/shims/python3:3
+[ -n "$PYENV_DEBUG" ] && set -x
+     ^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at wrapSafe (internal/modules/cjs/loader.js:1029:16)
+    at Module._compile (internal/modules/cjs/loader.js:1078:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at /home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+    at next (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/waterfall.js:96:20)
+    at /home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/node_modules/async/internal/onlyOnce.js:12:16
+    at WriteStream.<anonymous> (/home/hikaru/.nvm/versions/node/v14.21.3/lib/node_modules/pm2/lib/Utility.js:186:13)
+2025-08-20T14:05:51: ❌ Lỗi: [Errno 98] Address already in use
+2025-08-20T14:05:52: ❌ Lỗi: [Errno 98] Address already in use
+2025-08-20T14:05:52: ❌ Lỗi: [Errno 98] Address already in use
+2025-08-20T14:05:53: ❌ Lỗi: [Errno 98] Address already in use
+2025-08-20T14:05:54: ❌ Lỗi: [Errno 98] Address already in use
+2025-08-20T14:05:54: ❌ Lỗi: [Errno 98] Address already in use
+2025-08-20T14:05:55: ❌ Lỗi: [Errno 98] Address already in use
+2025-08-20T14:05:56: ❌ Lỗi: [Errno 98] Address already in use
+2025-08-20T14:05:56: ❌ Lỗi: [Errno 98] Address already in use
+2025-08-20T14:05:57: ❌ Lỗi: [Errno 98] Address already in use
+2025-08-20T14:05:57: ❌ Lỗi: [Errno 98] Address already in use
+2025-08-20T14:05:57: 
+2025-08-20T14:05:58: ❌ Lỗi: [Errno 98] Address already in use
+2025-08-20T14:05:59: ❌ Lỗi: [Errno 98] Address already in use
+2025-08-20T14:05:59: ❌ Lỗi: [Errno 98] Address already in use
+2025-08-20T14:06:00: ❌ Lỗi: [Errno 98] Address already in use
+2025-08-20T14:06:00: 
+2025-08-20T14:06:01: ❌ Lỗi: [Errno 98] Address already in use
+2025-08-20T14:07:11: 🚀 Server đang chạy trên http://localhost:8003
+2025-08-20T14:07:11: 📁 Thư mục: /home/hikaru/tracnghiem
+2025-08-20T14:07:11: ⏹️  Nhấn Ctrl+C để dừng server
+2025-08-20T14:07:22: 127.0.0.1 - - [20/Aug/2025 14:07:22] "GET /index_json.html HTTP/1.1" 200 -
+2025-08-20T14:08:24: 
+2025-08-20T14:08:24: 🛑 Server đã dừng
+2025-08-20T14:08:25: 🚀 Server đang chạy trên http://localhost:8003
+2025-08-20T14:08:25: 📁 Thư mục: /home/hikaru/tracnghiem
+2025-08-20T14:08:25: ⏹️  Nhấn Ctrl+C để dừng server
+2025-08-20T14:12:24: 
+2025-08-20T14:12:24: 🛑 Server đã dừng
+2025-08-20T14:12:25: 🚀 Server đang chạy trên http://localhost:8003
+2025-08-20T14:12:25: 📁 Thư mục: /home/hikaru/tracnghiem
+2025-08-20T14:12:25: ⏹️  Nhấn Ctrl+C để dừng server

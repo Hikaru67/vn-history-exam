@@ -1,0 +1,885 @@
+{
+  "title": "Cuộc đời Chủ tịch Hồ Chí Minh",
+  "questions": [
+    {
+      "id": 71,
+      "question": "Chủ tịch Hồ Chí Minh sinh ngày nào?",
+      "options": {
+        "A": "19/05/1890",
+        "B": "19/05/1891",
+        "C": "19/05/1889",
+        "D": "19/05/1892"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 72,
+      "question": "Chủ tịch Hồ Chí Minh sinh tại đâu?",
+      "options": {
+        "A": "Làng Hoàng Trù (thường gọi là làng Trùa) huyện Nam Đàn (cũ), tỉnh Nghệ An",
+        "B": "Làng Kim Liên huyện Nam Đàn, tỉnh Nghệ An",
+        "C": "Làng Sen huyện Nam Đàn, tỉnh Nghệ An",
+        "D": "Làng Chùa huyện Nam Đàn, tỉnh Nghệ An"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 73,
+      "question": "Thân phụ của Chủ tịch Hồ Chí Minh là ai?",
+      "options": {
+        "A": "Nguyễn Sinh Sắc",
+        "B": "Nguyễn Sinh Khiêm",
+        "C": "Nguyễn Sinh Huy",
+        "D": "Nguyễn Sinh Nhậm"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 74,
+      "question": "Thân mẫu của Chủ tịch Hồ Chí Minh là ai?",
+      "options": {
+        "A": "Hoàng Thị Loan",
+        "B": "Hoàng Thị An",
+        "C": "Hoàng Thị Lý",
+        "D": "Hoàng Thị Mai"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 75,
+      "question": "Chủ tịch Hồ Chí Minh sinh ra trong một gia đình như thế nào?",
+      "options": {
+        "A": "Gia đình nhà Nho yêu nước",
+        "B": "Gia đình nông dân",
+        "C": "Gia đình công nhân",
+        "D": "Gia đình thương nhân"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 76,
+      "question": "Ngay từ thuở nhỏ, Chủ tịch Hồ Chí Minh đã tiếp thu được điều gì từ gia đình và quê hương đất nước?",
+      "options": {
+        "A": "Truyền thống yêu nước, lòng nhân ái",
+        "B": "Truyền thống học tập, lòng hiếu thảo",
+        "C": "Truyền thống lao động, lòng cần cù",
+        "D": "Truyền thống văn hóa, lòng nhân nghĩa"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 77,
+      "question": "Trong thời gian 10 năm sống ở Huế, Chủ tịch Hồ Chí Minh tiếp xúc với điều gì?",
+      "options": {
+        "A": "Nhiều sách báo Pháp, với nền văn hóa mới và những bàn luận về các phong trào chống Pháp của các sĩ phu yêu nước",
+        "B": "Nhiều sách báo Việt Nam, với nền văn hóa truyền thống",
+        "C": "Nhiều sách báo quốc tế, với nền văn hóa hiện đại",
+        "D": "Nhiều sách báo cách mạng, với nền văn hóa dân tộc"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 78,
+      "question": "Sống trong hoàn cảnh đất nước chìm dưới ách đô hộ của thực dân Pháp, Chủ tịch Hồ Chí Minh đã chứng kiến điều gì?",
+      "options": {
+        "A": "Sự đối lập giữa cuộc sống lao động nghèo khổ của nhân dân với cảnh sống xa hoa, phè phỡn của bọn thực dân Pháp",
+        "B": "Sự đối lập giữa cuộc sống nông dân với cuộc sống thành thị",
+        "C": "Sự đối lập giữa cuộc sống miền xuôi với cuộc sống miền ngược",
+        "D": "Sự đối lập giữa cuộc sống cũ với cuộc sống mới"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 79,
+      "question": "Chủ tịch Hồ Chí Minh đã thấy được những cuộc biểu tình chống sưu thuế của nông dân bị đàn áp như thế nào?",
+      "options": {
+        "A": "Dã man",
+        "B": "Tàn bạo",
+        "C": "Khốc liệt",
+        "D": "Nghiêm khắc"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 80,
+      "question": "Theo Chủ tịch Hồ Chí Minh, muốn cứu nước phải làm gì?",
+      "options": {
+        "A": "Phải tìm ra một con đường cách mạng mới",
+        "B": "Phải đấu tranh vũ trang",
+        "C": "Phải đấu tranh chính trị",
+        "D": "Phải học tập nước ngoài"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 81,
+      "question": "Tình yêu quê hương, đất nước và gia đình đã hình thành nên người thanh niên Nguyễn Tất Thành một nhân cách như thế nào?",
+      "options": {
+        "A": "Giàu lòng yêu nước, có hoài bão cứu nước cứu dân và thấu hiểu được sức mạnh của ý chí độc lập tự cường của dân tộc",
+        "B": "Giàu lòng nhân ái, có hoài bão học tập và thấu hiểu được sức mạnh của tri thức",
+        "C": "Giàu lòng dũng cảm, có hoài bão chiến đấu và thấu hiểu được sức mạnh của vũ khí",
+        "D": "Giàu lòng cần cù, có hoài bão lao động và thấu hiểu được sức mạnh của kinh tế"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 82,
+      "question": "Với một ý chí nghị lực phi thường, Chủ tịch Hồ Chí Minh đã quyết tâm làm gì?",
+      "options": {
+        "A": "Tìm cách sang Pháp và các nước phương Tây",
+        "B": "Tìm cách học tập trong nước",
+        "C": "Tìm cách đấu tranh trong nước",
+        "D": "Tìm cách xây dựng đất nước"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 83,
+      "question": "Chủ tịch Hồ Chí Minh khẳng định điều gì về dân tộc Việt Nam?",
+      "options": {
+        "A": "Dân tộc Việt Nam đang là một dân tộc mất quyền độc lập",
+        "B": "Dân tộc Việt Nam đang là một dân tộc nghèo đói",
+        "C": "Dân tộc Việt Nam đang là một dân tộc lạc hậu",
+        "D": "Dân tộc Việt Nam đang là một dân tộc yếu kém"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 84,
+      "question": "Nhiệm vụ của những người Việt Nam yêu nước là gì?",
+      "options": {
+        "A": "Phải đấu tranh giành lại quyền độc lập",
+        "B": "Phải học tập để phát triển đất nước",
+        "C": "Phải lao động để xây dựng đất nước",
+        "D": "Phải đoàn kết để bảo vệ đất nước"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 85,
+      "question": "Ngày 05/06/1911, Chủ tịch Hồ Chí Minh lên con tàu nào?",
+      "options": {
+        "A": "Đô đốc Latútsơ Tơrêvin",
+        "B": "Đô đốc Latútsơ Tơrêvin",
+        "C": "Đô đốc Latútsơ Tơrêvin",
+        "D": "Đô đốc Latútsơ Tơrêvin"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 86,
+      "question": "Chủ tịch Hồ Chí Minh rời Tổ quốc từ bến cảng nào?",
+      "options": {
+        "A": "Bến cảng Nhà Rồng, thành phố Sài Gòn",
+        "B": "Bến cảng Hải Phòng",
+        "C": "Bến cảng Đà Nẵng",
+        "D": "Bến cảng Vũng Tàu"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 87,
+      "question": "Chủ tịch Hồ Chí Minh vừa lao động để kiếm sống, vừa làm gì?",
+      "options": {
+        "A": "Học tập, nghiên cứu các học thuyết cách mạng",
+        "B": "Học tập, nghiên cứu các ngôn ngữ nước ngoài",
+        "C": "Học tập, nghiên cứu các văn hóa nước ngoài",
+        "D": "Học tập, nghiên cứu các khoa học kỹ thuật"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 88,
+      "question": "Khi trả lời phỏng vấn một nhà báo Nga, Chủ tịch Hồ Chí Minh nói điều gì?",
+      "options": {
+        "A": "\"Khi tôi độ mười ba tuổi, lần đầu tiên tôi được nghe ba chữ Pháp Tự do, Bình đẳng, Bác ái\"",
+        "B": "\"Khi tôi độ mười ba tuổi, lần đầu tiên tôi được nghe về cách mạng\"",
+        "C": "\"Khi tôi độ mười ba tuổi, lần đầu tiên tôi được nghe về nước Pháp\"",
+        "D": "\"Khi tôi độ mười ba tuổi, lần đầu tiên tôi được nghe về chủ nghĩa thực dân\""
+      },
+      "correct": "A"
+    },
+    {
+      "id": 89,
+      "question": "Chủ tịch Hồ Chí Minh rất muốn làm quen với điều gì?",
+      "options": {
+        "A": "Nền văn minh Pháp, muốn tìm xem những gì ẩn giấu đằng sau những chữ ấy",
+        "B": "Nền văn hóa Pháp, muốn tìm hiểu về đất nước Pháp",
+        "C": "Nền khoa học Pháp, muốn học tập kỹ thuật",
+        "D": "Nền giáo dục Pháp, muốn học tập tri thức"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 90,
+      "question": "Khi được chứng kiến ở Pháp cũng có những người nghèo như ở Việt Nam, Chủ tịch Hồ Chí Minh nhận ra điều gì?",
+      "options": {
+        "A": "Những người Pháp trên đất Pháp tốt và lịch sự hơn những bọn thực dân Pháp ở Đông Dương",
+        "B": "Những người Pháp trên đất Pháp giàu có hơn những người Việt Nam",
+        "C": "Những người Pháp trên đất Pháp văn minh hơn những người Việt Nam",
+        "D": "Những người Pháp trên đất Pháp hiểu biết hơn những người Việt Nam"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 91,
+      "question": "Từ năm 1911 đến năm 1917, Chủ tịch Hồ Chí Minh đã đến nhiều nước ở đâu?",
+      "options": {
+        "A": "Châu Á, châu Âu, châu Phi, châu Mỹ",
+        "B": "Châu Âu, châu Mỹ, châu Úc",
+        "C": "Châu Á, châu Âu, châu Phi",
+        "D": "Châu Âu, châu Mỹ, châu Phi"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 92,
+      "question": "Chủ tịch Hồ Chí Minh đã tận mắt thấy điều gì?",
+      "options": {
+        "A": "Cuộc sống khổ cực của nhân dân và những tội ác, thủ đoạn của chủ nghĩa thực dân",
+        "B": "Cuộc sống giàu có của nhân dân và những thành tựu của chủ nghĩa tư bản",
+        "C": "Cuộc sống văn minh của nhân dân và những tiến bộ của xã hội",
+        "D": "Cuộc sống hiện đại của nhân dân và những phát triển của khoa học"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 93,
+      "question": "Chủ tịch Hồ Chí Minh cho rằng nhân dân lao động các nước, trong đó có giai cấp công nhân, đều bị bóc lột có thể là gì của nhau?",
+      "options": {
+        "A": "Bạn của nhau",
+        "B": "Đồng chí của nhau",
+        "C": "Anh em của nhau",
+        "D": "Bà con của nhau"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 94,
+      "question": "Chủ tịch Hồ Chí Minh cho rằng chủ nghĩa đế quốc, bọn thực dân ở đâu cũng là gì?",
+      "options": {
+        "A": "Kẻ bóc lột, là kẻ thù của nhân dân lao động",
+        "B": "Kẻ xâm lược, là kẻ thù của các dân tộc",
+        "C": "Kẻ áp bức, là kẻ thù của nhân dân",
+        "D": "Kẻ bóc lột, là kẻ thù của cách mạng"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 95,
+      "question": "Năm 1917, Chủ tịch Hồ Chí Minh tham gia phong trào gì?",
+      "options": {
+        "A": "Phong trào công nhân Pháp đấu tranh chống chủ nghĩa thực dân",
+        "B": "Phong trào nông dân Pháp đấu tranh chống chủ nghĩa thực dân",
+        "C": "Phong trào thanh niên Pháp đấu tranh chống chủ nghĩa thực dân",
+        "D": "Phong trào trí thức Pháp đấu tranh chống chủ nghĩa thực dân"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 96,
+      "question": "Năm 1919, Chủ tịch Hồ Chí Minh tham gia tổ chức nào?",
+      "options": {
+        "A": "\"Hội những người Việt Nam yêu nước\"",
+        "B": "\"Hội những người Việt Nam cách mạng\"",
+        "C": "\"Hội những người Việt Nam độc lập\"",
+        "D": "\"Hội những người Việt Nam tự do\""
+      },
+      "correct": "A"
+    },
+    {
+      "id": 97,
+      "question": "Năm 1919, Chủ tịch Hồ Chí Minh vào đảng nào?",
+      "options": {
+        "A": "Đảng Xã hội Pháp",
+        "B": "Đảng Cộng sản Pháp",
+        "C": "Đảng Dân chủ Pháp",
+        "D": "Đảng Tự do Pháp"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 98,
+      "question": "Đảng Xã hội Pháp là đảng của giai cấp nào?",
+      "options": {
+        "A": "Giai cấp công nhân Pháp",
+        "B": "Giai cấp tư sản Pháp",
+        "C": "Giai cấp nông dân Pháp",
+        "D": "Giai cấp trí thức Pháp"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 99,
+      "question": "Theo Chủ tịch Hồ Chí Minh, Đảng Xã hội Pháp là tổ chức theo đuổi lý tưởng cao quý của gì?",
+      "options": {
+        "A": "Đại Cách mạng Pháp: Tự do, Bình đẳng, Bác ái",
+        "B": "Cách mạng tư sản Pháp: Tự do, Bình đẳng, Bác ái",
+        "C": "Cách mạng dân chủ Pháp: Tự do, Bình đẳng, Bác ái",
+        "D": "Cách mạng xã hội Pháp: Tự do, Bình đẳng, Bác ái"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 100,
+      "question": "Chủ tịch Hồ Chí Minh đã cùng với một số nhà yêu nước Việt Nam thảo ra bản gì?",
+      "options": {
+        "A": "Yêu sách của nhân dân An Nam",
+        "B": "Tuyên ngôn của nhân dân An Nam",
+        "C": "Bản cáo trạng của nhân dân An Nam",
+        "D": "Bản kiến nghị của nhân dân An Nam"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 101,
+      "question": "Bản Yêu sách của nhân dân An Nam lấy tên gì gửi Hội nghị Vécxây?",
+      "options": {
+        "A": "Nguyễn Ái Quốc",
+        "B": "Nguyễn Tất Thành",
+        "C": "Nguyễn Sinh Cung",
+        "D": "Hồ Chí Minh"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 102,
+      "question": "Bản Yêu sách của nhân dân An Nam đòi quyền gì cho nhân dân Việt Nam?",
+      "options": {
+        "A": "Quyền tự do dân chủ",
+        "B": "Quyền độc lập tự do",
+        "C": "Quyền bình đẳng dân chủ",
+        "D": "Quyền tự do bình đẳng"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 103,
+      "question": "Đây là tiếng nói chính nghĩa đầu tiên của ai?",
+      "options": {
+        "A": "Đại biểu phong trào giải phóng dân tộc",
+        "B": "Đại biểu phong trào cách mạng",
+        "C": "Đại biểu phong trào dân chủ",
+        "D": "Đại biểu phong trào độc lập"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 104,
+      "question": "Chủ tịch Hồ Chí Minh khẳng định các dân tộc muốn được giải phóng chỉ có thể dựa vào đâu?",
+      "options": {
+        "A": "Sức của bản thân mình",
+        "B": "Sự giúp đỡ của quốc tế",
+        "C": "Sự ủng hộ của các nước",
+        "D": "Sự viện trợ của nước ngoài"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 105,
+      "question": "Chủ tịch Hồ Chí Minh viết: \"Muốn được giải phóng, các dân tộc chỉ có thể trông cậy vào mình, trông cậy vào lực lượng của bản thân mình\". Điều này thể hiện tư tưởng gì?",
+      "options": {
+        "A": "Tư tưởng tự lực tự cường",
+        "B": "Tư tưởng đoàn kết quốc tế",
+        "C": "Tư tưởng dựa vào sức mình",
+        "D": "Tư tưởng độc lập tự chủ"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 106,
+      "question": "Tháng 7/1920, Chủ tịch Hồ Chí Minh đọc bản gì của V.I.Lênin?",
+      "options": {
+        "A": "Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa",
+        "B": "Luận cương về vấn đề dân tộc và vấn đề thuộc địa",
+        "C": "Sơ thảo luận cương về vấn đề dân tộc và vấn đề thuộc địa",
+        "D": "Luận cương đầu tiên về vấn đề dân tộc và vấn đề thuộc địa"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 107,
+      "question": "Chủ tịch Hồ Chí Minh đọc bản Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa của V.I.Lênin trên báo nào?",
+      "options": {
+        "A": "L'Humanité (Nhân Đạo)",
+        "B": "Le Monde (Thế giới)",
+        "C": "Le Figaro (Le Figaro)",
+        "D": "Le Parisien (Người Paris)"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 108,
+      "question": "Khi đọc Luận cương của Lênin, Chủ tịch Hồ Chí Minh hiểu hơn về điều gì?",
+      "options": {
+        "A": "Chủ nghĩa Lênin, Quốc tế Cộng sản, về cách mạng vô sản, về phong trào giải phóng dân tộc trên thế giới",
+        "B": "Chủ nghĩa Mác, Quốc tế Cộng sản, về cách mạng tư sản, về phong trào giải phóng dân tộc trên thế giới",
+        "C": "Chủ nghĩa xã hội, Quốc tế Cộng sản, về cách mạng dân chủ, về phong trào giải phóng dân tộc trên thế giới",
+        "D": "Chủ nghĩa cộng sản, Quốc tế Cộng sản, về cách mạng xã hội, về phong trào giải phóng dân tộc trên thế giới"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 109,
+      "question": "Chủ tịch Hồ Chí Minh viết: \"Luận cương của Lênin làm cho tôi rất cảm động, phấn khởi, sáng tỏ, tin tưởng biết bao! Tôi vui mừng đến phát khóc lên\". Điều này thể hiện cảm xúc gì?",
+      "options": {
+        "A": "Cảm xúc vui mừng, phấn khởi khi tìm thấy con đường cách mạng đúng đắn",
+        "B": "Cảm xúc xúc động khi đọc được tác phẩm của Lênin",
+        "C": "Cảm xúc tin tưởng vào con đường cách mạng",
+        "D": "Cảm xúc sáng tỏ về lý luận cách mạng"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 110,
+      "question": "Từ bản Luận cương của Lênin, Chủ tịch Hồ Chí Minh đã tìm thấy điều gì?",
+      "options": {
+        "A": "Phương hướng và đường lối cơ bản của phong trào cách mạng giải phóng dân tộc theo con đường cách mạng vô sản",
+        "B": "Phương hướng và đường lối cơ bản của phong trào cách mạng tư sản",
+        "C": "Phương hướng và đường lối cơ bản của phong trào cách mạng dân chủ",
+        "D": "Phương hướng và đường lối cơ bản của phong trào cách mạng xã hội"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 111,
+      "question": "Nguyễn Ái Quốc đến với chủ nghĩa Lênin, từ một người Việt Nam yêu nước trở thành gì?",
+      "options": {
+        "A": "Người cộng sản Việt Nam đầu tiên",
+        "B": "Người cách mạng Việt Nam đầu tiên",
+        "C": "Người dân chủ Việt Nam đầu tiên",
+        "D": "Người xã hội chủ nghĩa Việt Nam đầu tiên"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 112,
+      "question": "Đây là bước ngoặt quan trọng trong cuộc đời hoạt động cách mạng của Chủ tịch Hồ Chí Minh, một sự chuyển biến về chất, kết hợp nhuần nhuyễn giữa điều gì?",
+      "options": {
+        "A": "Chủ nghĩa yêu nước với chủ nghĩa quốc tế vô sản, độc lập dân tộc với chủ nghĩa xã hội",
+        "B": "Chủ nghĩa dân tộc với chủ nghĩa quốc tế vô sản, độc lập dân tộc với chủ nghĩa xã hội",
+        "C": "Chủ nghĩa yêu nước với chủ nghĩa quốc tế, độc lập dân tộc với chủ nghĩa xã hội",
+        "D": "Chủ nghĩa dân tộc với chủ nghĩa quốc tế, độc lập dân tộc với chủ nghĩa xã hội"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 113,
+      "question": "Cùng với những nhà hoạt động cách mạng của các thuộc địa Pháp, Chủ tịch Hồ Chí Minh thành lập tổ chức gì?",
+      "options": {
+        "A": "Hội liên hiệp các dân tộc thuộc địa",
+        "B": "Hội đoàn kết các dân tộc thuộc địa",
+        "C": "Hội giải phóng các dân tộc thuộc địa",
+        "D": "Hội cách mạng các dân tộc thuộc địa"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 114,
+      "question": "Năm 1922, Chủ tịch Hồ Chí Minh xuất bản báo gì bằng tiếng Pháp?",
+      "options": {
+        "A": "Người cùng khổ (Le Paria)",
+        "B": "Người bị áp bức (Le Opprimé)",
+        "C": "Người lao động (Le Travailleur)",
+        "D": "Người cách mạng (Le Révolutionnaire)"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 115,
+      "question": "Trong bài Lời kêu gọi đăng ở số báo đầu tiên, Chủ tịch Hồ Chí Minh chỉ ra mục đích của tờ báo là gì?",
+      "options": {
+        "A": "Đấu tranh để giải phóng con người",
+        "B": "Đấu tranh để giải phóng dân tộc",
+        "C": "Đấu tranh để giải phóng giai cấp",
+        "D": "Đấu tranh để giải phóng thuộc địa"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 116,
+      "question": "Trong thời gian hoạt động ở Quốc tế Cộng sản, Chủ tịch Hồ Chí Minh chỉ ra tình cảnh của ai ở các nước thuộc địa?",
+      "options": {
+        "A": "Giai cấp công nhân, nông dân nghèo đang chết dần vì đói rét, bệnh tật",
+        "B": "Giai cấp tư sản, địa chủ đang bóc lột nhân dân",
+        "C": "Giai cấp trí thức đang bị đàn áp",
+        "D": "Giai cấp thương nhân đang bị cấm đoán"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 117,
+      "question": "Năm 1925, Chủ tịch Hồ Chí Minh viết tác phẩm gì?",
+      "options": {
+        "A": "Bản án chế độ thực dân Pháp",
+        "B": "Tuyên ngôn độc lập",
+        "C": "Đường cách mệnh",
+        "D": "Nhật ký trong tù"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 118,
+      "question": "Tác phẩm \"Bản án chế độ thực dân Pháp\" nhằm mục đích gì?",
+      "options": {
+        "A": "Tố cáo tội ác của chủ nghĩa thực dân Pháp, nêu rõ nỗi thống khổ và sức mạnh của nhân dân các nước thuộc địa",
+        "B": "Kêu gọi nhân dân các nước thuộc địa đứng lên đấu tranh",
+        "C": "Vạch trần bản chất của chủ nghĩa thực dân",
+        "D": "Tuyên truyền cách mạng"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 119,
+      "question": "Tại Quảng Châu, Chủ tịch Hồ Chí Minh thành lập tổ chức gì?",
+      "options": {
+        "A": "Việt Nam Thanh niên cách mạng đồng chí hội",
+        "B": "Việt Nam Cách mạng đồng chí hội",
+        "C": "Việt Nam Thanh niên hội",
+        "D": "Việt Nam Cách mạng hội"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 120,
+      "question": "Chủ tịch Hồ Chí Minh mở lớp huấn luyện, đào tạo trực tiếp cán bộ cho cách mạng Việt Nam tại đâu?",
+      "options": {
+        "A": "Quảng Châu",
+        "B": "Hồng Kông",
+        "C": "Thượng Hải",
+        "D": "Bắc Kinh"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 121,
+      "question": "Chủ tịch Hồ Chí Minh ra báo gì bằng tiếng Việt?",
+      "options": {
+        "A": "Báo Thanh niên",
+        "B": "Báo Cách mạng",
+        "C": "Báo Độc lập",
+        "D": "Báo Dân chủ"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 122,
+      "question": "Báo Thanh niên là tờ báo cách mạng đầu tiên của Việt Nam nhằm mục đích gì?",
+      "options": {
+        "A": "Truyền bá chủ nghĩa Mác-Lênin và lý luận cách mạng cho những người yêu nước",
+        "B": "Tuyên truyền cách mạng",
+        "C": "Giáo dục thanh niên",
+        "D": "Vận động quần chúng"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 123,
+      "question": "Các bài giảng của Chủ tịch Hồ Chí Minh tại lớp huấn luyện được tập hợp in thành cuốn gì?",
+      "options": {
+        "A": "Đường Cách mệnh (1927)",
+        "B": "Đường Lênin",
+        "C": "Đường Cách mạng",
+        "D": "Đường Độc lập"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 124,
+      "question": "Cuốn \"Đường Cách mệnh\" đề cập nhiều nội dung, nhiều vấn đề trong điều gì?",
+      "options": {
+        "A": "Đường lối và phương pháp cách mạng Việt Nam",
+        "B": "Lý luận và thực tiễn cách mạng",
+        "C": "Chiến lược và sách lược cách mạng",
+        "D": "Tổ chức và lãnh đạo cách mạng"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 125,
+      "question": "Cuốn \"Đường Cách mệnh\" là một trong những văn kiện lý luận đầu tiên của Đảng, đặt cơ sở tư tưởng cho điều gì?",
+      "options": {
+        "A": "Đường lối cách mạng Việt Nam sau này",
+        "B": "Tổ chức cách mạng Việt Nam",
+        "C": "Phương pháp cách mạng Việt Nam",
+        "D": "Chiến lược cách mạng Việt Nam"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 126,
+      "question": "Chủ tịch Hồ Chí Minh còn viết rất nhiều tác phẩm và nhiều bài trên báo nào?",
+      "options": {
+        "A": "Báo Việt Nam độc lập",
+        "B": "Báo Thanh niên",
+        "C": "Báo Cách mạng",
+        "D": "Báo Dân chủ"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 127,
+      "question": "Các bài viết trên báo Việt Nam độc lập có nội dung gì?",
+      "options": {
+        "A": "Ca ngợi truyền thống yêu nước, tinh thần đoàn kết, quật cường của dân tộc",
+        "B": "Kêu gọi đấu tranh cách mạng",
+        "C": "Tuyên truyền chủ nghĩa Mác-Lênin",
+        "D": "Vận động quần chúng"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 128,
+      "question": "Chủ tịch Hồ Chí Minh khẳng định: \"Lực lượng của giai cấp công nhân và nhân dân lao động là rất to lớn, là vô cùng vô tận. Nhưng lực lượng ấy cần có gì mới chắc chắn thắng lợi\"?",
+      "options": {
+        "A": "Đảng lãnh đạo",
+        "B": "Tổ chức cách mạng",
+        "C": "Lãnh đạo cách mạng",
+        "D": "Hướng dẫn cách mạng"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 129,
+      "question": "Chủ tịch Hồ Chí Minh chỉ rõ cách mạng Việt Nam phải có đảng lãnh đạo, có gì làm nòng cốt?",
+      "options": {
+        "A": "Chủ nghĩa Mác-Lênin",
+        "B": "Tư tưởng cách mạng",
+        "C": "Lý luận cách mạng",
+        "D": "Đường lối cách mạng"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 130,
+      "question": "Năm 1930, Chủ tịch Hồ Chí Minh chủ trì Hội nghị hợp nhất ba tổ chức cộng sản, thành lập ra một Đảng Cộng sản thống nhất lấy tên là gì?",
+      "options": {
+        "A": "Đảng Cộng sản Việt Nam",
+        "B": "Đảng Lao động Việt Nam",
+        "C": "Đảng Cách mạng Việt Nam",
+        "D": "Đảng Dân chủ Việt Nam"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 131,
+      "question": "Thông qua các văn kiện nào do Nguyễn Ái Quốc dự thảo, các văn kiện này trở thành Cương lĩnh chính trị đầu tiên của Đảng?",
+      "options": {
+        "A": "Chính cương vắn tắt, Sách lược vắn tắt, Điều lệ vắn tắt",
+        "B": "Cương lĩnh chính trị, Điều lệ Đảng, Chương trình hành động",
+        "C": "Tuyên ngôn Đảng, Điều lệ Đảng, Nghị quyết Đảng",
+        "D": "Chính cương Đảng, Sách lược Đảng, Điều lệ Đảng"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 132,
+      "question": "Bản Cương lĩnh chính trị thể hiện rõ sự vận dụng sáng tạo và phát triển chủ nghĩa Mác-Lênin trong việc giải quyết mối quan hệ gì?",
+      "options": {
+        "A": "Giai cấp-dân tộc-quốc tế về đường lối cách mạng Việt Nam",
+        "B": "Dân tộc-giai cấp-quốc tế về đường lối cách mạng Việt Nam",
+        "C": "Quốc tế-giai cấp-dân tộc về đường lối cách mạng Việt Nam",
+        "D": "Giai cấp-quốc tế-dân tộc về đường lối cách mạng Việt Nam"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 133,
+      "question": "Đảng Cộng sản Việt Nam ra đời mở đầu một thời kỳ mới trong lịch sử dân tộc, đưa nhân dân Việt Nam bước vào cuộc đấu tranh vì điều gì?",
+      "options": {
+        "A": "Độc lập, tự do cùng các dân tộc bị áp bức, đấu tranh giải phóng dân tộc",
+        "B": "Dân chủ, tự do cùng các dân tộc bị áp bức, đấu tranh giải phóng dân tộc",
+        "C": "Độc lập, dân chủ cùng các dân tộc bị áp bức, đấu tranh giải phóng dân tộc",
+        "D": "Tự do, dân chủ cùng các dân tộc bị áp bức, đấu tranh giải phóng dân tộc"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 134,
+      "question": "Chủ tịch Hồ Chí Minh đã hoàn thành sứ mệnh lịch sử, trở thành gì?",
+      "options": {
+        "A": "Người sáng lập Đảng Cộng sản Việt Nam với Cương lĩnh chính trị đúng đắn",
+        "B": "Người lãnh đạo Đảng Cộng sản Việt Nam",
+        "C": "Người xây dựng Đảng Cộng sản Việt Nam",
+        "D": "Người phát triển Đảng Cộng sản Việt Nam"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 135,
+      "question": "Cương lĩnh chính trị đúng đắn đã chấm dứt cuộc khủng hoảng về điều gì?",
+      "options": {
+        "A": "Đường lối, phương pháp và tổ chức lãnh đạo cách mạng Việt Nam",
+        "B": "Tư tưởng, tổ chức và lãnh đạo cách mạng Việt Nam",
+        "C": "Lý luận, thực tiễn và tổ chức cách mạng Việt Nam",
+        "D": "Chiến lược, sách lược và tổ chức cách mạng Việt Nam"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 136,
+      "question": "Năm 1930, Đảng Cộng sản Việt Nam ra đời mở đầu cho một thời kỳ mới trong lịch sử của dân tộc. Tuy Đảng vừa mới ra đời nhưng đã trực tiếp lãnh đạo cao trào cách mạng nào?",
+      "options": {
+        "A": "Cao trào cách mạng 1930-1931, đỉnh cao là Xô Viết Nghệ Tĩnh",
+        "B": "Cao trào cách mạng 1931-1932, đỉnh cao là Xô Viết Nghệ Tĩnh",
+        "C": "Cao trào cách mạng 1930-1932, đỉnh cao là Xô Viết Nghệ Tĩnh",
+        "D": "Cao trào cách mạng 1929-1931, đỉnh cao là Xô Viết Nghệ Tĩnh"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 137,
+      "question": "Tháng 10/1930, Hội nghị Trung ương Đảng đã họp và ra nghị quyết: Hội nghị hiệp nhất Đảng do Nguyễn Ái Quốc chủ trì là phạm sai lầm, chỉ lo đến việc phản đế mà quên lợi ích giai cấp đấu tranh. Hội nghị đã bỏ tên \"Đảng Cộng sản Việt Nam\" mà lấy tên là gì?",
+      "options": {
+        "A": "\"Đảng Cộng sản Đông Dương\"",
+        "B": "\"Đảng Lao động Việt Nam\"",
+        "C": "\"Đảng Cách mạng Việt Nam\"",
+        "D": "\"Đảng Dân chủ Việt Nam\""
+      },
+      "correct": "A"
+    },
+    {
+      "id": 138,
+      "question": "Tháng 10/1934, Chủ tịch Hồ Chí Minh được vào học trường nào?",
+      "options": {
+        "A": "Trường Quốc tế Lênin",
+        "B": "Trường Đại học Tổng hợp Moskva",
+        "C": "Trường Đảng cao cấp",
+        "D": "Trường Quốc tế Cộng sản"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 139,
+      "question": "Chủ tịch Hồ Chí Minh học đầy đủ các môn lý luận cơ bản của chủ nghĩa Mác-Lênin và những phương pháp học tự nghiên cứu kết hợp với thực tế. Cuối năm 1936, Người trúng tuyển vào lớp nghiên cứu sinh, ngành gì?",
+      "options": {
+        "A": "Ngành lịch sử của Viện Nghiên cứu các vấn đề dân tộc và thuộc địa",
+        "B": "Ngành chính trị của Viện Nghiên cứu các vấn đề dân tộc và thuộc địa",
+        "C": "Ngành kinh tế của Viện Nghiên cứu các vấn đề dân tộc và thuộc địa",
+        "D": "Ngành xã hội của Viện Nghiên cứu các vấn đề dân tộc và thuộc địa"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 140,
+      "question": "Năm 1937, Chủ tịch Hồ Chí Minh dự kỳ thi học kỳ I của lớp nghiên cứu sinh đạt kết quả như thế nào?",
+      "options": {
+        "A": "Tất cả các môn học",
+        "B": "Hầu hết các môn học",
+        "C": "Nhiều môn học",
+        "D": "Một số môn học"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 141,
+      "question": "Năm 1938, Chủ tịch Hồ Chí Minh đã gửi thư cho Quốc tế Cộng sản bày tỏ nguyện vọng gì?",
+      "options": {
+        "A": "Được về nước",
+        "B": "Được học tập thêm",
+        "C": "Được hoạt động ở nước ngoài",
+        "D": "Được nghiên cứu thêm"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 142,
+      "question": "Được Quốc tế Cộng sản chấp thuận, vào ngày nào Chủ tịch Hồ Chí Minh trở về Việt Nam sau 30 năm hoạt động ở nước ngoài?",
+      "options": {
+        "A": "Ngày 28-01-1941",
+        "B": "Ngày 28-02-1941",
+        "C": "Ngày 28-03-1941",
+        "D": "Ngày 28-04-1941"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 143,
+      "question": "Tháng 05/1941, Hội nghị Trung ương lần thứ tám họp tại đâu dưới sự chủ trì của Chủ tịch Hồ Chí Minh?",
+      "options": {
+        "A": "Pác Bó (Cao Bằng)",
+        "B": "Tân Trào (Tuyên Quang)",
+        "C": "Thái Nguyên",
+        "D": "Lạng Sơn"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 144,
+      "question": "Hội nghị Trung ương lần thứ tám đã đặt nhiệm vụ gì lên hàng đầu?",
+      "options": {
+        "A": "Nhiệm vụ giải phóng dân tộc",
+        "B": "Nhiệm vụ cách mạng dân chủ",
+        "C": "Nhiệm vụ cách mạng xã hội",
+        "D": "Nhiệm vụ đấu tranh giai cấp"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 145,
+      "question": "Chủ tịch Hồ Chí Minh khẳng định: \"Trong lúc này quyền lợi dân tộc giải phóng cao hơn hết thảy. Chúng ta phải đoàn kết lại đánh đổ bọn đế quốc và bọn Việt gian đặng cứu giống nòi ra khỏi nước sôi lửa nóng\". Để tập hợp đông đảo các tầng lớp nhân dân, tranh thủ mọi lực lượng yêu nước chống đế quốc, giành độc lập cho dân tộc, chĩa mũi nhọn vào kẻ thù. Hội nghị quyết định thành lập tổ chức gì?",
+      "options": {
+        "A": "\"Việt Nam độc lập đồng minh\", gọi tắt là Mặt trận Việt Minh",
+        "B": "\"Việt Nam cách mạng đồng minh\", gọi tắt là Mặt trận Việt Minh",
+        "C": "\"Việt Nam dân chủ đồng minh\", gọi tắt là Mặt trận Việt Minh",
+        "D": "\"Việt Nam tự do đồng minh\", gọi tắt là Mặt trận Việt Minh"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 146,
+      "question": "Mặt trận Việt Minh được thành lập vào ngày nào?",
+      "options": {
+        "A": "Ngày 19/05/1941",
+        "B": "Ngày 19/06/1941",
+        "C": "Ngày 19/07/1941",
+        "D": "Ngày 19/08/1941"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 147,
+      "question": "Ngày 22/12/1944, tổ chức nào được thành lập, là tiền thân của Quân đội nhân dân Việt Nam?",
+      "options": {
+        "A": "Đội Việt Nam tuyên truyền giải phóng quân",
+        "B": "Đội Việt Nam giải phóng quân",
+        "C": "Đội Việt Nam cách mạng quân",
+        "D": "Đội Việt Nam độc lập quân"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 148,
+      "question": "Ngày 18/08/1945, Chủ tịch Hồ Chí Minh viết thư kêu gọi Tổng khởi nghĩa giành chính quyền, Người viết: \"Giờ quyết định cho vận mệnh dân tộc ta đã đến. Toàn quốc đồng bào hãy đứng dậy đem sức ta mà tự giải phóng cho ta\". Cách mạng Tháng Tám năm 1945 thành công, lật đổ chế độ phong kiến, lật đổ ách thống trị của thực dân Pháp và giành lại độc lập dân tộc từ tay ai?",
+      "options": {
+        "A": "Phát xít Nhật",
+        "B": "Thực dân Pháp",
+        "C": "Đế quốc Mỹ",
+        "D": "Phong kiến"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 149,
+      "question": "Ngày 02/09/1945, Chủ tịch Hồ Chí Minh đọc bản Tuyên ngôn Độc lập lịch sử, khai sinh ra nước nào?",
+      "options": {
+        "A": "Nước Việt Nam Dân chủ Cộng hòa",
+        "B": "Nước Việt Nam Cộng hòa",
+        "C": "Nước Việt Nam Dân chủ",
+        "D": "Nước Việt Nam Cộng hòa Dân chủ"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 150,
+      "question": "Bản Tuyên ngôn Độc lập là một văn kiện lịch sử có giá trị to lớn, trong đó độc lập, tự do gắn với phương hướng phát triển lên chủ nghĩa xã hội là tư tưởng chính trị cốt lõi vốn đã được Người phác thảo lần đầu trong Cương lĩnh của Đảng năm 1930, nay đã trở thành hiện thực cách mạng đồng thời trở thành chân lý của sự nghiệp đấu tranh giải phóng dân tộc, xây dựng xã hội mới của dân tộc Việt Nam. Điều này thể hiện điều gì?",
+      "options": {
+        "A": "Sự nhất quán trong tư tưởng và đường lối cách mạng của Chủ tịch Hồ Chí Minh",
+        "B": "Sự phát triển của tư tưởng cách mạng",
+        "C": "Sự hoàn thiện của đường lối cách mạng",
+        "D": "Sự thắng lợi của cách mạng"
+      },
+      "correct": "A"
+    }
+  ]
+}
