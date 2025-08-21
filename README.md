@@ -1,58 +1,3 @@
-# 🎯 Trắc Nghiệm Lịch Sử - Hệ thống hoàn chỉnh
-
-## 📋 Tổng quan
-
-Trang web trắc nghiệm lịch sử với dữ liệu JSON động, quản lý bằng PM2, và tính năng hiển thị kết quả ngay lập tức.
-
-## ✨ Tính năng chính
-
-### 🎯 **Trắc nghiệm thông minh**
-- ✅ Chọn nhiều bộ câu hỏi
-- ✅ Tự động chọn ngẫu nhiên 20 câu
-- ✅ Hiển thị kết quả ngay lập tức
-- ✅ Timer 20 phút
-- ✅ Xem lại chi tiết bài làm
-
-### 📊 **Dữ liệu JSON động**
-- ✅ 230 câu hỏi đầy đủ
-- ✅ Tải dữ liệu từ JSON
-- ✅ Fallback tự động
-- ✅ Dễ dàng cập nhật
-
-### 🚀 **Quản lý PM2**
-- ✅ Auto-restart khi crash
-- ✅ Logs tự động
-- ✅ Monitoring real-time
-- ✅ Startup script
-
-## 📁 Cấu trúc dự án
-
-```
-tracnghiem/
-├── 📄 index.html              # Trang web chính (cũ)
-├── 📄 index_json.html         # Trang web JSON
-├── 📄 demo_result.html        # Demo tính năng mới
-├── 📄 script.js               # JavaScript chính
-├── 📄 style.css               # CSS styling
-├── 📄 server.py               # HTTP server script
-├── 📄 manage.sh               # Script quản lý PM2
-├── 📄 ecosystem.config.js     # Cấu hình PM2
-├── 📄 package.json            # Dependencies
-├── 📄 extract_to_json.py      # Tạo JSON từ markdown
-├── 📄 check_json.py           # Kiểm tra JSON
-├── 📄 questions.json          # Dữ liệu chính (230 câu)
-├── 📄 part1_questions.json    # Phần 1 (70 câu)
-├── 📄 part2_questions.json    # Phần 2 (80 câu)
-├── 📄 part3_questions.json    # Phần 3 (80 câu)
-├── 📄 README.md               # Hướng dẫn này
-├── 📄 README_JSON.md          # Hướng dẫn JSON
-├── 📄 README_PM2.md           # Hướng dẫn PM2
-├── 📄 README_RESULT_FEATURE.md # Hướng dẫn tính năng mới
-├── 📄 thong_ke_cau_hoi.md     # Thống kê câu hỏi
-├── 📁 logs/                   # Logs PM2
-├── 📁 node_modules/           # Dependencies Node.js
-└── 📄 cau_hoi_trac_nghiem_phan_*.md # Dữ liệu gốc
-```
 
 ## 🚀 Cách sử dụng
 
@@ -76,14 +21,11 @@ tracnghiem/
 
 ### **2. Truy cập trang web:**
 - **Trang chính**: http://localhost:8000
-- **Trang JSON**: http://localhost:8003/index_json.html
-- **Demo tính năng**: http://localhost:8003/demo_result.html
+- **Demo tùy chỉnh**: http://localhost:8000/demo_custom_quiz.html
+- **Demo kết quả**: http://localhost:8000/demo_result.html
 
 ### **3. Cập nhật dữ liệu:**
 ```bash
-# Tạo JSON từ markdown
-python3 extract_to_json.py
-
 # Kiểm tra JSON
 python3 check_json.py
 ```
@@ -95,23 +37,29 @@ python3 check_json.py
 - **Phần 2**: 80 câu (Cuộc đời Chủ tịch Hồ Chí Minh)
 - **Phần 3**: 80 câu (Thành tựu 80 năm và giai đoạn 1945-1969)
 
-### **Nguồn dữ liệu:**
-- `cau_hoi_trac_nghiem_phan_1.md` đến `phan_6.md`
-- `tong_hop_cau_hoi_trac_nghiem.md`
+### **Tỷ lệ đáp án cân bằng:**
+- **Đáp án A**: ~50 câu (21.7%)
+- **Đáp án B**: ~60 câu (26.1%)
+- **Đáp án C**: ~55 câu (23.9%)
+- **Đáp án D**: ~50 câu (21.7%)
 
-## 🎯 Tính năng mới: Hiển thị kết quả ngay lập tức
+## �� Tính năng mới: Tùy chỉnh bài thi
 
-### **Cách hoạt động:**
-1. Chọn câu trả lời
-2. Hiển thị kết quả ngay lập tức:
-   - ✅ Đáp án đúng: màu xanh
-   - ❌ Đáp án sai: màu đỏ
-3. Thông báo ở góc phải màn hình
-4. Tự động chuyển câu sau 2 giây
+### **Cấu hình linh hoạt:**
+1. **Số lượng câu hỏi**: 10, 20, 30, 50, 100 câu hoặc tùy chỉnh
+2. **Thời gian mỗi câu**: 30s, 45s, 1p, 1.5p, 2p
+3. **Tổng thời gian**: Tự động tính theo số câu × thời gian/câu
 
-### **Test tính năng:**
-- Truy cập: http://localhost:8003/demo_result.html
-- Chọn câu trả lời và quan sát kết quả
+### **Ví dụ cấu hình:**
+- **20 câu × 45s = 15 phút**
+- **50 câu × 30s = 25 phút**
+- **100 câu × 60s = 100 phút**
+
+### **Tính năng kết quả ngay lập tức:**
+- ✅ Đáp án đúng: màu xanh
+- ❌ Đáp án sai: màu đỏ
+- Thông báo ở góc phải màn hình
+- Tự động chuyển câu sau 2 giây
 
 ## 🔧 Cài đặt và cấu hình
 
@@ -134,13 +82,13 @@ npm install
 pm2 monit
 ```
 
-## 📈 Monitoring và logs
+## �� Monitoring và logs
 
 ### **Logs được lưu trong:**
-- `logs/err.log` - Error logs (web cũ)
-- `logs/out.log` - Output logs (web cũ)
-- `logs/err-json.log` - Error logs (JSON)
-- `logs/out-json.log` - Output logs (JSON)
+- `logs/err-0.log` - Error logs
+- `logs/out-0.log` - Output logs
+- `logs/err-json-1.log` - Error logs (JSON)
+- `logs/out-json-1.log` - Output logs (JSON)
 
 ### **Monitoring:**
 ```bash
@@ -152,7 +100,7 @@ pm2 show tracnghiem-web
 pm2 show tracnghiem-json
 ```
 
-## 🛠️ Troubleshooting
+## ��️ Troubleshooting
 
 ### **Port đã được sử dụng:**
 ```bash
@@ -177,16 +125,30 @@ python3 check_json.py
 - **Performance**: JSON được cache
 - **Compatibility**: Hoạt động trên tất cả trình duyệt hiện đại
 - **Security**: Chỉ đọc file JSON, không ghi
+- **Tỷ lệ đáp án**: Đã được cân bằng để đảm bảo công bằng
 
-## 🔗 Liên kết hữu ích
+## �� Liên kết hữu ích
 
 - [Hướng dẫn JSON chi tiết](README_JSON.md)
 - [Hướng dẫn PM2 chi tiết](README_PM2.md)
 - [Hướng dẫn tính năng mới](README_RESULT_FEATURE.md)
-- [Thống kê câu hỏi](thong_ke_cau_hoi.md)
+
+## �� Lịch sử cập nhật
+
+### **Phiên bản 3.0 (27/01/2025)**
+- ✅ Thêm tính năng tùy chỉnh số lượng câu hỏi
+- ✅ Thời gian tỷ lệ thuận với số câu hỏi
+- ✅ Cân bằng tỷ lệ đáp án (A: 21.7%, B: 26.1%, C: 23.9%, D: 21.7%)
+- ✅ Cải thiện giao diện người dùng
+- ✅ Backup dữ liệu tự động
+
+### **Phiên bản 2.0 (27/01/2025)**
+- ✅ Hiển thị kết quả ngay lập tức
+- ✅ Quản lý PM2
+- ✅ Dữ liệu JSON động
 
 ---
 
-**Phiên bản**: 2.0  
-**Cập nhật**: 27/01/2025  
+**Phiên bản**: 3.0  
+**Cập nhật**: 21/08/2025  
 **Tác giả**: AI Assistant
