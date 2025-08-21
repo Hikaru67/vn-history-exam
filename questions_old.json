@@ -1,0 +1,2562 @@
+{
+  "metadata": {
+    "title": "Trắc Nghiệm Lịch Sử",
+    "description": "Kỷ niệm 80 năm Cách mạng Tháng 8 thành công và Quốc khánh 2/9 (1945 - 2025)",
+    "total_questions": 230,
+    "created_date": "2025-01-27",
+    "version": "1.0"
+  },
+  "parts": {
+    "part1": {
+      "title": "Cách mạng Tháng 8 và Quốc khánh 2/9",
+      "description": "70 câu hỏi về bối cảnh, diễn biến và ý nghĩa của Cách mạng Tháng 8",
+      "question_count": 70,
+        "questions": [
+          {
+            "id": 1,
+            "question": "Cuộc Cách mạng Tháng Tám năm 1945 diễn ra trong bối cảnh nào?",
+            "options": {
+              "A": "Chiến tranh thế giới thứ nhất đang diễn ra",
+              "B": "Chiến tranh thế giới thứ hai bước vào giai đoạn kết thúc",
+              "C": "Chiến tranh lạnh giữa Mỹ và Liên Xô",
+              "D": "Chiến tranh Việt Nam đang diễn ra"
+            },
+            "correct": "B"
+          },
+          {
+            "id": 2,
+            "question": "Ngày 9/5/1945 đánh dấu sự kiện gì?",
+            "options": {
+              "A": "Nhật Bản đầu hàng vô điều kiện",
+              "B": "Phát xít Đức đầu hàng vô điều kiện",
+              "C": "Liên Xô tuyên chiến với Nhật",
+              "D": "Chiến tranh thế giới thứ hai kết thúc"
+            },
+            "correct": "B"
+          },
+          {
+            "id": 3,
+            "question": "Ngày 8/8/1945, Liên Xô tuyên chiến với Nhật và đánh bại đạo quân nào?",
+            "options": {
+              "A": "Đạo quân Quan Đông",
+              "B": "Đạo quân Kwantung",
+              "C": "Đạo quân Đông Bắc",
+              "D": "Đạo quân Mãn Châu"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 4,
+            "question": "Ngày 14/8/1945, Nhật hoàng tuyên bố đầu hàng vô điều kiện, điều này có ý nghĩa gì?",
+            "options": {
+              "A": "Chiến tranh ở châu Á kết thúc",
+              "B": "Chiến tranh thế giới lần thứ hai chính thức chấm dứt",
+              "C": "Chiến tranh ở Thái Bình Dương kết thúc",
+              "D": "Chiến tranh ở Đông Nam Á kết thúc"
+            },
+            "correct": "B"
+          },
+          {
+            "id": 5,
+            "question": "Trung ương Đảng nhận định thời cơ cách mạng là gì?",
+            "options": {
+              "A": "\"Thời cơ ngàn năm có một\"",
+              "B": "\"Thời cơ vàng\"",
+              "C": "\"Thời cơ lịch sử\"",
+              "D": "\"Thời cơ chiến lược\""
+            },
+            "correct": "A"
+          },
+          {
+            "id": 6,
+            "question": "Ngày 9/3/1945, Ban Thường vụ Trung ương Đảng đã họp khẩn và ra chủ trương gì?",
+            "options": {
+              "A": "Phát động cao trào kháng Nhật cứu nước",
+              "B": "Thành lập Mặt trận Việt Minh",
+              "C": "Chuẩn bị tổng khởi nghĩa",
+              "D": "Thành lập Ủy ban Khởi nghĩa"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 7,
+            "question": "Ngày 12/3/1945, Trung ương ban hành Chỉ thị gì?",
+            "options": {
+              "A": "\"Nhật - Pháp bắn nhau và hành động của chúng ta\"",
+              "B": "\"Chuẩn bị tổng khởi nghĩa\"",
+              "C": "\"Thành lập Việt Minh\"",
+              "D": "\"Kháng Nhật cứu nước\""
+            },
+            "correct": "A"
+          },
+          {
+            "id": 8,
+            "question": "Tháng 4/1945, Trung ương triệu tập Hội nghị gì?",
+            "options": {
+              "A": "Hội nghị quân sự cách mạng Bắc Kỳ",
+              "B": "Hội nghị thành lập Việt Minh",
+              "C": "Hội nghị chuẩn bị khởi nghĩa",
+              "D": "Hội nghị quân sự toàn quốc"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 9,
+            "question": "Ngày 16/4/1945, Tổng bộ Việt Minh chỉ đạo thành lập gì?",
+            "options": {
+              "A": "Các Ủy ban dân tộc giải phóng",
+              "B": "Các đội tự vệ",
+              "C": "Các tổ chức cách mạng",
+              "D": "Các hội cứu quốc"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 10,
+            "question": "Đầu tháng 5/1945, Chủ tịch Hồ Chí Minh từ Cao Bằng về đâu?",
+            "options": {
+              "A": "Tuyên Quang",
+              "B": "Hà Nội",
+              "C": "Thái Nguyên",
+              "D": "Lạng Sơn"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 11,
+            "question": "Chủ tịch Hồ Chí Minh chọn đâu làm căn cứ chỉ đạo toàn quốc?",
+            "options": {
+              "A": "Tân Trào",
+              "B": "Pác Bó",
+              "C": "Cao Bằng",
+              "D": "Thái Nguyên"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 12,
+            "question": "Ngày 4/6/1945, địa danh nào chính thức được thành lập?",
+            "options": {
+              "A": "Khu Giải phóng Việt Bắc",
+              "B": "Căn cứ địa Việt Bắc",
+              "C": "Khu tự do Việt Bắc",
+              "D": "Vùng giải phóng Việt Bắc"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 13,
+            "question": "Ngày 13/8/1945, tổ chức nào được thành lập?",
+            "options": {
+              "A": "Ủy ban Khởi nghĩa toàn quốc",
+              "B": "Ủy ban Cách mạng",
+              "C": "Ủy ban Giải phóng",
+              "D": "Ủy ban Khởi nghĩa"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 14,
+            "question": "Ngày 13/8/1945, Ủy ban Khởi nghĩa toàn quốc ra Quân lệnh số mấy?",
+            "options": {
+              "A": "Quân lệnh số 1",
+              "B": "Quân lệnh số 2",
+              "C": "Quân lệnh số 3",
+              "D": "Quân lệnh số 4"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 15,
+            "question": "Ngày 16/8/1945, Quốc dân đại hội họp tại đâu?",
+            "options": {
+              "A": "Tân Trào",
+              "B": "Pác Bó",
+              "C": "Cao Bằng",
+              "D": "Thái Nguyên"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 16,
+            "question": "Quốc dân đại hội thông qua bao nhiêu chính sách lớn của Mặt trận Việt Minh?",
+            "options": {
+              "A": "Mười chính sách lớn",
+              "B": "Tám chính sách lớn",
+              "C": "Mười hai chính sách lớn",
+              "D": "Sáu chính sách lớn"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 17,
+            "question": "Quốc dân đại hội thống nhất quốc kỳ như thế nào?",
+            "options": {
+              "A": "Nền đỏ sao vàng năm cánh",
+              "B": "Nền vàng sao đỏ năm cánh",
+              "C": "Nền đỏ sao vàng sáu cánh",
+              "D": "Nền vàng sao đỏ sáu cánh"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 18,
+            "question": "Quốc dân đại hội chọn bài hát nào làm quốc ca?",
+            "options": {
+              "A": "\"Tiến quân ca\"",
+              "B": "\"Đoàn quân Việt Nam\"",
+              "C": "\"Việt Nam quê hương tôi\"",
+              "D": "\"Hành khúc Việt Nam\""
+            },
+            "correct": "A"
+          },
+          {
+            "id": 19,
+            "question": "Quốc dân đại hội cử ra Ủy ban gì?",
+            "options": {
+              "A": "Ủy ban Giải phóng dân tộc Việt Nam",
+              "B": "Ủy ban Cách mạng Việt Nam",
+              "C": "Ủy ban Khởi nghĩa Việt Nam",
+              "D": "Ủy ban Dân tộc Việt Nam"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 20,
+            "question": "Ủy ban Giải phóng dân tộc Việt Nam còn được gọi là gì?",
+            "options": {
+              "A": "Chính phủ Lâm thời cách mạng Việt Nam",
+              "B": "Chính phủ Cách mạng Việt Nam",
+              "C": "Chính phủ Lâm thời Việt Nam",
+              "D": "Chính phủ Dân chủ Việt Nam"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 21,
+            "question": "Ai đứng đầu Ủy ban Giải phóng dân tộc Việt Nam?",
+            "options": {
+              "A": "Chủ tịch Hồ Chí Minh",
+              "B": "Võ Nguyên Giáp",
+              "C": "Trường Chinh",
+              "D": "Phạm Văn Đồng"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 22,
+            "question": "Trong thư kêu gọi toàn dân, Chủ tịch Hồ Chí Minh nhấn mạnh điều gì?",
+            "options": {
+              "A": "\"Giờ quyết định cho vận mệnh dân tộc ta đã đến\"",
+              "B": "\"Thời cơ cách mạng đã chín muồi\"",
+              "C": "\"Toàn dân hãy đứng lên\"",
+              "D": "\"Cách mạng nhất định thắng lợi\""
+            },
+            "correct": "A"
+          },
+          {
+            "id": 23,
+            "question": "Từ ngày 14/8/1945, các cấp bộ Đảng và Việt Minh đã làm gì?",
+            "options": {
+              "A": "Chủ động phát động khởi nghĩa trước khi nhận được lệnh chính thức",
+              "B": "Chờ lệnh chính thức từ Trung ương",
+              "C": "Chuẩn bị lực lượng",
+              "D": "Tuyên truyền vận động"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 24,
+            "question": "Chiều 16/8/1945, ai chỉ huy đơn vị Giải phóng quân xuất phát từ Tân Trào?",
+            "options": {
+              "A": "Đồng chí Võ Nguyên Giáp",
+              "B": "Đồng chí Trường Chinh",
+              "C": "Đồng chí Phạm Văn Đồng",
+              "D": "Đồng chí Lê Duẩn"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 25,
+            "question": "Đơn vị Giải phóng quân tiến về giải phóng địa danh nào?",
+            "options": {
+              "A": "Thị xã Thái Nguyên",
+              "B": "Thị xã Tuyên Quang",
+              "C": "Thị xã Cao Bằng",
+              "D": "Thị xã Lạng Sơn"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 26,
+            "question": "Lực lượng vũ trang Chiến khu Trần Hưng Đạo phối hợp đánh chiếm các địa phương nào?",
+            "options": {
+              "A": "Hải Ninh, Quảng Yên, Kiến An",
+              "B": "Hải Phòng, Quảng Ninh, Hải Dương",
+              "C": "Hải Ninh, Quảng Ninh, Hải Phòng",
+              "D": "Hải Dương, Quảng Yên, Kiến An"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 27,
+            "question": "Ở miền Trung, lực lượng cách mạng tại đâu chiếm dinh tỉnh trưởng ngay trong đêm 16/8?",
+            "options": {
+              "A": "Quảng Ngãi",
+              "B": "Quảng Nam",
+              "C": "Quảng Trị",
+              "D": "Thừa Thiên Huế"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 28,
+            "question": "Ngày 18/8/1945, những tỉnh nào là những địa phương đầu tiên giành được chính quyền tại tỉnh lỵ?",
+            "options": {
+              "A": "Bắc Giang, Hải Dương, Hà Tĩnh, Quảng Nam",
+              "B": "Bắc Ninh, Hải Dương, Hà Tĩnh, Quảng Nam",
+              "C": "Bắc Giang, Hải Phòng, Hà Tĩnh, Quảng Nam",
+              "D": "Bắc Ninh, Hải Phòng, Hà Tĩnh, Quảng Nam"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 29,
+            "question": "Tại Hà Nội, chiều 17/8/1945, hàng vạn quần chúng tham gia mít tinh lớn tại đâu?",
+            "options": {
+              "A": "Nhà hát Lớn",
+              "B": "Quảng trường Ba Đình",
+              "C": "Vườn hoa Ba Đình",
+              "D": "Sân vận động Hàng Đẫy"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 30,
+            "question": "Trong cuộc tuần hành, quần chúng hô vang khẩu hiệu gì?",
+            "options": {
+              "A": "\"Ủng hộ Việt Minh!\", \"Việt Nam độc lập!\"",
+              "B": "\"Việt Nam độc lập!\", \"Đả đảo phát xít!\"",
+              "C": "\"Ủng hộ Việt Minh!\", \"Đả đảo Nhật!\"",
+              "D": "\"Việt Nam độc lập!\", \"Cách mạng thành công!\""
+            },
+            "correct": "A"
+          },
+          {
+            "id": 31,
+            "question": "Ngày 18/8/1945, cờ đỏ sao vàng rực rỡ trên nhiều tuyến phố chính ở đâu?",
+            "options": {
+              "A": "Hà Nội",
+              "B": "Huế",
+              "C": "Sài Gòn",
+              "D": "Hải Phòng"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 32,
+            "question": "Đỉnh cao của cuộc tổng khởi nghĩa ở Hà Nội là ngày nào?",
+            "options": {
+              "A": "Ngày 19/8/1945",
+              "B": "Ngày 20/8/1945",
+              "C": "Ngày 21/8/1945",
+              "D": "Ngày 22/8/1945"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 33,
+            "question": "Ngày 19/8/1945, các đội tự vệ chiến đấu và quần chúng cách mạng chiếm những nơi nào?",
+            "options": {
+              "A": "Phủ Khâm sai Bắc Bộ, Sở Cảnh sát, Sở Bưu điện, Trại Bảo an binh",
+              "B": "Phủ Toàn quyền, Sở Cảnh sát, Sở Bưu điện, Trại Bảo an binh",
+              "C": "Phủ Khâm sai Bắc Bộ, Sở Mật thám, Sở Bưu điện, Trại Bảo an binh",
+              "D": "Phủ Toàn quyền, Sở Mật thám, Sở Bưu điện, Trại Bảo an binh"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 34,
+            "question": "Đêm 19/8/1945, chúng ta hoàn toàn làm chủ đâu?",
+            "options": {
+              "A": "Thủ đô",
+              "B": "Hà Nội",
+              "C": "Thành phố",
+              "D": "Đô thị"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 35,
+            "question": "Ở Huế, ngày 20/8/1945, tổ chức nào được thành lập?",
+            "options": {
+              "A": "Ủy ban Khởi nghĩa tỉnh",
+              "B": "Ủy ban Cách mạng tỉnh",
+              "C": "Ủy ban Giải phóng tỉnh",
+              "D": "Ủy ban Dân tộc tỉnh"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 36,
+            "question": "Từ ngày 21/8/1945, hàng loạt cuộc biểu tình thị uy diễn ra ở đâu?",
+            "options": {
+              "A": "Huế",
+              "B": "Hà Nội",
+              "C": "Sài Gòn",
+              "D": "Đà Nẵng"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 37,
+            "question": "Ngày 23/8/1945, hàng vạn người tiến vào thành phố nào?",
+            "options": {
+              "A": "Huế",
+              "B": "Hà Nội",
+              "C": "Sài Gòn",
+              "D": "Đà Nẵng"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 38,
+            "question": "Tại Sài Gòn - Gia Định, Xứ ủy Nam Kỳ ấn định ngày khởi nghĩa là ngày nào?",
+            "options": {
+              "A": "25/8/1945",
+              "B": "26/8/1945",
+              "C": "27/8/1945",
+              "D": "28/8/1945"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 39,
+            "question": "Sáng 25/8/1945, các đoàn công nhân, nông dân, thanh niên từ đâu đổ về trung tâm thành phố Sài Gòn?",
+            "options": {
+              "A": "Gia Định, Biên Hòa, Thủ Dầu Một, Mỹ Tho",
+              "B": "Gia Định, Biên Hòa, Thủ Dầu Một, Vĩnh Long",
+              "C": "Gia Định, Biên Hòa, Tây Ninh, Mỹ Tho",
+              "D": "Gia Định, Biên Hòa, Tây Ninh, Vĩnh Long"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 40,
+            "question": "Quần chúng chiếm lĩnh những nơi nào ở Sài Gòn?",
+            "options": {
+              "A": "Sở Mật thám, Sở Cảnh sát, Bưu điện, nhà ga, nhà máy điện",
+              "B": "Sở Cảnh sát, Sở Mật thám, Bưu điện, nhà ga, nhà máy điện",
+              "C": "Sở Mật thám, Sở Cảnh sát, Bưu điện, nhà ga, nhà máy nước",
+              "D": "Sở Cảnh sát, Sở Mật thám, Bưu điện, nhà ga, nhà máy nước"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 41,
+            "question": "Thắng lợi vang dội tại ba đô thị lớn nào đã tạo hiệu ứng lan tỏa mạnh mẽ?",
+            "options": {
+              "A": "Hà Nội, Huế, Sài Gòn",
+              "B": "Hà Nội, Hải Phòng, Sài Gòn",
+              "C": "Hà Nội, Huế, Đà Nẵng",
+              "D": "Hà Nội, Hải Phòng, Đà Nẵng"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 42,
+            "question": "Tại Côn Đảo, khi nhận được tin phát xít Nhật đầu hàng, tổ chức nào đã nhanh chóng họp bàn?",
+            "options": {
+              "A": "Tổ chức Đảng trong nhà tù",
+              "B": "Tổ chức Việt Minh trong nhà tù",
+              "C": "Tổ chức cách mạng trong nhà tù",
+              "D": "Tổ chức dân tộc trong nhà tù"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 43,
+            "question": "Tại Phú Quốc, dưới sự lãnh đạo của tổ chức nào, tù chính trị cùng quần chúng nhân dân trên đảo vùng lên?",
+            "options": {
+              "A": "Tổ chức Việt Minh",
+              "B": "Tổ chức Đảng",
+              "C": "Tổ chức cách mạng",
+              "D": "Tổ chức dân tộc"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 44,
+            "question": "Ở nhiều đảo khác như Lý Sơn, Cát Bà, Bạch Long Vĩ, Hòn Gai, Vân Đồn, phong trào khởi nghĩa hưởng ứng gì?",
+            "options": {
+              "A": "Tổng khởi nghĩa Tháng Tám",
+              "B": "Cách mạng Tháng Tám",
+              "C": "Khởi nghĩa Tháng Tám",
+              "D": "Tổng khởi nghĩa"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 45,
+            "question": "Chỉ trong vòng bao nhiêu ngày, từ giữa đến cuối tháng 8 năm 1945, cuộc Tổng khởi nghĩa đã giành thắng lợi hoàn toàn?",
+            "options": {
+              "A": "15 ngày",
+              "B": "20 ngày",
+              "C": "25 ngày",
+              "D": "30 ngày"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 46,
+            "question": "Ngày 30/8/1945, vua Bảo Đại tuyên bố gì?",
+            "options": {
+              "A": "Thoái vị",
+              "B": "Đầu hàng",
+              "C": "Từ bỏ ngai vàng",
+              "D": "Chuyển giao quyền lực"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 47,
+            "question": "Ngày 30/8/1945, sự kiện gì chấm dứt hoàn toàn chế độ phong kiến kéo dài hàng nghìn năm?",
+            "options": {
+              "A": "Vua Bảo Đại thoái vị",
+              "B": "Cách mạng Tháng Tám thành công",
+              "C": "Nước Việt Nam Dân chủ Cộng hòa ra đời",
+              "D": "Tuyên ngôn Độc lập được đọc"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 48,
+            "question": "Ngày 2/9/1945, tại đâu Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập?",
+            "options": {
+              "A": "Quảng trường Ba Đình lịch sử",
+              "B": "Nhà hát Lớn",
+              "C": "Vườn hoa Ba Đình",
+              "D": "Sân vận động Hàng Đẫy"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 49,
+            "question": "Trong Tuyên ngôn Độc lập, Chủ tịch Hồ Chí Minh trịnh trọng tuyên bố quyền gì của dân tộc Việt Nam?",
+            "options": {
+              "A": "Quyền độc lập, tự do, bình đẳng",
+              "B": "Quyền tự do, bình đẳng, bác ái",
+              "C": "Quyền độc lập, tự do, dân chủ",
+              "D": "Quyền tự do, dân chủ, bình đẳng"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 50,
+            "question": "Nước Việt Nam Dân chủ Cộng hòa ra đời đánh dấu sự mở đầu kỷ nguyên mới nào của dân tộc?",
+            "options": {
+              "A": "Kỷ nguyên độc lập, tự do và làm chủ vận mệnh đất nước",
+              "B": "Kỷ nguyên dân chủ, tự do và làm chủ vận mệnh đất nước",
+              "C": "Kỷ nguyên độc lập, dân chủ và làm chủ vận mệnh đất nước",
+              "D": "Kỷ nguyên tự do, dân chủ và làm chủ vận mệnh đất nước"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 51,
+            "question": "Cách mạng Tháng Tám năm 1945 giành thắng lợi là kết quả tổng hòa của nhiều yếu tố, trong đó nổi bật là gì?",
+            "options": {
+              "A": "Sự kết hợp chặt chẽ giữa thời cơ lịch sử thuận lợi với sự chuẩn bị công phu, bài bản và sự lãnh đạo sáng suốt, linh hoạt của Đảng ta",
+              "B": "Sự lãnh đạo đúng đắn của Đảng và Chủ tịch Hồ Chí Minh",
+              "C": "Tinh thần yêu nước và khát vọng độc lập của toàn dân tộc",
+              "D": "Thời cơ lịch sử thuận lợi khi Chiến tranh thế giới thứ hai kết thúc"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 52,
+            "question": "Thắng lợi Cách mạng Tháng Tám bắt nguồn từ đâu?",
+            "options": {
+              "A": "Sự lãnh đạo đúng đắn và kịp thời của Đảng",
+              "B": "Tinh thần yêu nước của nhân dân",
+              "C": "Thời cơ lịch sử thuận lợi",
+              "D": "Sự chuẩn bị lâu dài của cách mạng"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 53,
+            "question": "Đường lối cách mạng dân tộc, dân chủ nhân dân mà Đảng xác định có đặc điểm gì?",
+            "options": {
+              "A": "Phù hợp với nguyện vọng của đại đa số Nhân dân",
+              "B": "Phù hợp với tình hình thế giới",
+              "C": "Phù hợp với điều kiện trong nước",
+              "D": "Phù hợp với xu thế thời đại"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 54,
+            "question": "Đảng đã thể hiện tầm nhìn chiến lược và năng lực tổ chức thực tiễn xuất sắc khi làm gì?",
+            "options": {
+              "A": "Chỉ đạo toàn dân nổi dậy đúng thời điểm, nhanh chóng giành chính quyền trong cả nước",
+              "B": "Lãnh đạo cách mạng từ thắng lợi này đến thắng lợi khác",
+              "C": "Xây dựng lực lượng cách mạng vững mạnh",
+              "D": "Tạo thời cơ cách mạng thuận lợi"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 55,
+            "question": "Thứ hai, thắng lợi Cách mạng Tháng Tám là thành quả của quá trình gì?",
+            "options": {
+              "A": "Chuẩn bị lâu dài, toàn diện về chính trị, tổ chức, tư tưởng và lực lượng vũ trang",
+              "B": "Đấu tranh gian khổ của nhân dân",
+              "C": "Xây dựng lực lượng cách mạng",
+              "D": "Tuyên truyền vận động quần chúng"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 56,
+            "question": "Từ phong trào Xô Viết Nghệ Tĩnh, các cuộc vận động Dân chủ, Cao trào kháng Nhật cứu nước đến việc thành lập Mặt trận Việt Minh, tổ chức các đội vũ trang, xây dựng căn cứ địa, mở rộng lực lượng quần chúng... Đảng đã làm gì?",
+            "options": {
+              "A": "Dày công chuẩn bị để sẵn sàng chớp lấy thời cơ",
+              "B": "Xây dựng lực lượng cách mạng vững mạnh",
+              "C": "Tạo thời cơ cách mạng thuận lợi",
+              "D": "Lãnh đạo cách mạng thành công"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 57,
+            "question": "Việc chủ động phát động khởi nghĩa từng phần trước khi tổng khởi nghĩa thể hiện điều gì?",
+            "options": {
+              "A": "Sự nhạy bén và linh hoạt trong chỉ đạo cách mạng",
+              "B": "Sự chuẩn bị chu đáo của cách mạng",
+              "C": "Tinh thần chủ động của các cấp bộ Đảng",
+              "D": "Sự lãnh đạo sáng suốt của Đảng"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 58,
+            "question": "Thứ ba, thắng lợi của Cách mạng Tháng Tám là kết quả của điều gì?",
+            "options": {
+              "A": "Tinh thần yêu nước, truyền thống bất khuất và khát vọng độc lập, tự do cháy bỏng của toàn thể dân tộc Việt Nam",
+              "B": "Sự lãnh đạo đúng đắn của Đảng",
+              "C": "Thời cơ lịch sử thuận lợi",
+              "D": "Sự chuẩn bị lâu dài của cách mạng"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 59,
+            "question": "Nhân dân ta, dưới ngọn cờ đoàn kết của Mặt trận Việt Minh, đã làm gì?",
+            "options": {
+              "A": "Nhất tề đứng dậy ở cả ba miền, từ miền xuôi đến miền ngược, từ thành thị đến nông thôn, từ đất liền đến hải đảo",
+              "B": "Đoàn kết đấu tranh giành độc lập",
+              "C": "Tham gia cách mạng tích cực",
+              "D": "Ủng hộ cách mạng nhiệt tình"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 60,
+            "question": "Đây là biểu hiện sinh động của điều gì?",
+            "options": {
+              "A": "Sức mạnh đại đoàn kết toàn dân tộc, yếu tố nội sinh mang tính quyết định đối với thắng lợi của cách mạng",
+              "B": "Tinh thần yêu nước của nhân dân",
+              "C": "Sự lãnh đạo đúng đắn của Đảng",
+              "D": "Thời cơ lịch sử thuận lợi"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 61,
+            "question": "Thứ tư, thắng lợi Cách mạng Tháng Tám diễn ra trong bối cảnh gì?",
+            "options": {
+              "A": "Chiến tranh thế giới thứ hai kết thúc với sự thất bại hoàn toàn của phát xít Đức và phát xít Nhật",
+              "B": "Thời cơ lịch sử thuận lợi",
+              "C": "Sự chuẩn bị lâu dài của cách mạng",
+              "D": "Tinh thần yêu nước của nhân dân"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 62,
+            "question": "Đảng ta đã đánh giá đúng thời cơ gì và phát động toàn dân đứng lên tổng khởi nghĩa?",
+            "options": {
+              "A": "Thời cơ \"ngàn năm có một\"",
+              "B": "Thời cơ lịch sử",
+              "C": "Thời cơ vàng",
+              "D": "Thời cơ chiến lược"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 63,
+            "question": "Cách mạng Tháng Tám năm 1945 thành công, mở ra điều gì trong lịch sử dân tộc ta?",
+            "options": {
+              "A": "Một bước ngoặt lớn trong lịch sử dân tộc ta",
+              "B": "Một thời kỳ mới trong lịch sử dân tộc ta",
+              "C": "Một kỷ nguyên mới trong lịch sử dân tộc ta",
+              "D": "Một trang sử mới trong lịch sử dân tộc ta"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 64,
+            "question": "Thắng lợi ấy đã đập tan xiềng xích nô lệ của thực dân Pháp trong bao nhiêu năm?",
+            "options": {
+              "A": "Hơn 80 năm",
+              "B": "Hơn 70 năm",
+              "C": "Hơn 90 năm",
+              "D": "Hơn 100 năm"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 65,
+            "question": "Thắng lợi ấy đã đập tan ách thống trị của phát xít Nhật trong bao nhiêu năm?",
+            "options": {
+              "A": "Gần 5 năm",
+              "B": "Gần 4 năm",
+              "C": "Gần 6 năm",
+              "D": "Gần 7 năm"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 66,
+            "question": "Thắng lợi ấy đã lật nhào ngai vàng phong kiến ngự trị hàng thế kỷ ở nước ta, dẫn đến sự ra đời của nước nào?",
+            "options": {
+              "A": "Nước Việt Nam Dân chủ Cộng hòa",
+              "B": "Nước Việt Nam Cộng hòa",
+              "C": "Nước Việt Nam Dân chủ",
+              "D": "Nước Việt Nam Cộng hòa Dân chủ"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 67,
+            "question": "Nước Việt Nam Dân chủ Cộng hòa là nhà nước do ai làm chủ?",
+            "options": {
+              "A": "Nhân dân lao động làm chủ",
+              "B": "Giai cấp công nhân làm chủ",
+              "C": "Nhân dân làm chủ",
+              "D": "Dân tộc làm chủ"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 68,
+            "question": "Thắng lợi của Cách mạng Tháng Tám đánh dấu điều gì của cách mạng Việt Nam?",
+            "options": {
+              "A": "Bước phát triển nhảy vọt của cách mạng Việt Nam",
+              "B": "Bước tiến quan trọng của cách mạng Việt Nam",
+              "C": "Bước ngoặt lớn của cách mạng Việt Nam",
+              "D": "Bước phát triển mới của cách mạng Việt Nam"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 69,
+            "question": "Cách mạng Tháng Tám mở đầu kỷ nguyên mới nào của dân tộc?",
+            "options": {
+              "A": "Kỷ nguyên độc lập tự do; kỷ nguyên Nhân dân lao động nắm chính quyền, làm chủ đất nước, làm chủ vận mệnh dân tộc; kỷ nguyên độc lập dân tộc gắn liền với chủ nghĩa xã hội",
+              "B": "Kỷ nguyên độc lập dân tộc",
+              "C": "Kỷ nguyên tự do dân chủ",
+              "D": "Kỷ nguyên xã hội chủ nghĩa"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 70,
+            "question": "Với thắng lợi của Cách mạng Tháng Tám, Đảng ta trở thành gì?",
+            "options": {
+              "A": "Một đảng cầm quyền",
+              "B": "Một đảng lãnh đạo",
+              "C": "Một đảng cách mạng",
+              "D": "Một đảng chính trị"
+            },
+            "correct": "A"
+          }
+        ]
+    },
+    "part2": {
+      "title": "Cuộc đời Chủ tịch Hồ Chí Minh",
+      "description": "80 câu hỏi về các giai đoạn cuộc đời của Bác Hồ",
+      "question_count": 80,
+        "questions": [
+          {
+            "id": 71,
+            "question": "Chủ tịch Hồ Chí Minh sinh ngày nào?",
+            "options": {
+              "A": "19/05/1890",
+              "B": "19/05/1891",
+              "C": "19/05/1889",
+              "D": "19/05/1892"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 72,
+            "question": "Chủ tịch Hồ Chí Minh sinh tại đâu?",
+            "options": {
+              "A": "Làng Hoàng Trù (thường gọi là làng Trùa) huyện Nam Đàn (cũ), tỉnh Nghệ An",
+              "B": "Làng Kim Liên huyện Nam Đàn, tỉnh Nghệ An",
+              "C": "Làng Sen huyện Nam Đàn, tỉnh Nghệ An",
+              "D": "Làng Chùa huyện Nam Đàn, tỉnh Nghệ An"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 73,
+            "question": "Thân phụ của Chủ tịch Hồ Chí Minh là ai?",
+            "options": {
+              "A": "Nguyễn Sinh Sắc",
+              "B": "Nguyễn Sinh Khiêm",
+              "C": "Nguyễn Sinh Huy",
+              "D": "Nguyễn Sinh Nhậm"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 74,
+            "question": "Thân mẫu của Chủ tịch Hồ Chí Minh là ai?",
+            "options": {
+              "A": "Hoàng Thị Loan",
+              "B": "Hoàng Thị An",
+              "C": "Hoàng Thị Lý",
+              "D": "Hoàng Thị Mai"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 75,
+            "question": "Chủ tịch Hồ Chí Minh sinh ra trong một gia đình như thế nào?",
+            "options": {
+              "A": "Gia đình nhà Nho yêu nước",
+              "B": "Gia đình nông dân",
+              "C": "Gia đình công nhân",
+              "D": "Gia đình thương nhân"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 76,
+            "question": "Ngay từ thuở nhỏ, Chủ tịch Hồ Chí Minh đã tiếp thu được điều gì từ gia đình và quê hương đất nước?",
+            "options": {
+              "A": "Truyền thống yêu nước, lòng nhân ái",
+              "B": "Truyền thống học tập, lòng hiếu thảo",
+              "C": "Truyền thống lao động, lòng cần cù",
+              "D": "Truyền thống văn hóa, lòng nhân nghĩa"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 77,
+            "question": "Trong thời gian 10 năm sống ở Huế, Chủ tịch Hồ Chí Minh tiếp xúc với điều gì?",
+            "options": {
+              "A": "Nhiều sách báo Pháp, với nền văn hóa mới và những bàn luận về các phong trào chống Pháp của các sĩ phu yêu nước",
+              "B": "Nhiều sách báo Việt Nam, với nền văn hóa truyền thống",
+              "C": "Nhiều sách báo quốc tế, với nền văn hóa hiện đại",
+              "D": "Nhiều sách báo cách mạng, với nền văn hóa dân tộc"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 78,
+            "question": "Sống trong hoàn cảnh đất nước chìm dưới ách đô hộ của thực dân Pháp, Chủ tịch Hồ Chí Minh đã chứng kiến điều gì?",
+            "options": {
+              "A": "Sự đối lập giữa cuộc sống lao động nghèo khổ của nhân dân với cảnh sống xa hoa, phè phỡn của bọn thực dân Pháp",
+              "B": "Sự đối lập giữa cuộc sống nông dân với cuộc sống thành thị",
+              "C": "Sự đối lập giữa cuộc sống miền xuôi với cuộc sống miền ngược",
+              "D": "Sự đối lập giữa cuộc sống cũ với cuộc sống mới"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 79,
+            "question": "Chủ tịch Hồ Chí Minh đã thấy được những cuộc biểu tình chống sưu thuế của nông dân bị đàn áp như thế nào?",
+            "options": {
+              "A": "Dã man",
+              "B": "Tàn bạo",
+              "C": "Khốc liệt",
+              "D": "Nghiêm khắc"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 80,
+            "question": "Theo Chủ tịch Hồ Chí Minh, muốn cứu nước phải làm gì?",
+            "options": {
+              "A": "Phải tìm ra một con đường cách mạng mới",
+              "B": "Phải đấu tranh vũ trang",
+              "C": "Phải đấu tranh chính trị",
+              "D": "Phải học tập nước ngoài"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 81,
+            "question": "Tình yêu quê hương, đất nước và gia đình đã hình thành nên người thanh niên Nguyễn Tất Thành một nhân cách như thế nào?",
+            "options": {
+              "A": "Giàu lòng yêu nước, có hoài bão cứu nước cứu dân và thấu hiểu được sức mạnh của ý chí độc lập tự cường của dân tộc",
+              "B": "Giàu lòng nhân ái, có hoài bão học tập và thấu hiểu được sức mạnh của tri thức",
+              "C": "Giàu lòng dũng cảm, có hoài bão chiến đấu và thấu hiểu được sức mạnh của vũ khí",
+              "D": "Giàu lòng cần cù, có hoài bão lao động và thấu hiểu được sức mạnh của kinh tế"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 82,
+            "question": "Với một ý chí nghị lực phi thường, Chủ tịch Hồ Chí Minh đã quyết tâm làm gì?",
+            "options": {
+              "A": "Tìm cách sang Pháp và các nước phương Tây",
+              "B": "Tìm cách học tập trong nước",
+              "C": "Tìm cách đấu tranh trong nước",
+              "D": "Tìm cách xây dựng đất nước"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 83,
+            "question": "Chủ tịch Hồ Chí Minh khẳng định điều gì về dân tộc Việt Nam?",
+            "options": {
+              "A": "Dân tộc Việt Nam đang là một dân tộc mất quyền độc lập",
+              "B": "Dân tộc Việt Nam đang là một dân tộc nghèo đói",
+              "C": "Dân tộc Việt Nam đang là một dân tộc lạc hậu",
+              "D": "Dân tộc Việt Nam đang là một dân tộc yếu kém"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 84,
+            "question": "Nhiệm vụ của những người Việt Nam yêu nước là gì?",
+            "options": {
+              "A": "Phải đấu tranh giành lại quyền độc lập",
+              "B": "Phải học tập để phát triển đất nước",
+              "C": "Phải lao động để xây dựng đất nước",
+              "D": "Phải đoàn kết để bảo vệ đất nước"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 85,
+            "question": "Ngày 05/06/1911, Chủ tịch Hồ Chí Minh lên con tàu nào?",
+            "options": {
+              "A": "Đô đốc Latútsơ Tơrêvin",
+              "B": "Đô đốc Latútsơ Tơrêvin",
+              "C": "Đô đốc Latútsơ Tơrêvin",
+              "D": "Đô đốc Latútsơ Tơrêvin"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 86,
+            "question": "Chủ tịch Hồ Chí Minh rời Tổ quốc từ bến cảng nào?",
+            "options": {
+              "A": "Bến cảng Nhà Rồng, thành phố Sài Gòn",
+              "B": "Bến cảng Hải Phòng",
+              "C": "Bến cảng Đà Nẵng",
+              "D": "Bến cảng Vũng Tàu"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 87,
+            "question": "Chủ tịch Hồ Chí Minh vừa lao động để kiếm sống, vừa làm gì?",
+            "options": {
+              "A": "Học tập, nghiên cứu các học thuyết cách mạng",
+              "B": "Học tập, nghiên cứu các ngôn ngữ nước ngoài",
+              "C": "Học tập, nghiên cứu các văn hóa nước ngoài",
+              "D": "Học tập, nghiên cứu các khoa học kỹ thuật"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 88,
+            "question": "Khi trả lời phỏng vấn một nhà báo Nga, Chủ tịch Hồ Chí Minh nói điều gì?",
+            "options": {
+              "A": "\"Khi tôi độ mười ba tuổi, lần đầu tiên tôi được nghe ba chữ Pháp Tự do, Bình đẳng, Bác ái\"",
+              "B": "\"Khi tôi độ mười ba tuổi, lần đầu tiên tôi được nghe về cách mạng\"",
+              "C": "\"Khi tôi độ mười ba tuổi, lần đầu tiên tôi được nghe về nước Pháp\"",
+              "D": "\"Khi tôi độ mười ba tuổi, lần đầu tiên tôi được nghe về chủ nghĩa thực dân\""
+            },
+            "correct": "A"
+          },
+          {
+            "id": 89,
+            "question": "Chủ tịch Hồ Chí Minh rất muốn làm quen với điều gì?",
+            "options": {
+              "A": "Nền văn minh Pháp, muốn tìm xem những gì ẩn giấu đằng sau những chữ ấy",
+              "B": "Nền văn hóa Pháp, muốn tìm hiểu về đất nước Pháp",
+              "C": "Nền khoa học Pháp, muốn học tập kỹ thuật",
+              "D": "Nền giáo dục Pháp, muốn học tập tri thức"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 90,
+            "question": "Khi được chứng kiến ở Pháp cũng có những người nghèo như ở Việt Nam, Chủ tịch Hồ Chí Minh nhận ra điều gì?",
+            "options": {
+              "A": "Những người Pháp trên đất Pháp tốt và lịch sự hơn những bọn thực dân Pháp ở Đông Dương",
+              "B": "Những người Pháp trên đất Pháp giàu có hơn những người Việt Nam",
+              "C": "Những người Pháp trên đất Pháp văn minh hơn những người Việt Nam",
+              "D": "Những người Pháp trên đất Pháp hiểu biết hơn những người Việt Nam"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 91,
+            "question": "Từ năm 1911 đến năm 1917, Chủ tịch Hồ Chí Minh đã đến nhiều nước ở đâu?",
+            "options": {
+              "A": "Châu Á, châu Âu, châu Phi, châu Mỹ",
+              "B": "Châu Âu, châu Mỹ, châu Úc",
+              "C": "Châu Á, châu Âu, châu Phi",
+              "D": "Châu Âu, châu Mỹ, châu Phi"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 92,
+            "question": "Chủ tịch Hồ Chí Minh đã tận mắt thấy điều gì?",
+            "options": {
+              "A": "Cuộc sống khổ cực của nhân dân và những tội ác, thủ đoạn của chủ nghĩa thực dân",
+              "B": "Cuộc sống giàu có của nhân dân và những thành tựu của chủ nghĩa tư bản",
+              "C": "Cuộc sống văn minh của nhân dân và những tiến bộ của xã hội",
+              "D": "Cuộc sống hiện đại của nhân dân và những phát triển của khoa học"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 93,
+            "question": "Chủ tịch Hồ Chí Minh cho rằng nhân dân lao động các nước, trong đó có giai cấp công nhân, đều bị bóc lột có thể là gì của nhau?",
+            "options": {
+              "A": "Bạn của nhau",
+              "B": "Đồng chí của nhau",
+              "C": "Anh em của nhau",
+              "D": "Bà con của nhau"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 94,
+            "question": "Chủ tịch Hồ Chí Minh cho rằng chủ nghĩa đế quốc, bọn thực dân ở đâu cũng là gì?",
+            "options": {
+              "A": "Kẻ bóc lột, là kẻ thù của nhân dân lao động",
+              "B": "Kẻ xâm lược, là kẻ thù của các dân tộc",
+              "C": "Kẻ áp bức, là kẻ thù của nhân dân",
+              "D": "Kẻ bóc lột, là kẻ thù của cách mạng"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 95,
+            "question": "Năm 1917, Chủ tịch Hồ Chí Minh tham gia phong trào gì?",
+            "options": {
+              "A": "Phong trào công nhân Pháp đấu tranh chống chủ nghĩa thực dân",
+              "B": "Phong trào nông dân Pháp đấu tranh chống chủ nghĩa thực dân",
+              "C": "Phong trào thanh niên Pháp đấu tranh chống chủ nghĩa thực dân",
+              "D": "Phong trào trí thức Pháp đấu tranh chống chủ nghĩa thực dân"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 96,
+            "question": "Năm 1919, Chủ tịch Hồ Chí Minh tham gia tổ chức nào?",
+            "options": {
+              "A": "\"Hội những người Việt Nam yêu nước\"",
+              "B": "\"Hội những người Việt Nam cách mạng\"",
+              "C": "\"Hội những người Việt Nam độc lập\"",
+              "D": "\"Hội những người Việt Nam tự do\""
+            },
+            "correct": "A"
+          },
+          {
+            "id": 97,
+            "question": "Năm 1919, Chủ tịch Hồ Chí Minh vào đảng nào?",
+            "options": {
+              "A": "Đảng Xã hội Pháp",
+              "B": "Đảng Cộng sản Pháp",
+              "C": "Đảng Dân chủ Pháp",
+              "D": "Đảng Tự do Pháp"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 98,
+            "question": "Đảng Xã hội Pháp là đảng của giai cấp nào?",
+            "options": {
+              "A": "Giai cấp công nhân Pháp",
+              "B": "Giai cấp tư sản Pháp",
+              "C": "Giai cấp nông dân Pháp",
+              "D": "Giai cấp trí thức Pháp"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 99,
+            "question": "Theo Chủ tịch Hồ Chí Minh, Đảng Xã hội Pháp là tổ chức theo đuổi lý tưởng cao quý của gì?",
+            "options": {
+              "A": "Đại Cách mạng Pháp: Tự do, Bình đẳng, Bác ái",
+              "B": "Cách mạng tư sản Pháp: Tự do, Bình đẳng, Bác ái",
+              "C": "Cách mạng dân chủ Pháp: Tự do, Bình đẳng, Bác ái",
+              "D": "Cách mạng xã hội Pháp: Tự do, Bình đẳng, Bác ái"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 100,
+            "question": "Chủ tịch Hồ Chí Minh đã cùng với một số nhà yêu nước Việt Nam thảo ra bản gì?",
+            "options": {
+              "A": "Yêu sách của nhân dân An Nam",
+              "B": "Tuyên ngôn của nhân dân An Nam",
+              "C": "Bản cáo trạng của nhân dân An Nam",
+              "D": "Bản kiến nghị của nhân dân An Nam"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 101,
+            "question": "Bản Yêu sách của nhân dân An Nam lấy tên gì gửi Hội nghị Vécxây?",
+            "options": {
+              "A": "Nguyễn Ái Quốc",
+              "B": "Nguyễn Tất Thành",
+              "C": "Nguyễn Sinh Cung",
+              "D": "Hồ Chí Minh"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 102,
+            "question": "Bản Yêu sách của nhân dân An Nam đòi quyền gì cho nhân dân Việt Nam?",
+            "options": {
+              "A": "Quyền tự do dân chủ",
+              "B": "Quyền độc lập tự do",
+              "C": "Quyền bình đẳng dân chủ",
+              "D": "Quyền tự do bình đẳng"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 103,
+            "question": "Đây là tiếng nói chính nghĩa đầu tiên của ai?",
+            "options": {
+              "A": "Đại biểu phong trào giải phóng dân tộc",
+              "B": "Đại biểu phong trào cách mạng",
+              "C": "Đại biểu phong trào dân chủ",
+              "D": "Đại biểu phong trào độc lập"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 104,
+            "question": "Chủ tịch Hồ Chí Minh khẳng định các dân tộc muốn được giải phóng chỉ có thể dựa vào đâu?",
+            "options": {
+              "A": "Sức của bản thân mình",
+              "B": "Sự giúp đỡ của quốc tế",
+              "C": "Sự ủng hộ của các nước",
+              "D": "Sự viện trợ của nước ngoài"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 105,
+            "question": "Chủ tịch Hồ Chí Minh viết: \"Muốn được giải phóng, các dân tộc chỉ có thể trông cậy vào mình, trông cậy vào lực lượng của bản thân mình\". Điều này thể hiện tư tưởng gì?",
+            "options": {
+              "A": "Tư tưởng tự lực tự cường",
+              "B": "Tư tưởng đoàn kết quốc tế",
+              "C": "Tư tưởng dựa vào sức mình",
+              "D": "Tư tưởng độc lập tự chủ"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 106,
+            "question": "Tháng 7/1920, Chủ tịch Hồ Chí Minh đọc bản gì của V.I.Lênin?",
+            "options": {
+              "A": "Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa",
+              "B": "Luận cương về vấn đề dân tộc và vấn đề thuộc địa",
+              "C": "Sơ thảo luận cương về vấn đề dân tộc và vấn đề thuộc địa",
+              "D": "Luận cương đầu tiên về vấn đề dân tộc và vấn đề thuộc địa"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 107,
+            "question": "Chủ tịch Hồ Chí Minh đọc bản Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa của V.I.Lênin trên báo nào?",
+            "options": {
+              "A": "L'Humanité (Nhân Đạo)",
+              "B": "Le Monde (Thế giới)",
+              "C": "Le Figaro (Le Figaro)",
+              "D": "Le Parisien (Người Paris)"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 108,
+            "question": "Khi đọc Luận cương của Lênin, Chủ tịch Hồ Chí Minh hiểu hơn về điều gì?",
+            "options": {
+              "A": "Chủ nghĩa Lênin, Quốc tế Cộng sản, về cách mạng vô sản, về phong trào giải phóng dân tộc trên thế giới",
+              "B": "Chủ nghĩa Mác, Quốc tế Cộng sản, về cách mạng tư sản, về phong trào giải phóng dân tộc trên thế giới",
+              "C": "Chủ nghĩa xã hội, Quốc tế Cộng sản, về cách mạng dân chủ, về phong trào giải phóng dân tộc trên thế giới",
+              "D": "Chủ nghĩa cộng sản, Quốc tế Cộng sản, về cách mạng xã hội, về phong trào giải phóng dân tộc trên thế giới"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 109,
+            "question": "Chủ tịch Hồ Chí Minh viết: \"Luận cương của Lênin làm cho tôi rất cảm động, phấn khởi, sáng tỏ, tin tưởng biết bao! Tôi vui mừng đến phát khóc lên\". Điều này thể hiện cảm xúc gì?",
+            "options": {
+              "A": "Cảm xúc vui mừng, phấn khởi khi tìm thấy con đường cách mạng đúng đắn",
+              "B": "Cảm xúc xúc động khi đọc được tác phẩm của Lênin",
+              "C": "Cảm xúc tin tưởng vào con đường cách mạng",
+              "D": "Cảm xúc sáng tỏ về lý luận cách mạng"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 110,
+            "question": "Từ bản Luận cương của Lênin, Chủ tịch Hồ Chí Minh đã tìm thấy điều gì?",
+            "options": {
+              "A": "Phương hướng và đường lối cơ bản của phong trào cách mạng giải phóng dân tộc theo con đường cách mạng vô sản",
+              "B": "Phương hướng và đường lối cơ bản của phong trào cách mạng tư sản",
+              "C": "Phương hướng và đường lối cơ bản của phong trào cách mạng dân chủ",
+              "D": "Phương hướng và đường lối cơ bản của phong trào cách mạng xã hội"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 111,
+            "question": "Nguyễn Ái Quốc đến với chủ nghĩa Lênin, từ một người Việt Nam yêu nước trở thành gì?",
+            "options": {
+              "A": "Người cộng sản Việt Nam đầu tiên",
+              "B": "Người cách mạng Việt Nam đầu tiên",
+              "C": "Người dân chủ Việt Nam đầu tiên",
+              "D": "Người xã hội chủ nghĩa Việt Nam đầu tiên"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 112,
+            "question": "Đây là bước ngoặt quan trọng trong cuộc đời hoạt động cách mạng của Chủ tịch Hồ Chí Minh, một sự chuyển biến về chất, kết hợp nhuần nhuyễn giữa điều gì?",
+            "options": {
+              "A": "Chủ nghĩa yêu nước với chủ nghĩa quốc tế vô sản, độc lập dân tộc với chủ nghĩa xã hội",
+              "B": "Chủ nghĩa dân tộc với chủ nghĩa quốc tế vô sản, độc lập dân tộc với chủ nghĩa xã hội",
+              "C": "Chủ nghĩa yêu nước với chủ nghĩa quốc tế, độc lập dân tộc với chủ nghĩa xã hội",
+              "D": "Chủ nghĩa dân tộc với chủ nghĩa quốc tế, độc lập dân tộc với chủ nghĩa xã hội"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 113,
+            "question": "Cùng với những nhà hoạt động cách mạng của các thuộc địa Pháp, Chủ tịch Hồ Chí Minh thành lập tổ chức gì?",
+            "options": {
+              "A": "Hội liên hiệp các dân tộc thuộc địa",
+              "B": "Hội đoàn kết các dân tộc thuộc địa",
+              "C": "Hội giải phóng các dân tộc thuộc địa",
+              "D": "Hội cách mạng các dân tộc thuộc địa"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 114,
+            "question": "Năm 1922, Chủ tịch Hồ Chí Minh xuất bản báo gì bằng tiếng Pháp?",
+            "options": {
+              "A": "Người cùng khổ (Le Paria)",
+              "B": "Người bị áp bức (Le Opprimé)",
+              "C": "Người lao động (Le Travailleur)",
+              "D": "Người cách mạng (Le Révolutionnaire)"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 115,
+            "question": "Trong bài Lời kêu gọi đăng ở số báo đầu tiên, Chủ tịch Hồ Chí Minh chỉ ra mục đích của tờ báo là gì?",
+            "options": {
+              "A": "Đấu tranh để giải phóng con người",
+              "B": "Đấu tranh để giải phóng dân tộc",
+              "C": "Đấu tranh để giải phóng giai cấp",
+              "D": "Đấu tranh để giải phóng thuộc địa"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 116,
+            "question": "Trong thời gian hoạt động ở Quốc tế Cộng sản, Chủ tịch Hồ Chí Minh chỉ ra tình cảnh của ai ở các nước thuộc địa?",
+            "options": {
+              "A": "Giai cấp công nhân, nông dân nghèo đang chết dần vì đói rét, bệnh tật",
+              "B": "Giai cấp tư sản, địa chủ đang bóc lột nhân dân",
+              "C": "Giai cấp trí thức đang bị đàn áp",
+              "D": "Giai cấp thương nhân đang bị cấm đoán"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 117,
+            "question": "Năm 1925, Chủ tịch Hồ Chí Minh viết tác phẩm gì?",
+            "options": {
+              "A": "Bản án chế độ thực dân Pháp",
+              "B": "Tuyên ngôn độc lập",
+              "C": "Đường cách mệnh",
+              "D": "Nhật ký trong tù"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 118,
+            "question": "Tác phẩm \"Bản án chế độ thực dân Pháp\" nhằm mục đích gì?",
+            "options": {
+              "A": "Tố cáo tội ác của chủ nghĩa thực dân Pháp, nêu rõ nỗi thống khổ và sức mạnh của nhân dân các nước thuộc địa",
+              "B": "Kêu gọi nhân dân các nước thuộc địa đứng lên đấu tranh",
+              "C": "Vạch trần bản chất của chủ nghĩa thực dân",
+              "D": "Tuyên truyền cách mạng"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 119,
+            "question": "Tại Quảng Châu, Chủ tịch Hồ Chí Minh thành lập tổ chức gì?",
+            "options": {
+              "A": "Việt Nam Thanh niên cách mạng đồng chí hội",
+              "B": "Việt Nam Cách mạng đồng chí hội",
+              "C": "Việt Nam Thanh niên hội",
+              "D": "Việt Nam Cách mạng hội"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 120,
+            "question": "Chủ tịch Hồ Chí Minh mở lớp huấn luyện, đào tạo trực tiếp cán bộ cho cách mạng Việt Nam tại đâu?",
+            "options": {
+              "A": "Quảng Châu",
+              "B": "Hồng Kông",
+              "C": "Thượng Hải",
+              "D": "Bắc Kinh"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 121,
+            "question": "Chủ tịch Hồ Chí Minh ra báo gì bằng tiếng Việt?",
+            "options": {
+              "A": "Báo Thanh niên",
+              "B": "Báo Cách mạng",
+              "C": "Báo Độc lập",
+              "D": "Báo Dân chủ"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 122,
+            "question": "Báo Thanh niên là tờ báo cách mạng đầu tiên của Việt Nam nhằm mục đích gì?",
+            "options": {
+              "A": "Truyền bá chủ nghĩa Mác-Lênin và lý luận cách mạng cho những người yêu nước",
+              "B": "Tuyên truyền cách mạng",
+              "C": "Giáo dục thanh niên",
+              "D": "Vận động quần chúng"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 123,
+            "question": "Các bài giảng của Chủ tịch Hồ Chí Minh tại lớp huấn luyện được tập hợp in thành cuốn gì?",
+            "options": {
+              "A": "Đường Cách mệnh (1927)",
+              "B": "Đường Lênin",
+              "C": "Đường Cách mạng",
+              "D": "Đường Độc lập"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 124,
+            "question": "Cuốn \"Đường Cách mệnh\" đề cập nhiều nội dung, nhiều vấn đề trong điều gì?",
+            "options": {
+              "A": "Đường lối và phương pháp cách mạng Việt Nam",
+              "B": "Lý luận và thực tiễn cách mạng",
+              "C": "Chiến lược và sách lược cách mạng",
+              "D": "Tổ chức và lãnh đạo cách mạng"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 125,
+            "question": "Cuốn \"Đường Cách mệnh\" là một trong những văn kiện lý luận đầu tiên của Đảng, đặt cơ sở tư tưởng cho điều gì?",
+            "options": {
+              "A": "Đường lối cách mạng Việt Nam sau này",
+              "B": "Tổ chức cách mạng Việt Nam",
+              "C": "Phương pháp cách mạng Việt Nam",
+              "D": "Chiến lược cách mạng Việt Nam"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 126,
+            "question": "Chủ tịch Hồ Chí Minh còn viết rất nhiều tác phẩm và nhiều bài trên báo nào?",
+            "options": {
+              "A": "Báo Việt Nam độc lập",
+              "B": "Báo Thanh niên",
+              "C": "Báo Cách mạng",
+              "D": "Báo Dân chủ"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 127,
+            "question": "Các bài viết trên báo Việt Nam độc lập có nội dung gì?",
+            "options": {
+              "A": "Ca ngợi truyền thống yêu nước, tinh thần đoàn kết, quật cường của dân tộc",
+              "B": "Kêu gọi đấu tranh cách mạng",
+              "C": "Tuyên truyền chủ nghĩa Mác-Lênin",
+              "D": "Vận động quần chúng"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 128,
+            "question": "Chủ tịch Hồ Chí Minh khẳng định: \"Lực lượng của giai cấp công nhân và nhân dân lao động là rất to lớn, là vô cùng vô tận. Nhưng lực lượng ấy cần có gì mới chắc chắn thắng lợi\"?",
+            "options": {
+              "A": "Đảng lãnh đạo",
+              "B": "Tổ chức cách mạng",
+              "C": "Lãnh đạo cách mạng",
+              "D": "Hướng dẫn cách mạng"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 129,
+            "question": "Chủ tịch Hồ Chí Minh chỉ rõ cách mạng Việt Nam phải có đảng lãnh đạo, có gì làm nòng cốt?",
+            "options": {
+              "A": "Chủ nghĩa Mác-Lênin",
+              "B": "Tư tưởng cách mạng",
+              "C": "Lý luận cách mạng",
+              "D": "Đường lối cách mạng"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 130,
+            "question": "Năm 1930, Chủ tịch Hồ Chí Minh chủ trì Hội nghị hợp nhất ba tổ chức cộng sản, thành lập ra một Đảng Cộng sản thống nhất lấy tên là gì?",
+            "options": {
+              "A": "Đảng Cộng sản Việt Nam",
+              "B": "Đảng Lao động Việt Nam",
+              "C": "Đảng Cách mạng Việt Nam",
+              "D": "Đảng Dân chủ Việt Nam"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 131,
+            "question": "Thông qua các văn kiện nào do Nguyễn Ái Quốc dự thảo, các văn kiện này trở thành Cương lĩnh chính trị đầu tiên của Đảng?",
+            "options": {
+              "A": "Chính cương vắn tắt, Sách lược vắn tắt, Điều lệ vắn tắt",
+              "B": "Cương lĩnh chính trị, Điều lệ Đảng, Chương trình hành động",
+              "C": "Tuyên ngôn Đảng, Điều lệ Đảng, Nghị quyết Đảng",
+              "D": "Chính cương Đảng, Sách lược Đảng, Điều lệ Đảng"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 132,
+            "question": "Bản Cương lĩnh chính trị thể hiện rõ sự vận dụng sáng tạo và phát triển chủ nghĩa Mác-Lênin trong việc giải quyết mối quan hệ gì?",
+            "options": {
+              "A": "Giai cấp-dân tộc-quốc tế về đường lối cách mạng Việt Nam",
+              "B": "Dân tộc-giai cấp-quốc tế về đường lối cách mạng Việt Nam",
+              "C": "Quốc tế-giai cấp-dân tộc về đường lối cách mạng Việt Nam",
+              "D": "Giai cấp-quốc tế-dân tộc về đường lối cách mạng Việt Nam"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 133,
+            "question": "Đảng Cộng sản Việt Nam ra đời mở đầu một thời kỳ mới trong lịch sử dân tộc, đưa nhân dân Việt Nam bước vào cuộc đấu tranh vì điều gì?",
+            "options": {
+              "A": "Độc lập, tự do cùng các dân tộc bị áp bức, đấu tranh giải phóng dân tộc",
+              "B": "Dân chủ, tự do cùng các dân tộc bị áp bức, đấu tranh giải phóng dân tộc",
+              "C": "Độc lập, dân chủ cùng các dân tộc bị áp bức, đấu tranh giải phóng dân tộc",
+              "D": "Tự do, dân chủ cùng các dân tộc bị áp bức, đấu tranh giải phóng dân tộc"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 134,
+            "question": "Chủ tịch Hồ Chí Minh đã hoàn thành sứ mệnh lịch sử, trở thành gì?",
+            "options": {
+              "A": "Người sáng lập Đảng Cộng sản Việt Nam với Cương lĩnh chính trị đúng đắn",
+              "B": "Người lãnh đạo Đảng Cộng sản Việt Nam",
+              "C": "Người xây dựng Đảng Cộng sản Việt Nam",
+              "D": "Người phát triển Đảng Cộng sản Việt Nam"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 135,
+            "question": "Cương lĩnh chính trị đúng đắn đã chấm dứt cuộc khủng hoảng về điều gì?",
+            "options": {
+              "A": "Đường lối, phương pháp và tổ chức lãnh đạo cách mạng Việt Nam",
+              "B": "Tư tưởng, tổ chức và lãnh đạo cách mạng Việt Nam",
+              "C": "Lý luận, thực tiễn và tổ chức cách mạng Việt Nam",
+              "D": "Chiến lược, sách lược và tổ chức cách mạng Việt Nam"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 136,
+            "question": "Năm 1930, Đảng Cộng sản Việt Nam ra đời mở đầu cho một thời kỳ mới trong lịch sử của dân tộc. Tuy Đảng vừa mới ra đời nhưng đã trực tiếp lãnh đạo cao trào cách mạng nào?",
+            "options": {
+              "A": "Cao trào cách mạng 1930-1931, đỉnh cao là Xô Viết Nghệ Tĩnh",
+              "B": "Cao trào cách mạng 1931-1932, đỉnh cao là Xô Viết Nghệ Tĩnh",
+              "C": "Cao trào cách mạng 1930-1932, đỉnh cao là Xô Viết Nghệ Tĩnh",
+              "D": "Cao trào cách mạng 1929-1931, đỉnh cao là Xô Viết Nghệ Tĩnh"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 137,
+            "question": "Tháng 10/1930, Hội nghị Trung ương Đảng đã họp và ra nghị quyết: Hội nghị hiệp nhất Đảng do Nguyễn Ái Quốc chủ trì là phạm sai lầm, chỉ lo đến việc phản đế mà quên lợi ích giai cấp đấu tranh. Hội nghị đã bỏ tên \"Đảng Cộng sản Việt Nam\" mà lấy tên là gì?",
+            "options": {
+              "A": "\"Đảng Cộng sản Đông Dương\"",
+              "B": "\"Đảng Lao động Việt Nam\"",
+              "C": "\"Đảng Cách mạng Việt Nam\"",
+              "D": "\"Đảng Dân chủ Việt Nam\""
+            },
+            "correct": "A"
+          },
+          {
+            "id": 138,
+            "question": "Tháng 10/1934, Chủ tịch Hồ Chí Minh được vào học trường nào?",
+            "options": {
+              "A": "Trường Quốc tế Lênin",
+              "B": "Trường Đại học Tổng hợp Moskva",
+              "C": "Trường Đảng cao cấp",
+              "D": "Trường Quốc tế Cộng sản"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 139,
+            "question": "Chủ tịch Hồ Chí Minh học đầy đủ các môn lý luận cơ bản của chủ nghĩa Mác-Lênin và những phương pháp học tự nghiên cứu kết hợp với thực tế. Cuối năm 1936, Người trúng tuyển vào lớp nghiên cứu sinh, ngành gì?",
+            "options": {
+              "A": "Ngành lịch sử của Viện Nghiên cứu các vấn đề dân tộc và thuộc địa",
+              "B": "Ngành chính trị của Viện Nghiên cứu các vấn đề dân tộc và thuộc địa",
+              "C": "Ngành kinh tế của Viện Nghiên cứu các vấn đề dân tộc và thuộc địa",
+              "D": "Ngành xã hội của Viện Nghiên cứu các vấn đề dân tộc và thuộc địa"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 140,
+            "question": "Năm 1937, Chủ tịch Hồ Chí Minh dự kỳ thi học kỳ I của lớp nghiên cứu sinh đạt kết quả như thế nào?",
+            "options": {
+              "A": "Tất cả các môn học",
+              "B": "Hầu hết các môn học",
+              "C": "Nhiều môn học",
+              "D": "Một số môn học"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 141,
+            "question": "Năm 1938, Chủ tịch Hồ Chí Minh đã gửi thư cho Quốc tế Cộng sản bày tỏ nguyện vọng gì?",
+            "options": {
+              "A": "Được về nước",
+              "B": "Được học tập thêm",
+              "C": "Được hoạt động ở nước ngoài",
+              "D": "Được nghiên cứu thêm"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 142,
+            "question": "Được Quốc tế Cộng sản chấp thuận, vào ngày nào Chủ tịch Hồ Chí Minh trở về Việt Nam sau 30 năm hoạt động ở nước ngoài?",
+            "options": {
+              "A": "Ngày 28-01-1941",
+              "B": "Ngày 28-02-1941",
+              "C": "Ngày 28-03-1941",
+              "D": "Ngày 28-04-1941"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 143,
+            "question": "Tháng 05/1941, Hội nghị Trung ương lần thứ tám họp tại đâu dưới sự chủ trì của Chủ tịch Hồ Chí Minh?",
+            "options": {
+              "A": "Pác Bó (Cao Bằng)",
+              "B": "Tân Trào (Tuyên Quang)",
+              "C": "Thái Nguyên",
+              "D": "Lạng Sơn"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 144,
+            "question": "Hội nghị Trung ương lần thứ tám đã đặt nhiệm vụ gì lên hàng đầu?",
+            "options": {
+              "A": "Nhiệm vụ giải phóng dân tộc",
+              "B": "Nhiệm vụ cách mạng dân chủ",
+              "C": "Nhiệm vụ cách mạng xã hội",
+              "D": "Nhiệm vụ đấu tranh giai cấp"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 145,
+            "question": "Chủ tịch Hồ Chí Minh khẳng định: \"Trong lúc này quyền lợi dân tộc giải phóng cao hơn hết thảy. Chúng ta phải đoàn kết lại đánh đổ bọn đế quốc và bọn Việt gian đặng cứu giống nòi ra khỏi nước sôi lửa nóng\". Để tập hợp đông đảo các tầng lớp nhân dân, tranh thủ mọi lực lượng yêu nước chống đế quốc, giành độc lập cho dân tộc, chĩa mũi nhọn vào kẻ thù. Hội nghị quyết định thành lập tổ chức gì?",
+            "options": {
+              "A": "\"Việt Nam độc lập đồng minh\", gọi tắt là Mặt trận Việt Minh",
+              "B": "\"Việt Nam cách mạng đồng minh\", gọi tắt là Mặt trận Việt Minh",
+              "C": "\"Việt Nam dân chủ đồng minh\", gọi tắt là Mặt trận Việt Minh",
+              "D": "\"Việt Nam tự do đồng minh\", gọi tắt là Mặt trận Việt Minh"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 146,
+            "question": "Mặt trận Việt Minh được thành lập vào ngày nào?",
+            "options": {
+              "A": "Ngày 19/05/1941",
+              "B": "Ngày 19/06/1941",
+              "C": "Ngày 19/07/1941",
+              "D": "Ngày 19/08/1941"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 147,
+            "question": "Ngày 22/12/1944, tổ chức nào được thành lập, là tiền thân của Quân đội nhân dân Việt Nam?",
+            "options": {
+              "A": "Đội Việt Nam tuyên truyền giải phóng quân",
+              "B": "Đội Việt Nam giải phóng quân",
+              "C": "Đội Việt Nam cách mạng quân",
+              "D": "Đội Việt Nam độc lập quân"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 148,
+            "question": "Ngày 18/08/1945, Chủ tịch Hồ Chí Minh viết thư kêu gọi Tổng khởi nghĩa giành chính quyền, Người viết: \"Giờ quyết định cho vận mệnh dân tộc ta đã đến. Toàn quốc đồng bào hãy đứng dậy đem sức ta mà tự giải phóng cho ta\". Cách mạng Tháng Tám năm 1945 thành công, lật đổ chế độ phong kiến, lật đổ ách thống trị của thực dân Pháp và giành lại độc lập dân tộc từ tay ai?",
+            "options": {
+              "A": "Phát xít Nhật",
+              "B": "Thực dân Pháp",
+              "C": "Đế quốc Mỹ",
+              "D": "Phong kiến"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 149,
+            "question": "Ngày 02/09/1945, Chủ tịch Hồ Chí Minh đọc bản Tuyên ngôn Độc lập lịch sử, khai sinh ra nước nào?",
+            "options": {
+              "A": "Nước Việt Nam Dân chủ Cộng hòa",
+              "B": "Nước Việt Nam Cộng hòa",
+              "C": "Nước Việt Nam Dân chủ",
+              "D": "Nước Việt Nam Cộng hòa Dân chủ"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 150,
+            "question": "Bản Tuyên ngôn Độc lập là một văn kiện lịch sử có giá trị to lớn, trong đó độc lập, tự do gắn với phương hướng phát triển lên chủ nghĩa xã hội là tư tưởng chính trị cốt lõi vốn đã được Người phác thảo lần đầu trong Cương lĩnh của Đảng năm 1930, nay đã trở thành hiện thực cách mạng đồng thời trở thành chân lý của sự nghiệp đấu tranh giải phóng dân tộc, xây dựng xã hội mới của dân tộc Việt Nam. Điều này thể hiện điều gì?",
+            "options": {
+              "A": "Sự nhất quán trong tư tưởng và đường lối cách mạng của Chủ tịch Hồ Chí Minh",
+              "B": "Sự phát triển của tư tưởng cách mạng",
+              "C": "Sự hoàn thiện của đường lối cách mạng",
+              "D": "Sự thắng lợi của cách mạng"
+            },
+            "correct": "A"
+          }
+        ]
+    },
+    "part3": {
+      "title": "Thành tựu 80 năm và giai đoạn 1945-1969",
+      "description": "80 câu hỏi về thành tựu xây dựng và bảo vệ đất nước",
+      "question_count": 80,
+        "questions": [
+          {
+            "id": 151,
+            "question": "Sau thắng lợi vẻ vang của Cách mạng Tháng Tám năm 1945, nước Việt Nam Dân chủ Cộng hòa ra đời trong bối cảnh như thế nào?",
+            "options": {
+              "A": "Đầy cam go, thách thức",
+              "B": "Thuận lợi, ổn định",
+              "C": "Hòa bình, phát triển",
+              "D": "Độc lập, tự do"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 152,
+            "question": "Chính quyền cách mạng còn non trẻ phải đối diện với tình thế gì?",
+            "options": {
+              "A": "\"Ngàn cân treo sợi tóc\", thù trong giặc ngoài đan xen",
+              "B": "\"Nước sôi lửa nóng\", thù trong giặc ngoài đan xen",
+              "C": "\"Ngàn cân treo sợi tóc\", thù ngoài giặc trong đan xen",
+              "D": "\"Nước sôi lửa nóng\", thù ngoài giặc trong đan xen"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 153,
+            "question": "Giai đoạn 1945-1946, Đảng và Bác Hồ đã lãnh đạo toàn dân thực hiện đồng thời hai nhiệm vụ gì?",
+            "options": {
+              "A": "Xây dựng chính quyền cách mạng và bảo vệ thành quả Cách mạng Tháng Tám",
+              "B": "Xây dựng chính quyền cách mạng và phát triển kinh tế",
+              "C": "Bảo vệ thành quả Cách mạng Tháng Tám và phát triển văn hóa",
+              "D": "Xây dựng chính quyền cách mạng và đấu tranh chống ngoại xâm"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 154,
+            "question": "Cuộc Tổng tuyển cử ngày 6/01/1946 được tổ chức thành công, tổ chức nào ra đời?",
+            "options": {
+              "A": "Quốc hội khóa I",
+              "B": "Chính phủ lâm thời",
+              "C": "Ủy ban dân tộc giải phóng",
+              "D": "Mặt trận Việt Minh"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 155,
+            "question": "Quốc hội khóa I đã thông qua văn kiện gì?",
+            "options": {
+              "A": "Hiến pháp dân chủ đầu tiên",
+              "B": "Hiến pháp năm 1946",
+              "C": "Hiến pháp dân chủ nhân dân",
+              "D": "Hiến pháp cách mạng"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 156,
+            "question": "Các phong trào nào được phát động sôi nổi trong giai đoạn 1945-1946?",
+            "options": {
+              "A": "Xóa nạn mù chữ, diệt \"giặc đói\", \"giặc dốt\", \"giặc ngoại xâm\"",
+              "B": "Xóa nạn mù chữ, diệt \"giặc đói\", \"giặc dốt\", \"giặc nội xâm\"",
+              "C": "Xóa nạn mù chữ, diệt \"giặc đói\", \"giặc dốt\", \"giặc thực dân\"",
+              "D": "Xóa nạn mù chữ, diệt \"giặc đói\", \"giặc dốt\", \"giặc phong kiến\""
+            },
+            "correct": "A"
+          },
+          {
+            "id": 157,
+            "question": "Trước âm mưu xâm lược lần thứ hai của thực dân Pháp, đêm 19/12/1946, Chủ tịch Hồ Chí Minh thay mặt Trung ương Đảng và Chính phủ ra gì?",
+            "options": {
+              "A": "\"Lời kêu gọi Toàn quốc kháng chiến\"",
+              "B": "\"Lời kêu gọi Kháng chiến toàn quốc\"",
+              "C": "\"Lời kêu gọi Toàn dân kháng chiến\"",
+              "D": "\"Lời kêu gọi Kháng chiến toàn dân\""
+            },
+            "correct": "A"
+          },
+          {
+            "id": 158,
+            "question": "Trong \"Lời kêu gọi Toàn quốc kháng chiến\", Chủ tịch Hồ Chí Minh thể hiện quyết tâm gì?",
+            "options": {
+              "A": "\"Chúng ta thà hy sinh tất cả chứ nhất định không chịu mất nước, nhất định không chịu làm nô lệ!\"",
+              "B": "\"Chúng ta thà hy sinh tất cả chứ nhất định không chịu mất nước, nhất định không chịu làm nô lệ!\"",
+              "C": "\"Chúng ta thà hy sinh tất cả chứ nhất định không chịu mất nước, nhất định không chịu làm nô lệ!\"",
+              "D": "\"Chúng ta thà hy sinh tất cả chứ nhất định không chịu mất nước, nhất định không chịu làm nô lệ!\""
+            },
+            "correct": "A"
+          },
+          {
+            "id": 159,
+            "question": "Với đường lối kháng chiến toàn dân, toàn diện, trường kỳ, kết hợp giữa đấu tranh quân sự, chính trị, ngoại giao, vừa kháng chiến vừa kiến quốc, Đảng đã lãnh đạo Nhân dân ta đánh bại từng bước các chiến lược của ai?",
+            "options": {
+              "A": "Thực dân Pháp",
+              "B": "Đế quốc Mỹ",
+              "C": "Phát xít Nhật",
+              "D": "Thực dân Pháp và đế quốc Mỹ"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 160,
+            "question": "Đỉnh cao là chiến thắng Điện Biên Phủ năm 1954 - một bản anh hùng ca vĩ đại, \"lừng lẫy năm châu, chấn động địa cầu\", buộc Chính phủ Pháp phải ký Hiệp định gì?",
+            "options": {
+              "A": "Hiệp định Giơnevơ",
+              "B": "Hiệp định Paris",
+              "C": "Hiệp định Hà Nội",
+              "D": "Hiệp định Việt Nam"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 161,
+            "question": "Hiệp định Giơnevơ công nhận điều gì của Nhân dân ta?",
+            "options": {
+              "A": "Các quyền dân tộc cơ bản",
+              "B": "Các quyền con người cơ bản",
+              "C": "Các quyền công dân cơ bản",
+              "D": "Các quyền tự do cơ bản"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 162,
+            "question": "Hiệp định Giơnevơ kết thúc thắng lợi cuộc kháng chiến bao nhiêu năm trường kỳ chống thực dân Pháp và can thiệp Mỹ?",
+            "options": {
+              "A": "9 năm",
+              "B": "8 năm",
+              "C": "10 năm",
+              "D": "7 năm"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 163,
+            "question": "Sau đó đế quốc Mỹ can thiệp sâu hơn vào miền Nam, thực hiện âm mưu gì?",
+            "options": {
+              "A": "Chia cắt lâu dài đất nước ta, biến miền Nam thành thuộc địa kiểu mới",
+              "B": "Thống nhất đất nước ta, biến miền Nam thành thuộc địa kiểu mới",
+              "C": "Chia cắt lâu dài đất nước ta, biến miền Nam thành nước độc lập",
+              "D": "Thống nhất đất nước ta, biến miền Nam thành nước độc lập"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 164,
+            "question": "Trước tình thế đó, dưới sự lãnh đạo của Đảng và Chủ tịch Hồ Chí Minh, toàn Đảng, toàn dân, toàn quân ta kiên quyết thực hiện hai nhiệm vụ chiến lược gì?",
+            "options": {
+              "A": "Cách mạng xã hội chủ nghĩa ở miền Bắc - xây dựng hậu phương lớn cho cả nước, và cách mạng dân tộc dân chủ ở miền Nam - đấu tranh giải phóng miền Nam, thống nhất đất nước",
+              "B": "Cách mạng dân tộc dân chủ ở miền Bắc - xây dựng hậu phương lớn cho cả nước, và cách mạng xã hội chủ nghĩa ở miền Nam - đấu tranh giải phóng miền Nam, thống nhất đất nước",
+              "C": "Cách mạng xã hội chủ nghĩa ở miền Bắc - xây dựng hậu phương lớn cho cả nước, và cách mạng dân tộc dân chủ ở miền Nam - đấu tranh giải phóng miền Nam, độc lập đất nước",
+              "D": "Cách mạng dân tộc dân chủ ở miền Bắc - xây dựng hậu phương lớn cho cả nước, và cách mạng xã hội chủ nghĩa ở miền Nam - đấu tranh giải phóng miền Nam, độc lập đất nước"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 165,
+            "question": "Cuộc kháng chiến chống Mỹ, cứu nước là bản anh hùng ca của dân tộc Việt Nam trong thế kỷ nào?",
+            "options": {
+              "A": "Thế kỷ XX",
+              "B": "Thế kỷ XIX",
+              "C": "Thế kỷ XXI",
+              "D": "Thế kỷ XVIII"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 166,
+            "question": "Cuộc kháng chiến chống Mỹ, cứu nước trải qua bao nhiêu năm trường kỳ, gian khổ và oanh liệt?",
+            "options": {
+              "A": "21 năm (1954 - 1975)",
+              "B": "20 năm (1954 - 1974)",
+              "C": "22 năm (1954 - 1976)",
+              "D": "19 năm (1954 - 1973)"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 167,
+            "question": "Miền Bắc vừa chiến đấu chống chiến tranh phá hoại, vừa nỗ lực phục hồi và phát triển kinh tế, thực hiện nghĩa vụ gì?",
+            "options": {
+              "A": "Hậu phương lớn, không ngừng chi viện cho tiền tuyến miền Nam",
+              "B": "Tiền tuyến lớn, không ngừng chi viện cho hậu phương miền Nam",
+              "C": "Hậu phương lớn, không ngừng chi viện cho tiền tuyến miền Bắc",
+              "D": "Tiền tuyến lớn, không ngừng chi viện cho hậu phương miền Bắc"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 168,
+            "question": "Đại thắng mùa Xuân năm 1975 mà đỉnh cao là Chiến dịch Hồ Chí Minh lịch sử đã kết thúc thắng lợi trọn vẹn cuộc kháng chiến chống Mỹ cứu nước, giải phóng hoàn toàn miền Nam, thống nhất đất nước. Điều này có ý nghĩa gì?",
+            "options": {
+              "A": "Hoàn thành sự nghiệp giải phóng dân tộc, thống nhất đất nước",
+              "B": "Hoàn thành sự nghiệp cách mạng dân tộc dân chủ",
+              "C": "Hoàn thành sự nghiệp cách mạng xã hội chủ nghĩa",
+              "D": "Hoàn thành sự nghiệp đấu tranh giai cấp"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 169,
+            "question": "Sau ngày thống nhất, đất nước ta tiếp tục đối mặt với điều gì?",
+            "options": {
+              "A": "Nhiều khó khăn to lớn",
+              "B": "Nhiều thuận lợi to lớn",
+              "C": "Nhiều thách thức to lớn",
+              "D": "Nhiều cơ hội to lớn"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 170,
+            "question": "Một mặt, chúng ta phải khẩn trương khắc phục hậu quả nặng nề của hơn ba thập kỷ chiến tranh, ổn định đời sống Nhân dân, củng cố chính quyền cách mạng và xây dựng nền kinh tế độc lập, tự chủ. Mặt khác vừa chiến đấu bảo vệ biên giới, bảo vệ độc lập, chủ quyền lãnh thổ thiêng liêng của Tổ quốc; đồng thời làm tròn nghĩa vụ quốc tế cao cả giúp nhân dân Campuchia thoát khỏi họa diệt chủng và tiến hành công cuộc hồi sinh đất nước. Điều này thể hiện điều gì?",
+            "options": {
+              "A": "Tinh thần quốc tế vô sản và trách nhiệm của Việt Nam đối với nhân loại",
+              "B": "Tinh thần đoàn kết quốc tế và trách nhiệm của Việt Nam đối với nhân loại",
+              "C": "Tinh thần quốc tế vô sản và trách nhiệm của Việt Nam đối với khu vực",
+              "D": "Tinh thần đoàn kết quốc tế và trách nhiệm của Việt Nam đối với khu vực"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 171,
+            "question": "Cách mạng Tháng Tám năm 1945 giành thắng lợi đã mở ra điều gì trong lịch sử dân tộc Việt Nam?",
+            "options": {
+              "A": "Bước ngoặt vĩ đại trong lịch sử dân tộc Việt Nam",
+              "B": "Thời kỳ mới trong lịch sử dân tộc Việt Nam",
+              "C": "Kỷ nguyên mới trong lịch sử dân tộc Việt Nam",
+              "D": "Trang sử mới trong lịch sử dân tộc Việt Nam"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 172,
+            "question": "Sự kiện ngày 2/9/1945 với sự ra đời của nước Việt Nam Dân chủ Cộng hòa - Nhà nước dân chủ nhân dân đầu tiên ở Đông Nam Á đã chấm dứt vĩnh viễn chế độ phong kiến, kết thúc hơn 80 năm bị đô hộ. Từ đây, dân tộc Việt Nam bước vào kỷ nguyên gì?",
+            "options": {
+              "A": "Kỷ nguyên độc lập dân tộc gắn liền với chủ nghĩa xã hội",
+              "B": "Kỷ nguyên độc lập dân tộc gắn liền với chủ nghĩa tư bản",
+              "C": "Kỷ nguyên độc lập dân tộc gắn liền với chủ nghĩa dân chủ",
+              "D": "Kỷ nguyên độc lập dân tộc gắn liền với chủ nghĩa tự do"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 173,
+            "question": "Tiếp nối thắng lợi ấy, ngày 06/01/1946, cuộc Tổng Tuyển cử toàn quốc lần đầu tiên được tổ chức theo nguyên tắc gì?",
+            "options": {
+              "A": "Dân chủ, tiến bộ",
+              "B": "Dân chủ, tự do",
+              "C": "Tự do, bình đẳng",
+              "D": "Bình đẳng, tiến bộ"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 174,
+            "question": "Cuộc Tổng Tuyển cử toàn quốc lần đầu tiên với bao nhiêu đại biểu Quốc hội được Nhân dân cả nước tín nhiệm bầu ra?",
+            "options": {
+              "A": "333 đại biểu",
+              "B": "334 đại biểu",
+              "C": "332 đại biểu",
+              "D": "335 đại biểu"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 175,
+            "question": "Quốc hội khóa I đã thông qua Hiến pháp năm 1946, xác lập nền tảng pháp lý nhà nước kiểu mới, khẳng định chính quyền của Nhân dân, do Nhân dân và vì Nhân dân - có đầy đủ tư cách đại diện cho đất nước trên trường quốc tế. Điều này có ý nghĩa gì?",
+            "options": {
+              "A": "Khẳng định tính chính danh của nhà nước Việt Nam",
+              "B": "Khẳng định tính độc lập của nhà nước Việt Nam",
+              "C": "Khẳng định tính dân chủ của nhà nước Việt Nam",
+              "D": "Khẳng định tính tự chủ của nhà nước Việt Nam"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 176,
+            "question": "Sau ba thập kỷ tiếp tục trường kỳ kháng chiến, đỉnh cao là Đại thắng mùa Xuân năm 1975, miền Nam hoàn toàn giải phóng, non sông thu về một mối. Hội nghị Trung ương 24 (tháng 9/1975) xác định nhiệm vụ gì?",
+            "options": {
+              "A": "Hoàn thành thống nhất đất nước",
+              "B": "Hoàn thành giải phóng dân tộc",
+              "C": "Hoàn thành cách mạng dân chủ",
+              "D": "Hoàn thành cách mạng xã hội"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 177,
+            "question": "Kết quả, ngày 25/4/1976, hơn 23 triệu cử tri (98,8 % tổng số) tham gia Tổng Tuyển cử bầu Quốc hội chung của cả nước. Tại kỳ họp đầu tiên, Quốc hội quyết nghị đặt tên nước là gì?",
+            "options": {
+              "A": "Cộng hòa Xã hội Chủ nghĩa Việt Nam",
+              "B": "Việt Nam Dân chủ Cộng hòa",
+              "C": "Cộng hòa Dân chủ Việt Nam",
+              "D": "Việt Nam Cộng hòa"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 178,
+            "question": "Tại kỳ họp đầu tiên, Quốc hội quyết nghị Quốc kỳ là gì?",
+            "options": {
+              "A": "Cờ đỏ sao vàng",
+              "B": "Cờ vàng sao đỏ",
+              "C": "Cờ đỏ sao trắng",
+              "D": "Cờ trắng sao đỏ"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 179,
+            "question": "Tại kỳ họp đầu tiên, Quốc hội quyết nghị Quốc ca là gì?",
+            "options": {
+              "A": "\"Tiến quân ca\"",
+              "B": "\"Đoàn quân Việt Nam\"",
+              "C": "\"Việt Nam quê hương tôi\"",
+              "D": "\"Hành khúc Việt Nam\""
+            },
+            "correct": "A"
+          },
+          {
+            "id": 180,
+            "question": "Tại kỳ họp đầu tiên, Quốc hội quyết nghị Quốc huy mang dòng chữ gì?",
+            "options": {
+              "A": "\"Cộng hòa Xã hội Chủ nghĩa Việt Nam\"",
+              "B": "\"Việt Nam Dân chủ Cộng hòa\"",
+              "C": "\"Cộng hòa Dân chủ Việt Nam\"",
+              "D": "\"Việt Nam Cộng hòa\""
+            },
+            "correct": "A"
+          },
+          {
+            "id": 181,
+            "question": "Tại kỳ họp đầu tiên, Quốc hội quyết nghị Hà Nội là gì?",
+            "options": {
+              "A": "Thủ đô",
+              "B": "Thành phố trung tâm",
+              "C": "Thành phố lớn",
+              "D": "Thành phố chính"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 182,
+            "question": "Tại kỳ họp đầu tiên, Quốc hội quyết nghị đổi tên Thành phố Sài Gòn thành gì?",
+            "options": {
+              "A": "Thành phố Hồ Chí Minh",
+              "B": "Thành phố Sài Gòn - Gia Định",
+              "C": "Thành phố Gia Định",
+              "D": "Thành phố Nam Bộ"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 183,
+            "question": "Việc hoàn tất thống nhất đất nước về mặt nhà nước đã tạo điều kiện chính trị căn bản để huy động, phát huy sức mạnh toàn dân tộc, mở đường cho sự nghiệp gì?",
+            "options": {
+              "A": "Xây dựng và bảo vệ Tổ quốc trong thời đại mới",
+              "B": "Phát triển và bảo vệ Tổ quốc trong thời đại mới",
+              "C": "Xây dựng và phát triển Tổ quốc trong thời đại mới",
+              "D": "Phát triển và xây dựng Tổ quốc trong thời đại mới"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 184,
+            "question": "Việc hoàn tất thống nhất đất nước về mặt nhà nước khẳng định quyền tự quyết của Nhân dân Việt Nam trên con đường kiên định độc lập dân tộc gắn liền với chủ nghĩa xã hội, xây dựng đất nước như thế nào?",
+            "options": {
+              "A": "Giàu mạnh, văn minh, hùng cường",
+              "B": "Giàu mạnh, văn minh, phát triển",
+              "C": "Giàu mạnh, văn minh, hiện đại",
+              "D": "Giàu mạnh, văn minh, tiến bộ"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 185,
+            "question": "Ngay từ khi ra đời tháng 2/1930, Đảng Cộng sản Việt Nam đã kiên định con đường gì?",
+            "options": {
+              "A": "Con đường xã hội chủ nghĩa",
+              "B": "Con đường tư bản chủ nghĩa",
+              "C": "Con đường dân chủ chủ nghĩa",
+              "D": "Con đường tự do chủ nghĩa"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 186,
+            "question": "Cương lĩnh chính trị đầu tiên được Hội nghị thành lập Đảng thông qua, nêu mục tiêu chiến lược gì?",
+            "options": {
+              "A": "\"Làm cho nước Nam được hoàn toàn độc lập\" để \"tiến tới xã hội cộng sản\"",
+              "B": "\"Làm cho nước Nam được hoàn toàn độc lập\" để \"tiến tới xã hội tư bản\"",
+              "C": "\"Làm cho nước Nam được hoàn toàn độc lập\" để \"tiến tới xã hội dân chủ\"",
+              "D": "\"Làm cho nước Nam được hoàn toàn độc lập\" để \"tiến tới xã hội tự do\""
+            },
+            "correct": "A"
+          },
+          {
+            "id": 187,
+            "question": "Luận cương chính trị tháng 10/1930 chỉ rõ: cách mạng Việt Nam \"bỏ qua giai đoạn tư bản, trực tiếp tiến lên con đường gì\"?",
+            "options": {
+              "A": "Con đường xã hội chủ nghĩa",
+              "B": "Con đường tư bản chủ nghĩa",
+              "C": "Con đường dân chủ chủ nghĩa",
+              "D": "Con đường tự do chủ nghĩa"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 188,
+            "question": "Thắng lợi của Cách mạng Tháng Tám năm 1945, dưới sự lãnh đạo của Đảng và Chủ tịch Hồ Chí Minh, đã xóa bỏ ách thực dân, phong kiến, mở ra kỷ nguyên độc lập dân tộc gắn liền với chủ nghĩa xã hội - kỷ nguyên mà ai làm chủ xã hội và chính cuộc sống của mình?",
+            "options": {
+              "A": "Nhân dân",
+              "B": "Giai cấp công nhân",
+              "C": "Giai cấp nông dân",
+              "D": "Giai cấp tư sản"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 189,
+            "question": "Tại Đại hội II (tháng 2/1951), Luận cương cách mạng Việt Nam lần đầu tiên trình bày những điều gì?",
+            "options": {
+              "A": "Những điều kiện và phương hướng quá độ lên chủ nghĩa xã hội",
+              "B": "Những điều kiện và phương hướng quá độ lên chủ nghĩa tư bản",
+              "C": "Những điều kiện và phương hướng quá độ lên chủ nghĩa dân chủ",
+              "D": "Những điều kiện và phương hướng quá độ lên chủ nghĩa tự do"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 190,
+            "question": "Bước ngoặt đổi mới toàn diện do Đại hội VI (tháng 12/1986) khởi xướng đã được lý luận hóa bằng việc vận dụng sáng tạo chủ nghĩa Mác-Lênin và tư tưởng Hồ Chí Minh, cùng tổng kết thực tiễn cách mạng trong nước, đã tạo nền tảng cho tư duy mới về điều gì?",
+            "options": {
+              "A": "Thời kỳ quá độ",
+              "B": "Thời kỳ phát triển",
+              "C": "Thời kỳ xây dựng",
+              "D": "Thời kỳ đổi mới"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 191,
+            "question": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội do Đại hội VII (tháng 6/1991) thông qua và Cương lĩnh (bổ sung, phát triển năm 2011) được Đại hội XI phê chuẩn, là những mốc quan trọng đánh dấu quá trình gì?",
+            "options": {
+              "A": "Hoàn thiện về lý luận",
+              "B": "Hoàn thiện về thực tiễn",
+              "C": "Hoàn thiện về tổ chức",
+              "D": "Hoàn thiện về phương pháp"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 192,
+            "question": "Tám đặc trưng của xã hội xã hội chủ nghĩa được xác định trong Cương lĩnh (bổ sung, phát triển năm 2011) giúp Đảng nhận thức sâu sắc hơn về điều gì?",
+            "options": {
+              "A": "Dân chủ xã hội chủ nghĩa, quyền làm chủ của Nhân dân",
+              "B": "Dân chủ tư bản chủ nghĩa, quyền làm chủ của Nhân dân",
+              "C": "Dân chủ dân chủ chủ nghĩa, quyền làm chủ của Nhân dân",
+              "D": "Dân chủ tự do chủ nghĩa, quyền làm chủ của Nhân dân"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 193,
+            "question": "Tám đặc trưng của xã hội xã hội chủ nghĩa được xác định trong Cương lĩnh (bổ sung, phát triển năm 2011) giúp Đảng nhận thức sâu sắc hơn về mục tiêu phát triển nhanh, bền vững, coi chất lượng, hiệu quả và sức cạnh tranh của nền kinh tế là gì?",
+            "options": {
+              "A": "Trung tâm",
+              "B": "Mục tiêu",
+              "C": "Động lực",
+              "D": "Nền tảng"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 194,
+            "question": "Tám đặc trưng của xã hội xã hội chủ nghĩa được xác định trong Cương lĩnh (bổ sung, phát triển năm 2011) giúp Đảng nhận thức sâu sắc hơn về con người và văn hóa là gì?",
+            "options": {
+              "A": "Nền tảng tinh thần, nguồn lực nội sinh của phát triển",
+              "B": "Nền tảng vật chất, nguồn lực nội sinh của phát triển",
+              "C": "Nền tảng tinh thần, nguồn lực ngoại sinh của phát triển",
+              "D": "Nền tảng vật chất, nguồn lực ngoại sinh của phát triển"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 195,
+            "question": "Tám đặc trưng của xã hội xã hội chủ nghĩa được xác định trong Cương lĩnh (bổ sung, phát triển năm 2011) giúp Đảng nhận thức sâu sắc hơn về sức mạnh đại đoàn kết toàn dân tộc gắn với mở rộng quan hệ quốc tế, kết hợp sức mạnh dân tộc và sức mạnh thời đại. Điều này thể hiện điều gì?",
+            "options": {
+              "A": "Tầm nhìn chiến lược và phương pháp luận khoa học của Đảng",
+              "B": "Tầm nhìn chiến lược và phương pháp luận cách mạng của Đảng",
+              "C": "Tầm nhìn chiến lược và phương pháp luận thực tiễn của Đảng",
+              "D": "Tầm nhìn chiến lược và phương pháp luận lý luận của Đảng"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 196,
+            "question": "Từ Đại hội VII đến Đại hội XIII, đường lối đổi mới được bổ sung, hoàn thiện, tiếp tục khẳng định: kiên định chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh là nền tảng tư tưởng, kim chỉ nam cho mọi hành động; đồng thời nhấn mạnh yêu cầu đổi mới đồng bộ, toàn diện trên mọi lĩnh vực, giữ vững định hướng gì?",
+            "options": {
+              "A": "Định hướng xã hội chủ nghĩa",
+              "B": "Định hướng tư bản chủ nghĩa",
+              "C": "Định hướng dân chủ chủ nghĩa",
+              "D": "Định hướng tự do chủ nghĩa"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 197,
+            "question": "Thành quả đổi mới gần bốn thập kỷ qua chứng minh tính đúng đắn và sáng tạo của con đường xã hội chủ nghĩa ở Việt Nam: kinh tế duy trì tốc độ tăng trưởng khá cao, đời sống Nhân dân được cải thiện rõ rệt, vị thế và uy tín quốc tế của đất nước không ngừng nâng cao. Điều này khẳng định điều gì?",
+            "options": {
+              "A": "Con đường đi lên chủ nghĩa xã hội phù hợp với thực tiễn Việt Nam và xu thế phát triển của thời đại",
+              "B": "Con đường đi lên chủ nghĩa tư bản phù hợp với thực tiễn Việt Nam và xu thế phát triển của thời đại",
+              "C": "Con đường đi lên chủ nghĩa dân chủ phù hợp với thực tiễn Việt Nam và xu thế phát triển của thời đại",
+              "D": "Con đường đi lên chủ nghĩa tự do phù hợp với thực tiễn Việt Nam và xu thế phát triển của thời đại"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 198,
+            "question": "Những kết quả ấy khẳng định con đường đi lên chủ nghĩa xã hội phù hợp với thực tiễn Việt Nam và xu thế phát triển của thời đại, đồng thời minh chứng cho sự phát triển ngày càng sáng tỏ của nhận thức lý luận về chủ nghĩa xã hội và thời kỳ quá độ dưới sự lãnh đạo của ai?",
+            "options": {
+              "A": "Đảng Cộng sản Việt Nam",
+              "B": "Nhà nước Việt Nam",
+              "C": "Chính phủ Việt Nam",
+              "D": "Quốc hội Việt Nam"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 199,
+            "question": "Giai đoạn 1945-1954 là thời kỳ đầu tiên xây dựng nền kinh tế mới ở Việt Nam, đồng thời cũng là giai đoạn gian khổ nhất trong lịch sử phát triển đất nước. Trong bối cảnh vừa giành được chính quyền, lại phải bước vào cuộc kháng chiến trường kỳ chống thực dân Pháp, nhiệm vụ xây dựng và cải tạo nền kinh tế được triển khai trong điều kiện như thế nào?",
+            "options": {
+              "A": "Hết sức khó khăn",
+              "B": "Tương đối khó khăn",
+              "C": "Thuận lợi",
+              "D": "Rất thuận lợi"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 200,
+            "question": "Dưới sự lãnh đạo của Đảng, chúng ta đã từng bước chuyển đổi nền kinh tế tàn dư của chế độ thực dân, phong kiến vốn lạc hậu, lệ thuộc, thành một nền kinh tế như thế nào?",
+            "options": {
+              "A": "Dân chủ, độc lập, phục vụ trực tiếp cho sự nghiệp kháng chiến và kiến quốc",
+              "B": "Tư bản, độc lập, phục vụ trực tiếp cho sự nghiệp kháng chiến và kiến quốc",
+              "C": "Dân chủ, tự chủ, phục vụ trực tiếp cho sự nghiệp kháng chiến và kiến quốc",
+              "D": "Tư bản, tự chủ, phục vụ trực tiếp cho sự nghiệp kháng chiến và kiến quốc"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 201,
+            "question": "Từ năm 1955 đến năm 1975, đất nước bị chia cắt làm hai miền với hai mô hình kinh tế - xã hội khác nhau. Ở miền Bắc, Đảng và Nhà nước ta đã lãnh đạo thực hiện các nhiệm vụ kinh tế phù hợp với từng thời kỳ. Giai đoạn 1955-1957 là thời kỳ gì?",
+            "options": {
+              "A": "Khôi phục và hàn gắn vết thương chiến tranh",
+              "B": "Hoàn thành cải cách ruộng đất",
+              "C": "Cải tạo quan hệ sản xuất theo định hướng xã hội chủ nghĩa",
+              "D": "Phát triển kinh tế kết hợp với xây dựng hậu phương lớn"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 202,
+            "question": "Giai đoạn 1958-1960, miền Bắc thực hiện nhiệm vụ gì?",
+            "options": {
+              "A": "Hoàn thành cải cách ruộng đất, cải tạo quan hệ sản xuất theo định hướng xã hội chủ nghĩa",
+              "B": "Khôi phục và hàn gắn vết thương chiến tranh",
+              "C": "Phát triển kinh tế kết hợp với xây dựng hậu phương lớn",
+              "D": "Xây dựng cơ sở vật chất cho chủ nghĩa xã hội"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 203,
+            "question": "Giai đoạn 1961-1975, miền Bắc chuyển sang phát triển kinh tế kết hợp chặt chẽ với nhiệm vụ gì?",
+            "options": {
+              "A": "Xây dựng hậu phương lớn cho tiền tuyến miền Nam trong điều kiện chiến tranh khốc liệt",
+              "B": "Hoàn thành cải cách ruộng đất",
+              "C": "Cải tạo quan hệ sản xuất theo định hướng xã hội chủ nghĩa",
+              "D": "Khôi phục và hàn gắn vết thương chiến tranh"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 204,
+            "question": "Giai đoạn 1976-1985, sau khi đất nước thống nhất, cả nước cùng tiến lên chủ nghĩa xã hội. Đây là thời kỳ mà công cuộc cải tạo, xây dựng và phát triển kinh tế được xác định là nhiệm vụ gì?",
+            "options": {
+              "A": "Nhiệm vụ trọng tâm của toàn Đảng, toàn dân và toàn quân ta",
+              "B": "Nhiệm vụ thứ yếu của toàn Đảng, toàn dân và toàn quân ta",
+              "C": "Nhiệm vụ phụ của toàn Đảng, toàn dân và toàn quân ta",
+              "D": "Nhiệm vụ bổ sung của toàn Đảng, toàn dân và toàn quân ta"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 205,
+            "question": "Nhân dân cả nước tích cực triển khai kế hoạch 5 năm lần thứ hai (1976-1980) và kế hoạch 5 năm lần thứ ba (1981-1985). Tuy đã đạt được một số kết quả bước đầu trong khôi phục sản xuất và xây dựng cơ sở vật chất - kỹ thuật, nhưng nhìn chung nền kinh tế vẫn còn như thế nào?",
+            "options": {
+              "A": "Nhiều yếu kém",
+              "B": "Tương đối ổn định",
+              "C": "Phát triển tốt",
+              "D": "Rất phát triển"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 206,
+            "question": "Những hạn chế của cơ chế quản lý tập trung, bao cấp kéo dài, cùng những khó khăn từ bên ngoài đã khiến nền kinh tế rơi vào tình trạng gì?",
+            "options": {
+              "A": "Trì trệ, mất cân đối, thậm chí có những biểu hiện của khủng hoảng nghiêm trọng",
+              "B": "Phát triển chậm, mất cân đối",
+              "C": "Trì trệ, mất cân đối",
+              "D": "Khủng hoảng nghiêm trọng"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 207,
+            "question": "Trước yêu cầu cấp thiết của thực tiễn, từ năm 1986, Đảng ta khởi xướng và lãnh đạo công cuộc đổi mới toàn diện đất nước, trước hết là đổi mới gì?",
+            "options": {
+              "A": "Đổi mới tư duy kinh tế",
+              "B": "Đổi mới tư duy chính trị",
+              "C": "Đổi mới tư duy văn hóa",
+              "D": "Đổi mới tư duy xã hội"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 208,
+            "question": "Với việc từng bước xóa bỏ cơ chế bao cấp, phát triển kinh tế nhiều thành phần, vận hành cơ chế thị trường có sự quản lý của Nhà nước theo định hướng xã hội chủ nghĩa, nền kinh tế nước ta đã có những chuyển biến như thế nào?",
+            "options": {
+              "A": "Những chuyển biến tích cực",
+              "B": "Những chuyển biến tiêu cực",
+              "C": "Những chuyển biến chậm chạp",
+              "D": "Những chuyển biến không đáng kể"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 209,
+            "question": "Đến năm 1995, các chỉ tiêu chủ yếu của kế hoạch 5 năm (1991-1995) đều hoàn thành và vượt mức, đưa đất nước thoát khỏi khủng hoảng kinh tế - xã hội, tạo đà chuyển sang giai đoạn phát triển mới, đẩy mạnh điều gì?",
+            "options": {
+              "A": "Công nghiệp hóa, hiện đại hóa",
+              "B": "Nông nghiệp hóa, hiện đại hóa",
+              "C": "Dịch vụ hóa, hiện đại hóa",
+              "D": "Thương mại hóa, hiện đại hóa"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 210,
+            "question": "Từ một đất nước nghèo nàn, lạc hậu, chịu hậu quả nặng nề của chiến tranh và bao vây cấm vận, Việt Nam từng bước vươn lên trở thành một quốc gia như thế nào?",
+            "options": {
+              "A": "Quốc gia đang phát triển có thu nhập trung bình",
+              "B": "Quốc gia phát triển có thu nhập cao",
+              "C": "Quốc gia kém phát triển có thu nhập thấp",
+              "D": "Quốc gia phát triển có thu nhập trung bình"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 211,
+            "question": "Tính đến năm 2024, quy mô nền kinh tế Việt Nam xếp thứ mấy thế giới?",
+            "options": {
+              "A": "Thứ 32 thế giới",
+              "B": "Thứ 30 thế giới",
+              "C": "Thứ 35 thế giới",
+              "D": "Thứ 40 thế giới"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 212,
+            "question": "Tính đến năm 2024, Việt Nam thuộc nhóm bao nhiêu nền kinh tế hàng đầu về thương mại và thu hút đầu tư nước ngoài?",
+            "options": {
+              "A": "Nhóm 20 nền kinh tế hàng đầu",
+              "B": "Nhóm 25 nền kinh tế hàng đầu",
+              "C": "Nhóm 15 nền kinh tế hàng đầu",
+              "D": "Nhóm 30 nền kinh tế hàng đầu"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 213,
+            "question": "Thành quả ấy là minh chứng sinh động cho tầm vóc, trí tuệ và bản lĩnh của Đảng, Nhà nước và Nhân dân ta trong hành trình vượt qua khó khăn, khơi dậy nội lực, tranh thủ thời cơ, hội nhập sâu rộng và phát triển bền vững. Điều này thể hiện điều gì?",
+            "options": {
+              "A": "Sự thành công của đường lối đổi mới",
+              "B": "Sự thành công của đường lối cách mạng",
+              "C": "Sự thành công của đường lối phát triển",
+              "D": "Sự thành công của đường lối hội nhập"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 214,
+            "question": "Văn hóa phát triển đa dạng, phong phú, dân tộc, khoa học, đại chúng trong mọi lĩnh vực của đời sống xã hội, trở thành gì?",
+            "options": {
+              "A": "Nguồn lực phát triển đất nước",
+              "B": "Động lực phát triển đất nước",
+              "C": "Nền tảng phát triển đất nước",
+              "D": "Cơ sở phát triển đất nước"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 215,
+            "question": "Dưới sự lãnh đạo của Đảng, văn hóa Việt Nam đã phát triển theo định hướng gì?",
+            "options": {
+              "A": "Định hướng xã hội chủ nghĩa",
+              "B": "Định hướng tư bản chủ nghĩa",
+              "C": "Định hướng dân chủ chủ nghĩa",
+              "D": "Định hướng tự do chủ nghĩa"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 216,
+            "question": "Văn hóa Việt Nam đã phát huy được truyền thống tốt đẹp của dân tộc, tiếp thu tinh hoa văn hóa nhân loại, xây dựng nền văn hóa tiên tiến, đậm đà bản sắc dân tộc, đáp ứng yêu cầu phát triển bền vững đất nước. Điều này thể hiện điều gì?",
+            "options": {
+              "A": "Sự phát triển toàn diện của văn hóa Việt Nam",
+              "B": "Sự phát triển một chiều của văn hóa Việt Nam",
+              "C": "Sự phát triển chậm chạp của văn hóa Việt Nam",
+              "D": "Sự phát triển không đồng đều của văn hóa Việt Nam"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 217,
+            "question": "Hệ thống giáo dục quốc dân được xây dựng và phát triển toàn diện, từ mầm non đến đại học, sau đại học, đáp ứng yêu cầu phát triển nguồn nhân lực chất lượng cao cho đất nước. Điều này thể hiện điều gì?",
+            "options": {
+              "A": "Sự phát triển toàn diện của giáo dục Việt Nam",
+              "B": "Sự phát triển một chiều của giáo dục Việt Nam",
+              "C": "Sự phát triển chậm chạp của giáo dục Việt Nam",
+              "D": "Sự phát triển không đồng đều của giáo dục Việt Nam"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 218,
+            "question": "Việt Nam đã đạt được những thành tựu quan trọng trong lĩnh vực y tế, chăm sóc sức khỏe nhân dân, xây dựng hệ thống y tế công bằng, hiệu quả, đáp ứng nhu cầu chăm sóc sức khỏe của nhân dân. Điều này thể hiện điều gì?",
+            "options": {
+              "A": "Sự phát triển toàn diện của y tế Việt Nam",
+              "B": "Sự phát triển một chiều của y tế Việt Nam",
+              "C": "Sự phát triển chậm chạp của y tế Việt Nam",
+              "D": "Sự phát triển không đồng đều của y tế Việt Nam"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 219,
+            "question": "Tuổi thọ trung bình của người dân Việt Nam đã được nâng cao đáng kể, từ mức thấp trong những năm đầu sau cách mạng lên mức cao hơn nhiều so với các nước có cùng mức thu nhập. Điều này thể hiện điều gì?",
+            "options": {
+              "A": "Sự cải thiện đáng kể về chất lượng cuộc sống",
+              "B": "Sự cải thiện không đáng kể về chất lượng cuộc sống",
+              "C": "Sự cải thiện chậm chạp về chất lượng cuộc sống",
+              "D": "Sự cải thiện không đồng đều về chất lượng cuộc sống"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 220,
+            "question": "Tỷ lệ tử vong trẻ em dưới 5 tuổi đã giảm đáng kể, đạt được những tiến bộ quan trọng trong việc chăm sóc sức khỏe bà mẹ và trẻ em. Điều này thể hiện điều gì?",
+            "options": {
+              "A": "Sự cải thiện đáng kể về chăm sóc sức khỏe",
+              "B": "Sự cải thiện không đáng kể về chăm sóc sức khỏe",
+              "C": "Sự cải thiện chậm chạp về chăm sóc sức khỏe",
+              "D": "Sự cải thiện không đồng đều về chăm sóc sức khỏe"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 221,
+            "question": "Ngay sau thắng lợi của Cách mạng Tháng Tám năm 1945, Đảng và Chủ tịch Hồ Chí Minh đã kịp thời hình thành đường lối đối ngoại như thế nào?",
+            "options": {
+              "A": "Độc lập, tự chủ, mềm dẻo, tranh thủ tối đa sự đồng tình của bạn bè quốc tế",
+              "B": "Phụ thuộc, không tự chủ, cứng nhắc, không tranh thủ sự đồng tình của bạn bè quốc tế",
+              "C": "Độc lập, tự chủ, cứng nhắc, không tranh thủ sự đồng tình của bạn bè quốc tế",
+              "D": "Phụ thuộc, không tự chủ, mềm dẻo, tranh thủ tối đa sự đồng tình của bạn bè quốc tế"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 222,
+            "question": "Trong cuộc kháng chiến chống thực dân Pháp xâm lược, ngoại giao Việt Nam kiên trì \"lấy chính nghĩa thắng cường quyền\", khôn khéo kết hợp đấu tranh quân sự với đấu tranh chính trị, ngoại giao, tạo lập mặt trận dư luận rộng rãi ủng hộ cuộc kháng chiến chính nghĩa của Nhân dân ta. Điều này thể hiện điều gì?",
+            "options": {
+              "A": "Sự khôn khéo và sáng tạo trong đối ngoại",
+              "B": "Sự cứng nhắc và thiếu sáng tạo trong đối ngoại",
+              "C": "Sự mềm dẻo và thiếu sáng tạo trong đối ngoại",
+              "D": "Sự khôn khéo và thiếu sáng tạo trong đối ngoại"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 223,
+            "question": "Từ đầu thập niên 1950, hoạt động đối ngoại được triển khai có hệ thống trên ba kênh bổ trợ lẫn nhau. Đó là những kênh nào?",
+            "options": {
+              "A": "Đối ngoại Đảng, ngoại giao Nhà nước và đối ngoại nhân dân",
+              "B": "Đối ngoại Đảng, ngoại giao Nhà nước và đối ngoại quân sự",
+              "C": "Đối ngoại Đảng, ngoại giao Nhà nước và đối ngoại kinh tế",
+              "D": "Đối ngoại Đảng, ngoại giao Nhà nước và đối ngoại văn hóa"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 224,
+            "question": "Cơ chế phối hợp liên hoàn ấy đã làm phong phú phương thức vận động quốc tế, tạo ra sức mạnh tổng hợp trong đấu tranh bảo vệ lợi ích quốc gia, dân tộc. Điều này thể hiện điều gì?",
+            "options": {
+              "A": "Sự hiệu quả của cơ chế phối hợp đối ngoại",
+              "B": "Sự không hiệu quả của cơ chế phối hợp đối ngoại",
+              "C": "Sự hiệu quả một phần của cơ chế phối hợp đối ngoại",
+              "D": "Sự hiệu quả không đáng kể của cơ chế phối hợp đối ngoại"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 225,
+            "question": "Việt Nam đã thiết lập quan hệ ngoại giao với hơn 190 quốc gia và vùng lãnh thổ, là thành viên tích cực của hơn 70 tổ chức quốc tế và khu vực. Điều này thể hiện điều gì?",
+            "options": {
+              "A": "Sự mở rộng quan hệ quốc tế toàn diện",
+              "B": "Sự mở rộng quan hệ quốc tế một chiều",
+              "C": "Sự mở rộng quan hệ quốc tế chậm chạp",
+              "D": "Sự mở rộng quan hệ quốc tế không đồng đều"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 226,
+            "question": "Việt Nam đã tham gia tích cực vào các hoạt động của Liên hợp quốc, ASEAN, APEC và nhiều tổ chức quốc tế khác, đóng góp tích cực vào việc giải quyết các vấn đề khu vực và quốc tế. Điều này thể hiện điều gì?",
+            "options": {
+              "A": "Vai trò tích cực của Việt Nam trên trường quốc tế",
+              "B": "Vai trò thụ động của Việt Nam trên trường quốc tế",
+              "C": "Vai trò tích cực một phần của Việt Nam trên trường quốc tế",
+              "D": "Vai trò không đáng kể của Việt Nam trên trường quốc tế"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 227,
+            "question": "Toàn Đảng, toàn dân và toàn quân ta đang nỗ lực triển khai Cương lĩnh (bổ sung, phát triển năm 2011), Hiến pháp năm 2013, Nghị quyết Đại hội XIII của Đảng và các nghị quyết Trung ương mới nhất - trọng tâm là gì?",
+            "options": {
+              "A": "\"Ba đột phá chiến lược, sáu nhiệm vụ trọng tâm, mười hai nhóm giải pháp lớn\"",
+              "B": "\"Ba đột phá chiến lược, năm nhiệm vụ trọng tâm, mười nhóm giải pháp lớn\"",
+              "C": "\"Ba đột phá chiến lược, bảy nhiệm vụ trọng tâm, mười lăm nhóm giải pháp lớn\"",
+              "D": "\"Ba đột phá chiến lược, tám nhiệm vụ trọng tâm, mười tám nhóm giải pháp lớn\""
+            },
+            "correct": "A"
+          },
+          {
+            "id": 228,
+            "question": "Việt Nam hôm nay bước vào kỷ nguyên mới - kỷ nguyên phát triển giàu mạnh, văn minh, thịnh vượng của dân tộc - với điều gì?",
+            "options": {
+              "A": "Cơ hội và thách thức đan xen",
+              "B": "Cơ hội và thuận lợi đan xen",
+              "C": "Thách thức và khó khăn đan xen",
+              "D": "Thuận lợi và khó khăn đan xen"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 229,
+            "question": "Phát huy bài học quý báu từ thắng lợi của Cách mạng Tháng Tám năm 1945, toàn Đảng, toàn dân, toàn quân ta đoàn kết một lòng, quyết tâm xây đất nước như thế nào?",
+            "options": {
+              "A": "Phồn vinh, hạnh phúc, hiện thực hóa Di chúc thiêng liêng của Bác Hồ",
+              "B": "Giàu mạnh, văn minh, hiện thực hóa Di chúc thiêng liêng của Bác Hồ",
+              "C": "Phồn vinh, hạnh phúc, hiện thực hóa ước mơ của Bác Hồ",
+              "D": "Giàu mạnh, văn minh, hiện thực hóa ước mơ của Bác Hồ"
+            },
+            "correct": "A"
+          },
+          {
+            "id": 230,
+            "question": "Để biến khát vọng đó thành hiện thực, cần kiên định và vận dụng, phát triển sáng tạo điều gì?",
+            "options": {
+              "A": "Chủ nghĩa Mác-Lênin, tư tưởng Hồ Chí Minh, lý luận về đường lối đổi mới",
+              "B": "Chủ nghĩa Mác-Lênin, tư tưởng Hồ Chí Minh, lý luận về đường lối cách mạng",
+              "C": "Chủ nghĩa Mác-Lênin, tư tưởng Hồ Chí Minh, lý luận về đường lối phát triển",
+              "D": "Chủ nghĩa Mác-Lênin, tư tưởng Hồ Chí Minh, lý luận về đường lối xây dựng"
+            },
+            "correct": "A"
+          }
+        ]
+    }
+  }
+}

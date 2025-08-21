@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demo - Chọn số lượng câu hỏi và thời gian làm bài</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        .demo-info {
+            background: #e3f2fd;
+            border: 2px solid #2196f3;
+            border-radius: 15px;
+            padding: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .demo-info h2 {
+            color: #1976d2;
+            margin-bottom: 15px;
+        }
+        
+        .demo-info ul {
+            margin-left: 20px;
+        }
+        
+        .demo-info li {
+            margin: 8px 0;
+            color: #333;
+        }
+        
+        .feature-highlight {
+            background: #fff3cd;
+            border: 2px solid #ffc107;
+            border-radius: 10px;
+            padding: 15px;
+            margin: 15px 0;
+        }
+        
+        .feature-highlight h4 {
+            color: #856404;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Màn hình chọn bộ câu hỏi -->
+        <div id="selection-screen" class="screen active">
+            <div class="header">
+                <h1>🎯 Demo - Trắc Nghiệm Lịch Sử</h1>
+                <p>Kỷ niệm 80 năm Cách mạng Tháng 8 thành công và Quốc khánh 2/9</p>
+                <p><strong>Phiên bản mới - Chọn số lượng câu hỏi và thời gian</strong></p>
+            </div>
+            
+            <div class="selection-content">
+                <!-- Demo Info -->
+                <div class="demo-info">
+                    <h2>🚀 Tính năng mới được thêm:</h2>
+                    <ul>
+                        <li><strong>Chọn số lượng câu hỏi:</strong> 10, 20, 30, 50, 100 câu hoặc tùy chỉnh</li>
+                        <li><strong>Chọn thời gian mỗi câu:</strong> 30s, 45s, 1 phút, 1.5 phút, 2 phút</li>
+                        <li><strong>Tính thời gian tự động:</strong> Tổng thời gian = Số câu × Thời gian mỗi câu</li>
+                        <li><strong>Hiển thị thông tin:</strong> Tổng câu hỏi có sẵn và thời gian làm bài</li>
+                        <li><strong>Giao diện thân thiện:</strong> Dễ dàng cấu hình và theo dõi</li>
+                    </ul>
+                </div>
+
+                <div class="feature-highlight">
+                    <h4>💡 Cách sử dụng:</h4>
+                    <p>1. Chọn các phần câu hỏi bạn muốn làm</p>
+                    <p>2. Chọn số lượng câu hỏi từ dropdown hoặc nhập số tùy chỉnh</p>
+                    <p>3. Chọn thời gian cho mỗi câu hỏi</p>
+                    <p>4. Xem thời gian tổng được tính tự động</p>
+                    <p>5. Nhấn "Bắt đầu làm bài" để bắt đầu</p>
+                </div>
+                
+                <h2>Chọn bộ câu hỏi:</h2>
+                <div class="question-sets">
+                    <div class="question-set">
+                        <input type="checkbox" id="part1" value="part1">
+                        <label for="part1">
+                            <div class="set-info">
+                                <h3>📚 Phần 1: Cách mạng Tháng 8 và Quốc khánh 2/9</h3>
+                                <p>Đang tải dữ liệu...</p>
+                            </div>
+                        </label>
+                    </div>
+                    
+                    <div class="question-set">
+                        <input type="checkbox" id="part2" value="part2">
+                        <label for="part2">
+                            <div class="set-info">
+                                <h3>👤 Phần 2: Cuộc đời Chủ tịch Hồ Chí Minh</h3>
+                                <p>Đang tải dữ liệu...</p>
+                            </div>
+                        </label>
+                    </div>
+                    
+                    <div class="question-set">
+                        <input type="checkbox" id="part3" value="part3">
+                        <label for="part3">
+                            <div class="set-info">
+                                <h3>🏛️ Phần 3: Thành tựu 80 năm và giai đoạn 1945-1969</h3>
+                                <p>Đang tải dữ liệu...</p>
+                            </div>
+                        </label>
+                    </div>
+                </div>
+
+                <!-- Cấu hình số lượng câu hỏi và thời gian -->
+                <div class="quiz-config">
+                    <h3>⚙️ Cấu hình bài thi:</h3>
+                    
+                    <div class="config-row">
+                        <div class="config-item">
+                            <label for="question-count">Số lượng câu hỏi:</label>
+                            <select id="question-count">
+                                <option value="10">10 câu (5 phút)</option>
+                                <option value="20" selected>20 câu (10 phút)</option>
+                                <option value="30">30 câu (15 phút)</option>
+                                <option value="50">50 câu (25 phút)</option>
+                                <option value="100">100 câu (50 phút)</option>
+                                <option value="custom">Tùy chỉnh</option>
+                            </select>
+                        </div>
+                        
+                        <div class="config-item" id="custom-config" style="display: none;">
+                            <label for="custom-count">Số câu tùy chỉnh:</label>
+                            <input type="number" id="custom-count" min="5" max="230" value="20">
+                        </div>
+                    </div>
+                    
+                    <div class="config-row">
+                        <div class="config-item">
+                            <label for="time-per-question">Thời gian mỗi câu:</label>
+                            <select id="time-per-question">
+                                <option value="30">30 giây</option>
+                                <option value="45" selected>45 giây</option>
+                                <option value="60">1 phút</option>
+                                <option value="90">1.5 phút</option>
+                                <option value="120">2 phút</option>
+                            </select>
+                        </div>
+                        
+                        <div class="config-item">
+                            <label>Tổng thời gian:</label>
+                            <span id="total-time-display">15 phút</span>
+                        </div>
+                    </div>
+                    
+                    <div class="config-info">
+                        <p>📊 <strong>Tổng câu hỏi có sẵn:</strong> <span id="total-available">0</span> câu</p>
+                        <p>⏱️ <strong>Thời gian làm bài:</strong> <span id="time-display">15 phút</span></p>
+                    </div>
+                </div>
+                
+                <div class="actions">
+                    <button id="select-all" class="btn btn-secondary">Chọn tất cả</button>
+                    <button id="start-quiz" class="btn btn-primary" disabled>Bắt đầu làm bài</button>
+                </div>
+                
+                <div id="loading-status" style="text-align: center; margin-top: 20px; color: #666;">
+                    <p>🔄 Đang tải dữ liệu từ JSON...</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Màn hình làm bài -->
+        <div id="quiz-screen" class="screen">
+            <div class="quiz-header">
+                <div class="progress-info">
+                    <span id="current-question">1</span> / <span id="total-questions">20</span>
+                </div>
+                <div class="timer">
+                    <span id="time-left">20:00</span>
+                </div>
+            </div>
+            
+            <div class="progress-bar">
+                <div id="progress-fill"></div>
+            </div>
+            
+            <div class="question-container">
+                <h2 id="question-text"></h2>
+                <div class="options">
+                    <div class="option" data-option="A">
+                        <span class="option-label">A</span>
+                        <span class="option-text" id="option-a"></span>
+                    </div>
+                    <div class="option" data-option="B">
+                        <span class="option-label">B</span>
+                        <span class="option-text" id="option-b"></span>
+                    </div>
+                    <div class="option" data-option="C">
+                        <span class="option-label">C</span>
+                        <span class="option-text" id="option-c"></span>
+                    </div>
+                    <div class="option" data-option="D">
+                        <span class="option-label">D</span>
+                        <span class="option-text" id="option-d"></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="quiz-actions">
+                <button id="prev-question" class="btn btn-secondary" disabled>← Câu trước</button>
+                <button id="next-question" class="btn btn-primary">Câu tiếp →</button>
+                <button id="submit-quiz" class="btn btn-success" style="display: none;">Nộp bài</button>
+            </div>
+        </div>
+
+        <!-- Màn hình kết quả -->
+        <div id="result-screen" class="screen">
+            <div class="result-header">
+                <h1>🎉 Kết quả bài thi</h1>
+            </div>
+            
+            <div class="result-content">
+                <div class="score-display">
+                    <div class="score-circle">
+                        <span id="score-percentage">0%</span>
+                    </div>
+                    <p>Bạn đã trả lời đúng <span id="correct-answers">0</span>/<span id="total-answered">20</span> câu</p>
+                </div>
+                
+                <div class="result-details">
+                    <h3>Chi tiết bài làm:</h3>
+                    <div id="question-review"></div>
+                </div>
+            </div>
+            
+            <div class="result-actions">
+                <button id="new-quiz" class="btn btn-primary">Làm bài mới</button>
+                <button id="back-to-selection" class="btn btn-secondary">Về trang chủ</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
