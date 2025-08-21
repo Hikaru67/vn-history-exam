@@ -12,6 +12,89 @@ let quizConfig = {
     totalTime: 900 // 15 phút
 };
 
+// Hệ thống khích tướng
+const motivationalMessages = {
+    perfect: [
+        "🌟 HOÀN HẢO! Bạn là bậc thầy lịch sử!",
+        "🏆 100%! Không ai có thể làm tốt hơn thế này!",
+        "👑 BẬC THẦY! Kiến thức lịch sử của bạn thật đáng nể!",
+        "💎 HOÀN HẢO TUYỆT ĐỐI! Bạn xứng đáng nhận huy chương vàng!",
+        "🎯 BULLSEYE! Mọi câu trả lời đều chính xác!"
+    ],
+    excellent: [
+        "🎉 XUẤT SẮC! Bạn có kiến thức lịch sử rất vững vàng!",
+        "⭐ TÀI GIỎI! Chỉ cần một chút nữa là hoàn hảo!",
+        "🔥 RẤT TỐT! Bạn đang trên đường trở thành chuyên gia!",
+        "💪 KIÊN CƯỜNG! Kết quả này thật đáng tự hào!",
+        "🚀 PHI THƯỜNG! Bạn có tiềm năng rất lớn!",
+        "🥊 GẦN HOÀN HẢO! Đừng để 1% còn lại làm hỏng!",
+        "⚔️ CHIẾN ĐẤU! 100% đang chờ bạn!",
+        "🔥 THÁCH THỨC! Bạn có dám đạt hoàn hảo không?",
+        "⚡ BÙNG NỔ! Lịch sử đang thách thức bạn!",
+        "🎯 MỤC TIÊU! Chỉ cần 1 bước nữa là BẬC THẦY!"
+    ],
+    good: [
+        "👍 TỐT LẮM! Bạn đã hiểu rõ những điểm cơ bản!",
+        "📚 KHÁ TỐT! Hãy tiếp tục học hỏi để tiến bộ hơn!",
+        "🎯 KHÔNG TỆ! Với nỗ lực thêm, bạn sẽ xuất sắc!",
+        "💡 CÓ TIỀM NĂNG! Kiến thức của bạn đang phát triển tốt!",
+        "🌱 ĐANG PHÁT TRIỂN! Mỗi lần làm bài là một cơ hội học hỏi!",
+        "🥊 GẦN RỒI! Chỉ cần một chút nữa là hoàn hảo!",
+        "⚔️ CHIẾN ĐẤU! Đừng dừng lại ở mức này!",
+        "🔥 THÁCH THỨC! Bạn có thể làm tốt hơn nữa!",
+        "⚡ BÙNG NỔ! Lịch sử đang chờ bạn chinh phục!",
+        "🎯 MỤC TIÊU! 100% không xa đâu!"
+    ],
+    average: [
+        "📖 CẦN CỐ GẮNG! Lịch sử là kho tàng kiến thức vô tận!",
+        "🎓 HỌC HỎI! Mỗi sai lầm là bài học quý giá!",
+        "🔍 TÌM HIỂU! Hãy đào sâu hơn vào lịch sử nước nhà!",
+        "📚 NGHIÊN CỨU! Kiến thức lịch sử sẽ mở ra nhiều cánh cửa!",
+        "🌟 TIẾP TỤC! Không có gì là không thể với sự kiên trì!",
+        "🥊 KHÔNG CHẤP NHẬN! Điểm số này không xứng với bạn!",
+        "⚔️ CHIẾN ĐẤU! Lịch sử đang thách thức bạn!",
+        "🔥 THÁCH THỨC! Bạn có dám đối mặt không?",
+        "⚡ BÙNG NỔ! Đừng để lịch sử làm khó bạn!",
+        "🎯 PHỤC THÙ! Lần này phải đạt điểm cao hơn!"
+    ],
+    needsImprovement: [
+        "💪 ĐỪNG NẢN! Mỗi lần thử là một bước tiến!",
+        "🎯 KIÊN TRÌ! Lịch sử sẽ mở ra khi bạn chăm chỉ!",
+        "📚 HỌC TẬP! Hãy đọc thêm về lịch sử nước nhà!",
+        "🔍 TÌM HIỂU! Mỗi câu hỏi sai là cơ hội học hỏi!",
+        "🌟 KHÔNG BỎ CUỘC! Thành công đến từ sự kiên trì!",
+        "🥊 KHÔNG ĐẦU HÀNG! Lịch sử không thể đánh bại bạn!",
+        "⚔️ CHIẾN ĐẤU! Đừng để điểm số này làm nhục bạn!",
+        "🔥 THÁCH THỨC! Bạn có dám đối mặt với lịch sử không?",
+        "⚡ BÙNG NỔ! Lịch sử đang thách thức bạn!",
+        "🎯 PHỤC THÙ! Lần này phải chứng minh bản thân!"
+    ],
+    encouragement: [
+        "💡 MẸO: Hãy đọc kỹ câu hỏi và tất cả đáp án!",
+        "🎯 LƯU Ý: Chú ý đến các từ khóa quan trọng!",
+        "📖 GỢI Ý: Ôn lại các sự kiện lịch sử quan trọng!",
+        "🔍 TIP: Tập trung vào ngày tháng và tên người!",
+        "🌟 HINT: Liên hệ các sự kiện với nhau để nhớ tốt hơn!"
+    ],
+    comeback: [
+        "🔥 COMEBACK! Hãy thử lại và chứng minh bản thân!",
+        "⚡ PHẢN CÔNG! Lần này bạn sẽ làm tốt hơn!",
+        "🚀 BỨT PHÁ! Đây là cơ hội để vượt qua chính mình!",
+        "💪 KIÊN CƯỜNG! Thất bại là mẹ thành công!",
+        "🌟 TÁI SINH! Mỗi lần thử là một phiên bản mới!",
+        "🥊 PHỤC THÙ! Đừng để lịch sử đánh bại bạn!",
+        "⚔️ CHIẾN ĐẤU! Lịch sử đang thách thức bạn!",
+        "🎯 BÁO THÙ! Lần này phải đạt 100%!",
+        "🔥 THÁCH THỨC! Bạn có dám đối mặt không?",
+        "⚡ BÙNG NỔ! Đừng để kiến thức lịch sử làm khó bạn!",
+        "🥊 ĐÁNH BẠI! Chứng minh bạn mạnh hơn những câu hỏi này!",
+        "⚔️ CHIẾN THẮNG! Lịch sử không thể đánh bại bạn!",
+        "🎯 MỤC TIÊU! 100% hoặc không gì cả!",
+        "🔥 KHÔNG ĐẦU HÀNG! Lịch sử đang chờ bạn chinh phục!",
+        "⚡ BÙNG PHÁT! Đừng để điểm số này làm nhục bạn!"
+    ]
+};
+
 // DOM elements
 const selectionScreen = document.getElementById('selection-screen');
 const quizScreen = document.getElementById('quiz-screen');
@@ -541,11 +624,111 @@ function submitQuiz() {
     document.getElementById('correct-answers').textContent = correctCount;
     document.getElementById('total-answered').textContent = totalAnswered;
     
+    // Hiển thị khích tướng
+    displayMotivationalMessage(score, correctCount, totalAnswered);
+    
     // Hiển thị chi tiết bài làm
     displayQuestionReview();
     
     // Chuyển màn hình kết quả
     showScreen('result-screen');
+}
+
+function displayMotivationalMessage(score, correctCount, totalAnswered) {
+    const motivationContainer = document.getElementById('motivation-message');
+    if (!motivationContainer) return;
+    
+    let messageCategory = '';
+    let message = '';
+    
+    // Phân loại kết quả và chọn khích tướng phù hợp
+    if (score === 100) {
+        messageCategory = 'perfect';
+    } else if (score >= 90) {
+        messageCategory = 'excellent';
+    } else if (score >= 80) {
+        messageCategory = 'good';
+    } else if (score >= 60) {
+        messageCategory = 'average';
+    } else {
+        messageCategory = 'needsImprovement';
+    }
+    
+    // Chọn ngẫu nhiên một câu khích tướng
+    const messages = motivationalMessages[messageCategory];
+    const randomMessage = messages[Math.floor(Math.random() * messages.length)];
+    
+    // Tạo thông báo chi tiết
+    let detailedMessage = '';
+    if (score === 100) {
+        detailedMessage = `
+            <div class="motivation-header perfect">
+                <h2>${randomMessage}</h2>
+                <p>🎊 Chúc mừng! Bạn đã hoàn thành xuất sắc bài thi!</p>
+            </div>
+        `;
+    } else if (score >= 90) {
+        detailedMessage = `
+            <div class="motivation-header excellent">
+                <h2>${randomMessage}</h2>
+                <p>🎯 Chỉ cần ${100 - score}% nữa là hoàn hảo! Hãy thử lại!</p>
+            </div>
+        `;
+    } else if (score >= 80) {
+        detailedMessage = `
+            <div class="motivation-header good">
+                <h2>${randomMessage}</h2>
+                <p>📈 Kết quả tốt! Hãy cố gắng thêm để đạt điểm cao hơn!</p>
+            </div>
+        `;
+    } else if (score >= 60) {
+        detailedMessage = `
+            <div class="motivation-header average">
+                <h2>${randomMessage}</h2>
+                <p>📚 Cần cố gắng thêm! Mỗi lần làm bài là cơ hội học hỏi!</p>
+            </div>
+        `;
+    } else {
+        detailedMessage = `
+            <div class="motivation-header needs-improvement">
+                <h2>${randomMessage}</h2>
+                <p>💪 Đừng nản! Hãy thử lại và học hỏi từ những sai lầm!</p>
+            </div>
+        `;
+    }
+    
+    // Thêm gợi ý cải thiện
+    const encouragementMessages = motivationalMessages.encouragement;
+    const randomEncouragement = encouragementMessages[Math.floor(Math.random() * encouragementMessages.length)];
+    
+    detailedMessage += `
+        <div class="encouragement-tip">
+            <p>💡 <strong>Gợi ý cải thiện:</strong> ${randomEncouragement}</p>
+        </div>
+    `;
+    
+    // Thêm nút thử lại với khích tướng
+    const comebackMessages = motivationalMessages.comeback;
+    const randomComeback = comebackMessages[Math.floor(Math.random() * comebackMessages.length)];
+    
+    detailedMessage += `
+        <div class="comeback-section">
+            <p>${randomComeback}</p>
+            <button id="retry-quiz" class="btn btn-primary">🔄 Thử lại ngay!</button>
+        </div>
+    `;
+    
+    motivationContainer.innerHTML = detailedMessage;
+    
+    // Thêm event listener cho nút thử lại
+    setTimeout(() => {
+        const retryButton = document.getElementById('retry-quiz');
+        if (retryButton) {
+            retryButton.addEventListener('click', () => {
+                showScreen('selection-screen');
+            });
+        }
+    }, 100);
 }
 
 function displayQuestionReview() {

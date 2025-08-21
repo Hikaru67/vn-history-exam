@@ -593,3 +593,153 @@ body {
         font-size: 0.9rem;
     }
 }
+
+/* Khích tướng styles */
+.motivation-container {
+    margin: 30px 0;
+    padding: 25px;
+    border-radius: 15px;
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+    animation: slideInUp 0.6s ease-out;
+}
+
+.motivation-header {
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 12px;
+    color: white;
+    font-weight: bold;
+}
+
+.motivation-header.perfect {
+    background: linear-gradient(135deg, #ffd700 0%, #ffed4e 100%);
+    color: #2c3e50;
+}
+
+.motivation-header.excellent {
+    background: linear-gradient(135deg, #28a745 0%, #20c997 100%);
+}
+
+.motivation-header.good {
+    background: linear-gradient(135deg, #17a2b8 0%, #6f42c1 100%);
+}
+
+.motivation-header.average {
+    background: linear-gradient(135deg, #ffc107 0%, #fd7e14 100%);
+    color: #2c3e50;
+}
+
+.motivation-header.needs-improvement {
+    background: linear-gradient(135deg, #dc3545 0%, #e83e8c 100%);
+}
+
+.motivation-header h2 {
+    font-size: 1.8em;
+    margin-bottom: 10px;
+    text-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.motivation-header p {
+    font-size: 1.1em;
+    margin: 0;
+    opacity: 0.9;
+}
+
+.encouragement-tip {
+    background: rgba(255,255,255,0.9);
+    padding: 15px;
+    border-radius: 10px;
+    margin: 15px 0;
+    border-left: 4px solid #007bff;
+}
+
+.encouragement-tip p {
+    margin: 0;
+    color: #2c3e50;
+    font-size: 1em;
+}
+
+.comeback-section {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    background: rgba(255,255,255,0.8);
+    border-radius: 10px;
+}
+
+.comeback-section p {
+    font-size: 1.2em;
+    color: #2c3e50;
+    margin-bottom: 15px;
+    font-weight: 600;
+}
+
+#retry-quiz {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border: none;
+    padding: 12px 25px;
+    font-size: 1.1em;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+}
+
+#retry-quiz:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+}
+
+/* Animations */
+@keyframes slideInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.05);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+.motivation-container {
+    animation: slideInUp 0.6s ease-out, pulse 2s ease-in-out infinite;
+}
+
+/* Responsive cho khích tướng */
+@media (max-width: 768px) {
+    .motivation-container {
+        padding: 20px;
+        margin: 20px 0;
+    }
+    
+    .motivation-header h2 {
+        font-size: 1.5em;
+    }
+    
+    .motivation-header p {
+        font-size: 1em;
+    }
+    
+    .comeback-section p {
+        font-size: 1.1em;
+    }
+    
+    #retry-quiz {
+        padding: 10px 20px;
+        font-size: 1em;
+    }
+}
