@@ -3,21 +3,78 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Trắc Nghiệm Lịch Sử - JSON Version</title>
+    <title>Demo - Chọn số lượng câu hỏi và thời gian làm bài</title>
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        .demo-info {
+            background: #e3f2fd;
+            border: 2px solid #2196f3;
+            border-radius: 15px;
+            padding: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .demo-info h2 {
+            color: #1976d2;
+            margin-bottom: 15px;
+        }
+        
+        .demo-info ul {
+            margin-left: 20px;
+        }
+        
+        .demo-info li {
+            margin: 8px 0;
+            color: #333;
+        }
+        
+        .feature-highlight {
+            background: #fff3cd;
+            border: 2px solid #ffc107;
+            border-radius: 10px;
+            padding: 15px;
+            margin: 15px 0;
+        }
+        
+        .feature-highlight h4 {
+            color: #856404;
+            margin-bottom: 10px;
+        }
+    </style>
 </head>
 <body>
     <div class="container">
         <!-- Màn hình chọn bộ câu hỏi -->
         <div id="selection-screen" class="screen active">
             <div class="header">
-                <h1>🎯 Trắc Nghiệm Lịch Sử</h1>
+                <h1>🎯 Demo - Trắc Nghiệm Lịch Sử</h1>
                 <p>Kỷ niệm 80 năm Cách mạng Tháng 8 thành công và Quốc khánh 2/9</p>
-                <p><strong>Phiên bản JSON - Dữ liệu động</strong></p>
+                <p><strong>Phiên bản mới - Chọn số lượng câu hỏi và thời gian</strong></p>
             </div>
             
             <div class="selection-content">
+                <!-- Demo Info -->
+                <div class="demo-info">
+                    <h2>🚀 Tính năng mới được thêm:</h2>
+                    <ul>
+                        <li><strong>Chọn số lượng câu hỏi:</strong> 10, 20, 30, 50, 100 câu hoặc tùy chỉnh</li>
+                        <li><strong>Chọn thời gian mỗi câu:</strong> 30s, 45s, 1 phút, 1.5 phút, 2 phút</li>
+                        <li><strong>Tính thời gian tự động:</strong> Tổng thời gian = Số câu × Thời gian mỗi câu</li>
+                        <li><strong>Hiển thị thông tin:</strong> Tổng câu hỏi có sẵn và thời gian làm bài</li>
+                        <li><strong>Giao diện thân thiện:</strong> Dễ dàng cấu hình và theo dõi</li>
+                    </ul>
+                </div>
+
+                <div class="feature-highlight">
+                    <h4>💡 Cách sử dụng:</h4>
+                    <p>1. Chọn các phần câu hỏi bạn muốn làm</p>
+                    <p>2. Chọn số lượng câu hỏi từ dropdown hoặc nhập số tùy chỉnh</p>
+                    <p>3. Chọn thời gian cho mỗi câu hỏi</p>
+                    <p>4. Xem thời gian tổng được tính tự động</p>
+                    <p>5. Nhấn "Bắt đầu làm bài" để bắt đầu</p>
+                </div>
+                
                 <h2>Chọn bộ câu hỏi:</h2>
                 <div class="question-sets">
                     <div class="question-set">
@@ -48,6 +105,53 @@
                                 <p>Đang tải dữ liệu...</p>
                             </div>
                         </label>
+                    </div>
+                </div>
+
+                <!-- Cấu hình số lượng câu hỏi và thời gian -->
+                <div class="quiz-config">
+                    <h3>⚙️ Cấu hình bài thi:</h3>
+                    
+                    <div class="config-row">
+                        <div class="config-item">
+                            <label for="question-count">Số lượng câu hỏi:</label>
+                            <select id="question-count">
+                                <option value="10">10 câu (5 phút)</option>
+                                <option value="20" selected>20 câu (10 phút)</option>
+                                <option value="30">30 câu (15 phút)</option>
+                                <option value="50">50 câu (25 phút)</option>
+                                <option value="100">100 câu (50 phút)</option>
+                                <option value="custom">Tùy chỉnh</option>
+                            </select>
+                        </div>
+                        
+                        <div class="config-item" id="custom-config" style="display: none;">
+                            <label for="custom-count">Số câu tùy chỉnh:</label>
+                            <input type="number" id="custom-count" min="5" max="230" value="20">
+                        </div>
+                    </div>
+                    
+                    <div class="config-row">
+                        <div class="config-item">
+                            <label for="time-per-question">Thời gian mỗi câu:</label>
+                            <select id="time-per-question">
+                                <option value="30">30 giây</option>
+                                <option value="45" selected>45 giây</option>
+                                <option value="60">1 phút</option>
+                                <option value="90">1.5 phút</option>
+                                <option value="120">2 phút</option>
+                            </select>
+                        </div>
+                        
+                        <div class="config-item">
+                            <label>Tổng thời gian:</label>
+                            <span id="total-time-display">15 phút</span>
+                        </div>
+                    </div>
+                    
+                    <div class="config-info">
+                        <p>📊 <strong>Tổng câu hỏi có sẵn:</strong> <span id="total-available">0</span> câu</p>
+                        <p>⏱️ <strong>Thời gian làm bài:</strong> <span id="time-display">15 phút</span></p>
                     </div>
                 </div>
                 

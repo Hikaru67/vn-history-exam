@@ -6,6 +6,11 @@ let userAnswers = {};
 let timeLeft = 1200; // 20 phút
 let timerInterval;
 let selectedParts = [];
+let quizConfig = {
+    questionCount: 20,
+    timePerQuestion: 45, // giây
+    totalTime: 900 // 15 phút
+};
 
 // DOM elements
 const selectionScreen = document.getElementById('selection-screen');
@@ -37,6 +42,9 @@ async function loadQuestionData() {
         // Cập nhật thông tin trên giao diện
         updatePartInfo(data.parts);
         
+        // Cập nhật thông tin tổng câu hỏi có sẵn
+        updateTotalAvailable();
+        
     } catch (error) {
         console.error("Error loading question data:", error);
         // Fallback: sử dụng dữ liệu mẫu
@@ -64,6 +72,58 @@ function updatePartInfo(parts) {
     const loadingStatus = document.getElementById('loading-status');
     if (loadingStatus) {
         loadingStatus.innerHTML = '<p style="color: #28a745;">✅ Dữ liệu đã được tải thành công!</p>';
+    }
+}
+
+function updateTotalAvailable() {
+    let total = 0;
+    for (let part in questionData) {
+        total += questionData[part].length;
+    }
+    
+    const totalAvailableElement = document.getElementById('total-available');
+    if (totalAvailableElement) {
+        totalAvailableElement.textContent = total;
+    }
+    
+    // Cập nhật max value cho custom count
+    const customCountInput = document.getElementById('custom-count');
+    if (customCountInput) {
+        customCountInput.max = total;
+    }
+}
+
+function updateTimeDisplay() {
+    const questionCount = quizConfig.questionCount;
+    const timePerQuestion = quizConfig.timePerQuestion;
+    const totalTime = questionCount * timePerQuestion;
+    
+    quizConfig.totalTime = totalTime;
+    
+    // Cập nhật hiển thị thời gian
+    const timeDisplay = document.getElementById('time-display');
+    const totalTimeDisplay = document.getElementById('total-time-display');
+    
+    if (timeDisplay) {
+        timeDisplay.textContent = formatTime(totalTime);
+    }
+    if (totalTimeDisplay) {
+        totalTimeDisplay.textContent = formatTime(totalTime);
+    }
+}
+
+function formatTime(seconds) {
+    const minutes = Math.floor(seconds / 60);
+    const remainingSeconds = seconds % 60;
+    
+    if (minutes >= 60) {
+        const hours = Math.floor(minutes / 60);
+        const remainingMinutes = minutes % 60;
+        return `${hours} giờ ${remainingMinutes} phút`;
+    } else if (minutes > 0) {
+        return `${minutes} phút ${remainingSeconds > 0 ? remainingSeconds + ' giây' : ''}`;
+    } else {
+        return `${seconds} giây`;
     }
 }
 
@@ -113,6 +173,8 @@ function loadFallbackData() {
     if (loadingStatus) {
         loadingStatus.innerHTML = '<p style="color: #ffc107;">⚠️ Sử dụng dữ liệu mẫu (không thể tải JSON)</p>';
     }
+    
+    updateTotalAvailable();
 }
 
 // Event listeners
@@ -130,6 +192,9 @@ document.addEventListener('DOMContentLoaded', async function() {
     document.getElementById('select-all').addEventListener('click', selectAllParts);
     document.getElementById('start-quiz').addEventListener('click', startQuiz);
     
+    // Quiz configuration events
+    setupQuizConfigEvents();
+    
     // Quiz screen events
     document.getElementById('prev-question').addEventListener('click', previousQuestion);
     document.getElementById('next-question').addEventListener('click', nextQuestion);
@@ -146,6 +211,45 @@ document.addEventListener('DOMContentLoaded', async function() {
     
     console.log("Event listeners attached");
 });
+
+function setupQuizConfigEvents() {
+    // Question count selection
+    const questionCountSelect = document.getElementById('question-count');
+    const customConfig = document.getElementById('custom-config');
+    const customCountInput = document.getElementById('custom-count');
+    const timePerQuestionSelect = document.getElementById('time-per-question');
+    
+    if (questionCountSelect) {
+        questionCountSelect.addEventListener('change', function() {
+            const value = this.value;
+            if (value === 'custom') {
+                customConfig.style.display = 'block';
+                quizConfig.questionCount = parseInt(customCountInput.value);
+            } else {
+                customConfig.style.display = 'none';
+                quizConfig.questionCount = parseInt(value);
+            }
+            updateTimeDisplay();
+        });
+    }
+    
+    if (customCountInput) {
+        customCountInput.addEventListener('input', function() {
+            quizConfig.questionCount = parseInt(this.value) || 20;
+            updateTimeDisplay();
+        });
+    }
+    
+    if (timePerQuestionSelect) {
+        timePerQuestionSelect.addEventListener('change', function() {
+            quizConfig.timePerQuestion = parseInt(this.value);
+            updateTimeDisplay();
+        });
+    }
+    
+    // Khởi tạo hiển thị thời gian
+    updateTimeDisplay();
+}
 
 // Functions
 function updateStartButton() {
@@ -177,13 +281,30 @@ function selectAllParts() {
 
 function startQuiz() {
     console.log("startQuiz called");
+    
+    // Lấy cấu hình hiện tại
+    const questionCountSelect = document.getElementById('question-count');
+    const customCountInput = document.getElementById('custom-count');
+    const timePerQuestionSelect = document.getElementById('time-per-question');
+    
+    if (questionCountSelect.value === 'custom') {
+        quizConfig.questionCount = parseInt(customCountInput.value) || 20;
+    } else {
+        quizConfig.questionCount = parseInt(questionCountSelect.value);
+    }
+    
+    quizConfig.timePerQuestion = parseInt(timePerQuestionSelect.value);
+    quizConfig.totalTime = quizConfig.questionCount * quizConfig.timePerQuestion;
+    
     // Tạo bài thi ngẫu nhiên
     currentQuiz = generateRandomQuiz();
     currentQuestionIndex = 0;
     userAnswers = {};
-    timeLeft = 1200; // 20 phút
+    timeLeft = quizConfig.totalTime;
     
     console.log("Generated quiz with", currentQuiz.length, "questions");
+    console.log("Time per question:", quizConfig.timePerQuestion, "seconds");
+    console.log("Total time:", quizConfig.totalTime, "seconds");
     
     // Chuyển màn hình
     showScreen('quiz-screen');
@@ -198,16 +319,29 @@ function startQuiz() {
 function generateRandomQuiz() {
     let allQuestions = [];
     
-    // Lấy câu hỏi từ các phần đã chọn
+    // Thu thập tất cả câu hỏi từ các phần được chọn
     selectedParts.forEach(part => {
         if (questionData[part]) {
             allQuestions = allQuestions.concat(questionData[part]);
         }
     });
     
-    // Trộn ngẫu nhiên và lấy 20 câu
-    const shuffled = allQuestions.sort(() => 0.5 - Math.random());
-    return shuffled.slice(0, 20);
+    // Xáo trộn câu hỏi
+    allQuestions = shuffleArray(allQuestions);
+    
+    // Lấy số lượng câu hỏi theo cấu hình
+    const questionCount = Math.min(quizConfig.questionCount, allQuestions.length);
+    
+    return allQuestions.slice(0, questionCount);
+}
+
+function shuffleArray(array) {
+    const shuffled = [...array];
+    for (let i = shuffled.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    }
+    return shuffled;
 }
 
 function startTimer() {
@@ -276,27 +410,27 @@ function displayQuestion() {
 }
 
 function selectOption(event) {
-    const option = event.currentTarget;
-    const selectedOption = option.getAttribute('data-option');
+    const selectedOption = event.currentTarget;
+    const optionValue = selectedOption.getAttribute('data-option');
     
     // Kiểm tra nếu đã chọn rồi thì không cho chọn lại
     if (userAnswers[currentQuestionIndex]) {
         return;
     }
     
-    // Xóa selection cũ
-    document.querySelectorAll('.option').forEach(opt => {
-        opt.classList.remove('selected');
+    // Xóa trạng thái selected của tất cả options
+    document.querySelectorAll('.option').forEach(option => {
+        option.classList.remove('selected');
     });
     
-    // Thêm selection mới
-    option.classList.add('selected');
+    // Thêm trạng thái selected cho option được chọn
+    selectedOption.classList.add('selected');
     
     // Lưu câu trả lời
-    userAnswers[currentQuestionIndex] = selectedOption;
+    userAnswers[currentQuestionIndex] = optionValue;
     
     // Hiển thị kết quả ngay lập tức
-    showQuestionResult(selectedOption);
+    showQuestionResult(optionValue);
     
     // Tự động chuyển câu tiếp theo sau 2 giây
     setTimeout(() => {
@@ -315,10 +449,8 @@ function showQuestionResult(selectedOption) {
         const optionValue = opt.getAttribute('data-option');
         
         if (optionValue === question.correct) {
-            // Đáp án đúng - màu xanh
             opt.classList.add('correct');
         } else if (optionValue === selectedOption && !isCorrect) {
-            // Đáp án sai của user - màu đỏ
             opt.classList.add('incorrect');
         }
     });
@@ -328,25 +460,21 @@ function showQuestionResult(selectedOption) {
 }
 
 function showResultMessage(isCorrect, question) {
-    // Tạo hoặc cập nhật thông báo kết quả
-    let resultMessage = document.getElementById('result-message');
-    if (!resultMessage) {
-        resultMessage = document.createElement('div');
-        resultMessage.id = 'result-message';
-        resultMessage.style.cssText = `
-            position: fixed;
-            top: 20px;
-            right: 20px;
-            padding: 15px 20px;
-            border-radius: 8px;
-            color: white;
-            font-weight: bold;
-            z-index: 1000;
-            animation: slideIn 0.3s ease-out;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-        `;
-        document.body.appendChild(resultMessage);
-    }
+    // Tạo thông báo kết quả
+    let resultMessage = document.createElement('div');
+    resultMessage.id = 'result-message';
+    resultMessage.style.cssText = `
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        padding: 15px 20px;
+        border-radius: 8px;
+        color: white;
+        font-weight: bold;
+        z-index: 1000;
+        animation: slideIn 0.3s ease-out;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    `;
     
     if (isCorrect) {
         resultMessage.textContent = '✅ Đúng!';
@@ -355,6 +483,8 @@ function showResultMessage(isCorrect, question) {
         resultMessage.textContent = `❌ Sai! Đáp án đúng: ${question.correct}`;
         resultMessage.style.backgroundColor = '#dc3545';
     }
+    
+    document.body.appendChild(resultMessage);
     
     // Ẩn thông báo sau 2 giây
     setTimeout(() => {
@@ -384,44 +514,37 @@ function updateNavigationButtons() {
     const submitButton = document.getElementById('submit-quiz');
     
     prevButton.disabled = currentQuestionIndex === 0;
-    
-    if (currentQuestionIndex === currentQuiz.length - 1) {
-        nextButton.style.display = 'none';
-        submitButton.style.display = 'inline-block';
-    } else {
-        nextButton.style.display = 'inline-block';
-        submitButton.style.display = 'none';
-    }
+    nextButton.style.display = currentQuestionIndex === currentQuiz.length - 1 ? 'none' : 'inline-block';
+    submitButton.style.display = currentQuestionIndex === currentQuiz.length - 1 ? 'inline-block' : 'none';
 }
 
 function submitQuiz() {
     clearInterval(timerInterval);
-    showResults();
-}
-
-function showResults() {
-    const totalQuestions = currentQuiz.length;
-    const answeredQuestions = Object.keys(userAnswers).length;
-    let correctAnswers = 0;
     
-    // Tính số câu trả lời đúng
-    currentQuiz.forEach((question, index) => {
-        if (userAnswers[index] === question.correct) {
-            correctAnswers++;
+    // Tính điểm
+    let correctCount = 0;
+    let totalAnswered = 0;
+    
+    for (let i = 0; i < currentQuiz.length; i++) {
+        if (userAnswers[i]) {
+            totalAnswered++;
+            if (userAnswers[i] === currentQuiz[i].correct) {
+                correctCount++;
+            }
         }
-    });
+    }
     
-    const percentage = Math.round((correctAnswers / totalQuestions) * 100);
+    const score = totalAnswered > 0 ? Math.round((correctCount / totalAnswered) * 100) : 0;
     
     // Hiển thị kết quả
-    document.getElementById('score-percentage').textContent = percentage + '%';
-    document.getElementById('correct-answers').textContent = correctAnswers;
-    document.getElementById('total-answered').textContent = totalQuestions;
+    document.getElementById('score-percentage').textContent = score + '%';
+    document.getElementById('correct-answers').textContent = correctCount;
+    document.getElementById('total-answered').textContent = totalAnswered;
     
     // Hiển thị chi tiết bài làm
     displayQuestionReview();
     
-    // Chuyển màn hình
+    // Chuyển màn hình kết quả
     showScreen('result-screen');
 }
 
@@ -434,18 +557,20 @@ function displayQuestionReview() {
         const isCorrect = userAnswer === question.correct;
         
         const reviewItem = document.createElement('div');
-        reviewItem.className = `review-item ${isCorrect ? 'correct' : 'incorrect'}`;
+        reviewItem.className = 'review-item';
+        reviewItem.style.cssText = `
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 8px;
+            border-left: 4px solid ${isCorrect ? '#28a745' : '#dc3545'};
+            background: ${isCorrect ? '#f8fff9' : '#fff8f8'};
+        `;
         
         reviewItem.innerHTML = `
-            <div class="review-question">
-                <strong>Câu ${index + 1}:</strong> ${question.question}
-            </div>
-            <div class="review-answer">
-                <strong>Bạn chọn:</strong> ${userAnswer ? question.options[userAnswer] : 'Chưa trả lời'}
-            </div>
-            <div class="review-answer">
-                <strong>Đáp án đúng:</strong> ${question.options[question.correct]}
-            </div>
+            <h4>Câu ${index + 1}: ${isCorrect ? '✅' : '❌'}</h4>
+            <p><strong>Câu hỏi:</strong> ${question.question}</p>
+            <p><strong>Đáp án của bạn:</strong> ${userAnswer || 'Chưa trả lời'} ${userAnswer ? `(${question.options[userAnswer]})` : ''}</p>
+            <p><strong>Đáp án đúng:</strong> ${question.correct} (${question.options[question.correct]})</p>
         `;
         
         reviewContainer.appendChild(reviewItem);
@@ -463,15 +588,7 @@ function showScreen(screenId) {
 }
 
 function newQuiz() {
-    // Reset về màn hình chọn
     showScreen('selection-screen');
-    
-    // Reset các checkbox
-    document.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {
-        checkbox.checked = false;
-    });
-    
-    updateStartButton();
 }
 
 function backToSelection() {
