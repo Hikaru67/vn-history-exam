@@ -520,7 +520,7 @@ function selectOption(event) {
         if (currentQuestionIndex < currentQuiz.length - 1) {
             nextQuestion();
         }
-    }, 2000);
+    }, 500);
 }
 
 function showQuestionResult(selectedOption) {
